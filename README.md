@@ -11,6 +11,21 @@ ALPC는 코치와 함께 프로젝트를 진행하며 배우는 과정으로, �
 
 액션러닝 코치 뿐만 아니라 피코치들 상호간 깃허브를 통해 서로간의 코드를 공유하며, 자유롭게 코드리뷰 및 커맨트로 교류하는것을 적극적으로 장려합니다. 
 
+
+## Curriculum
+* python
+* node.js
+* java
+* pair programming
+* web
+* algorithm
+* data structure
+* nlp
+* machine learning
+* linux
+* agile
+
+
 ##본 과제 저장소 활용규칙에는 다음과 같은 룰이 있습니다.
 
 1) 커리큘럼에 해당하는 상위 디렉토리 내에 자신의 id로 디렉토리를 생성한다. 
