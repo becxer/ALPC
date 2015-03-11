@@ -23,7 +23,6 @@ ALPC는 코치와 함께 프로젝트를 진행하며 배우는 과정으로, �
 * nlp
 * machine learning
 * linux
-* agile
 
 
 ##본 과제 저장소 활용규칙에는 다음과 같은 룰이 있습니다.
