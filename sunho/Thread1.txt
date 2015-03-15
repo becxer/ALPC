@@ -1,0 +1,31 @@
+class MessageThread extends Thread
+{
+	String message;
+	public MessageThread(String mes, int pri)
+	{
+		message = mes;
+		setPriority(pri);
+	}
+	
+	public void run()
+	{
+		for(int i=0; i<100; i++)
+		{
+			System.out.println(message+"("+getPriority()+")");
+		}
+	}
+}
+
+class ThreadEx
+{
+	public static void main(String[] args) 
+	{
+		MessageThread mesTh1 = new MessageThread("First", Thread.MAX_PRIORITY);
+		MessageThread mesTh2 = new MessageThread("Second", Thread.NORM_PRIORITY);
+		MessageThread mesTh3 = new MessageThread("Third", Thread.MIN_PRIORITY);
+		
+		mesTh1.start();
+		mesTh2.start();
+		mesTh3.start();
+	}
+}
