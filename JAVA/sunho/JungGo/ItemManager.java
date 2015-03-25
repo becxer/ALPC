@@ -1,19 +1,36 @@
 import java.util.ArrayList;
 
 
-public class ItemManager {
-	
-	
-	//Template의 개념에 대해서 공부해보기.
+class ItemManager {
+	boolean isItem=false; //Template의 개념에 대해서 공부해보기.
 	ArrayList<String> title_list = new ArrayList<String>();
 	
-	public synchronized void saveItem(String title){
+	public void saveItem(String title){
 		title_list.add(title);
+		
+		synchronized(this){
+			notifyAll();
+		}
+			
+		
 	}
 	
-	public synchronized String getItem(){
-		return title_list.get(title_list.size()-1);
+	public String getItem(int num){
+		if(isItem==false){
+			try
+			{
+				synchronized (this) {
+					wait();
+					
+				}
+			}
+			catch(InterruptedException e){
+				e.printStackTrace();
+			}
+			
+		}
+		
+		return title_list.get(num-1);
 	}
-	
 	
 }
