@@ -16,7 +16,6 @@ class HomepageReader extends Thread {
 	String titleContents;
 	String[] first_text = null;
 	String[] second_text = null;
-	//LinkedList<String> title_list = new LinkedList<>();
 
 	public HomepageReader(ItemManager itemManager) {
 		this.item_mng = itemManager;
@@ -24,8 +23,6 @@ class HomepageReader extends Thread {
 	}
 
 	public void run() {
-		while (true) {
-
 			try {
 				url = new URL(
 						"http://www.ajou.ac.kr/kr/ajou/notice.jsp?mode=list&board_no=33&pager.offset=0");
@@ -36,8 +33,7 @@ class HomepageReader extends Thread {
 			ArrayList<String> lines_list = new ArrayList<String>();
 			String readLine = null;
 			try {
-				InputStreamReader isr = new InputStreamReader(url.openStream(),
-						"UTF-8");
+				InputStreamReader isr = new InputStreamReader(url.openStream(),"UTF-8");
 				BufferedReader br = new BufferedReader(isr);
 
 				while ((readLine = br.readLine()) != null) {
@@ -69,14 +65,12 @@ class HomepageReader extends Thread {
 					second_text = first_text[k].split("</a>");
 					item_mng.saveItem(second_text[0]);
 				}
+				item_mng.noticeWake();
 
 			} catch (IOException e) {
 				e.printStackTrace();
 			}
 
-			// item_mng.saveItem("naver cralwed");
-
-		}
 	}
 
 }

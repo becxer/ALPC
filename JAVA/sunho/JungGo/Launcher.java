@@ -3,18 +3,22 @@ public class Launcher {
 
 	public static void main(String[] args){
 		
-		ItemManager item_mng = new ItemManager();// 하나의상품 단위로 관리
+		ItemManager item_mng = new ItemManager();// 하나의상품(제목) 단위로 관리
 		
-		HomepageReader hp_thread = new HomepageReader(item_mng);// 홈페이지 읽어오기
+		HomepageReader hp_thread = new HomepageReader(item_mng);// 홈페이지 읽어오기 기능
 		
-		ShowItems si_thread = new ShowItems(item_mng);// 보여주기
+		ShowItems si_thread = new ShowItems(item_mng);// 보여주기기능
 		
 		ItemSearch item_search = new ItemSearch(item_mng);// 검색기능
-		//Gui gui = new Gui(item_mng);
+		
+		Gui gui = new Gui(item_mng, item_search);//GUI
+		
 		
 		hp_thread.start();
 		si_thread.start();
-		item_search.searchWord();
+		
+		gui.jFrame();
+		
 		
 	}
 }
