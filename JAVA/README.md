@@ -8,15 +8,15 @@ JAVA 과정입니다
 
 1) 커리큘럼에 해당하는 상위 디렉토리 내에 자신의 id로 디렉토리를 생성한다. 
 
-  예) ALPC / JAVA / honggildong
+  예) ALPC / JAVA / Becxer 
 
 2) 자신의 id 디렉토리 내에 자신의 프로젝트 이름으로 디렉토리를 생성한다. 
 
-  예) ALPC / JAVA / honggildong / WordCounter
+  예) ALPC / JAVA / Becxer / WordCounter
   
 3) 프로젝트 디렉토리내에 README.md 파일을 만들고, 그곳에 프로젝트 설명 및 실행방법을 기록한다.
 
-  예) ALPC / JAVA / honggildong / WordCounter / README.md
+  예) ALPC / JAVA / Becxer / WordCounter / README.md
 
      ---------------------READMD.md-----------------------------
 
