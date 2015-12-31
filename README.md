@@ -16,7 +16,6 @@ ALPC는 코치와 함께 프로젝트를 진행하며 배우는 과정으로, �
 * python
 * node.js
 * java
-* haskell
 * web
 * algorithm 
 * machine learning
