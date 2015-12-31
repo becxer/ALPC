@@ -17,10 +17,8 @@ ALPC는 코치와 함께 프로젝트를 진행하며 배우는 과정으로, �
 * node.js
 * java
 * haskell
-* 애자일 방법론 (xp, scrum, kanban 등)
 * web
-* algorithm
-* nlp (자연언어처리) 
+* algorithm 
 * machine learning
 * linux 활용
 
