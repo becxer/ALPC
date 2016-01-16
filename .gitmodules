@@ -1,0 +1,9 @@
+[submodule "Linux/ohhyuk/TOORM"]
+	path = Linux/ohhyuk/TOORM
+	url = https://github.com/oh4851/TOORM.git
+[submodule "MachineLearning/becxer/pytrain"]
+	path = MachineLearning/becxer/pytrain
+	url = https://github.com/becxer/pytrain.git
+[submodule "MachineLearning/junseok/M-L-Algorithm"]
+	path = MachineLearning/junseok/M-L-Algorithm
+	url = https://github.com/Soccjs/M-L-Algorithm.git
