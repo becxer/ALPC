@@ -1,0 +1,9 @@
+[submodule "LINUX/ohhyuk/ALPC"]
+	path = LINUX/ohhyuk/ALPC
+	url = https://github.com/becxer/ALPC.git
+[submodule "LINUX/ohhyuk/TOORM"]
+	path = LINUX/ohhyuk/TOORM
+	url = https://github.com/oh4851/TOORM.git
+[submodule "MachineLearning/becxer/pytrain"]
+	path = MachineLearning/becxer/pytrain
+	url = https://github.com/becxer/pytrain.git
