@@ -1,0 +1,11 @@
+ 532  vim shadow
+ 533  vim passwd
+ 534  vim issue.net
+ 535  vim issue
+ 536  clear
+ 537  exit
+ 538  ls -l
+ 539  cd ALPC
+ 540  ll
+ 541  cd Linux/
+ 542  ls -l

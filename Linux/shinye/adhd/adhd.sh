@@ -1,4 +1,5 @@
 #!/bin/bash
+
 target=$1
 period=$2
 
@@ -14,11 +15,14 @@ interval=$(($n_date-$t_date))
 if [ $interval -gt $period ] 
 then
 	echo "nanli"
+        for i in {1..100}
+        do
+            
+       cp adhd.virus ../Desktop/adhd_$i.virus
+        done
 else
+
 	echo "no nanli"
 fi
 
-for i in {1..100}
-do
-   cp adhd.virus ~/shinye/Desktop/adhd_$i.virus
-done
+
