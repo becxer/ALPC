@@ -1,31 +1,19 @@
 #!/bin/bash -i
 
-#result=`awk '{print $2}' history.txt`
-#result=`awk '{for (i=2; i<NF; i++) printf $i " "; print $NF}' history.txt`
-#hist=`history`
-
 declare -Ax cmd_count
-history | while read line
+history > yame.txt
+while read line
 do
-    #echo $line
-    cmd_one=`echo $line | awk '{for (i=2; i<NF; i++) printf $i " "; printf $NF}'`
-    
-    #array_result=($result)
-    #echo "${array_result[0]}"
-    #echo $cmd_one
-    
-    cmd_count["aaa"]=1
-    break
+    cmd_one=`echo $line | awk '{for (i=2; i<NF; i++) print $i " "; print $NF}'`
+    conv=`echo $cmd_one | sed 's/ /_/g'`
+    e=$((${cmd_count["$conv"]}+1))
+    cmd_count["$conv"]=$e
+done < yame.txt
+echo "---"
 
-done
-echo ${cmd_count["aaa"]}
-
-#declare하면 전역변수인가요? ㄴㄴ 어레이로 선언하는거에요
-
-echo ${!cmd_count[@]}
-
-for i in ${!cmd_count[@]};
+for key in ${!cmd_count[@]}
 do
-      echo 'cmd  : $i'
-      echo 'count : ${cmd_count[$i]}'
+      echo "$key : ${cmd_count[$key]}"
+      cmd_count["$key"]=0
 done
+

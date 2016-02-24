@@ -1,0 +1,1000 @@
+ 1016  ls
+ 1017  cd ohhyuk/
+ 1018  ls
+ 1019  ps
+ 1020  ps -a
+ 1021  ps -x
+ 1022  ps -u
+ 1023  clear
+ 1024  ps -u
+ 1025  ps -a
+ 1026  ps -
+ 1027  ps -x
+ 1028  ps
+ 1029  clear
+ 1030  ps
+ 1031  ps -s
+ 1032  ps -u
+ 1033  ps -x
+ 1034  ps -aux
+ 1035  clear
+ 1036  ps
+ 1037  ps -ux
+ 1038  ps
+ 1039  clear
+ 1040  ps
+ 1041  ps -u
+ 1042  ps -x
+ 1043  clear
+ 1044  top
+ 1045  htop
+ 1046  ps ux
+ 1047  ps u
+ 1048  ps x
+ 1049  ps ax
+ 1050  ps x
+ 1051  clear
+ 1052  ls
+ 1053  cd ..
+ 1054  ls
+ 1055  cd shinye/
+ 1056  ls
+ 1057  cd zoogie/
+ 1058  ls
+ 1059  vim zoogie.sh 
+ 1060  echo $DESKTOP_SESSION
+ 1061  env
+ 1062  clear
+ 1063  env | grep DESK
+ 1064  env
+ 1065  help env
+ 1066  man env
+ 1067  env 0i
+ 1068  env -i
+ 1069  env
+ 1070  byobu
+ 1071  ls
+ 1072  cd ALPC
+ 1073  ls
+ 1074  cd Linux
+ 1075  ls
+ 1076  cd shinye
+ 1077  ls
+ 1078  cd adhd
+ 1079  ls
+ 1080  adhd.sh
+ 1081  bash adhd.sh
+ 1082  cat adhd.sh
+ 1083  vim adhd.sh
+ 1084  vim README
+ 1085  vim adhd.sh
+ 1086  cd ..
+ 1087  cd sujung/
+ 1088  ll
+ 1089  cat gwajae.sh 
+ 1090  cat my_dir.sh
+ 1091  cat myhistory.sh 
+ 1092  vim gwajae.sh 
+ 1093  byobu
+ 1094  exit
+ 1095  byobu
+ 1096  echo $DESKTOP_SESSION
+ 1097  echo $XDG_CURRENT_DESKTOP
+ 1098  exit
+ 1099  top | grep "top"
+ 1100  exit
+ 1101  ls
+ 1102  cd ALPC
+ 1103  ls
+ 1104  cd MachineLearning/
+ 1105  ls
+ 1106  cd lecture/
+ 1107  ls
+ 1108  byobu
+ 1109  ls -al
+ 1110  byobu
+ 1111  byobu
+ 1112  byobu
+ 1113  exit
+ 1114  byobu
+ 1115  exit
+ 1116  top -i
+ 1117  top -i -o CPU
+ 1118  top -i -o cpu
+ 1119  top -io cpu
+ 1120  top -o cpu
+ 1121  clear
+ 1122  top o cpu
+ 1123  top -o cpu
+ 1124  top
+ 1125  clear
+ 1126  exit
+ 1127  ls
+ 1128  cd ALPC
+ 1129  ls
+ 1130  cd Linux
+ 1131  ls
+ 1132  cd shinye
+ 1133  ls
+ 1134  cd adhd
+ 1135  ls
+ 1136  vim README
+ 1137  cd alpc
+ 1138  cd ALPC
+ 1139  cd Linux
+ 1140  cd shinye
+ 1141  ls
+ 1142  cd Desktop
+ 1143  sl
+ 1144  ls
+ 1145  ..
+ 1146  ../
+ 1147  cd ..
+ 1148  ls
+ 1149  cd zoogie
+ 1150  ls
+ 1151  vim 3rd.sh
+ 1152  cim noye.sh
+ 1153  vim noye.sh
+ 1154  vim zoogie.sh
+ 1155  ls
+ 1156  cd ALPC
+ 1157  ls
+ 1158  cd Linux
+ 1159  cd shinye
+ 1160  ls
+ 1161  cd adhd
+ 1162  ls
+ 1163  vim adhd.sh
+ 1164  cd ..
+ 1165  cd..
+ 1166  cd ..
+ 1167  cd ALPC
+ 1168  cd Linux
+ 1169  cd shinye
+ 1170  ls
+ 1171  cd adhd
+ 1172  ls
+ 1173  cd adhd.virus
+ 1174  vim adhd.virus
+ 1175  cd ..
+ 1176  vim gwajae.sh 
+ 1177  ./gw
+ 1178  ./gwajae.sh 
+ 1179  ./gwajae.sh 
+ 1180  source gwajae.sh 
+ 1181  vim gwajae.sh
+ 1182  source gwajae.sh 
+ 1183  vim gwajae.sh
+ 1184  source gwajae.sh 
+ 1185  vim gwajae.sh
+ 1186  source gwajae.sh 
+ 1187  vim gwajae.sh
+ 1188  source gwajae.sh 
+ 1189  vim gwajae.sh
+ 1190  source gwajae.sh 
+ 1191  vim gwajae.sh
+ 1192  source gwajae.sh 
+ 1193  vim gwajae.sh
+ 1194  source gwajae.sh 
+ 1195  vim gwajae.sh
+ 1196  source gwajae.sh
+ 1197  vim gwajae.sh
+ 1198  source gwajae.s
+ 1199  source gwajae.sh
+ 1200  vim gwajae.sh
+ 1201  source gwajae.sh
+ 1202  vim gwajae.sh
+ 1203  source gwajae.sh
+ 1204  vim gwajae.sh
+ 1205  source gwajae.sh
+ 1206  vim gwajae.sh
+ 1207  source gwajae.sh
+ 1208  vim gwajae.sh
+ 1209  source gwajae.sh
+ 1210  vim gwajae.sh
+ 1211  source gwajae.sh
+ 1212  vim gwajae.sh
+ 1213  source gwajae.sh
+ 1214  vim gwajae.sh
+ 1215  source gwajae.sh
+ 1216  vim gwajae.sh
+ 1217  source gwajae.sh
+ 1218  vim gwajae.sh
+ 1219  source gwajae.sh
+ 1220  vim gwajae.sh
+ 1221  source gwajae.sh
+ 1222  vim gwajae.sh
+ 1223  source gwajae.sh
+ 1224  vim gwajae.sh
+ 1225  source gwajae.sh
+ 1226  source gwajae.sh
+ 1227  vim gwajae.sh
+ 1228  source gwajae.sh
+ 1229  wq
+ 1230  vim gwajae.sh
+ 1231  source gwajae.sh
+ 1232  vim gwajae.sh
+ 1233  source gwajae.sh
+ 1234  vim gwajae.sh
+ 1235  source gwajae.sh
+ 1236  vim gwajae.sh
+ 1237  source gwajae.sh
+ 1238  vim gwajae.sh
+ 1239  source gwajae.sh
+ 1240  vim gwajae.sh
+ 1241  source gwajae.sh
+ 1242  vim gwajae.sh
+ 1243  source gwajae.sh
+ 1244  vim gwajae.sh
+ 1245  source gwajae.sh
+ 1246  vim gwajae.sh
+ 1247  source gwajae.sh
+ 1248  vim gwajae.sh
+ 1249  source gwajae.sh
+ 1250  vim gwajae.sh
+ 1251  source gwajae.sh
+ 1252  vim gwajae.sh
+ 1253  source gwajae.sh
+ 1254  vim gwajae.sh
+ 1255  cd ~
+ 1256  ll
+ 1257  ls
+ 1258  clear
+ 1259  ls
+ 1260  cd ALPC/
+ 1261  ls
+ 1262  gs
+ 1263  ls
+ 1264  clear
+ 1265  exit
+ 1266  ls
+ 1267  newmap[name]=1
+ 1268  echo ${newmap[name]}
+ 1269  echo ${newmap[no]}
+ 1270  echo ${newmap[123123]}
+ 1271  echo ${newmap[ndd]}
+ 1272  echo ${newmap["ndd"]}
+ 1273  echo ${newmap['ndd']}
+ 1274  echo ${newmap['vim test.txt']}
+ 1275  echo ${newmap["vim test.txt"]}
+ 1276  newmap[vim]=9
+ 1277  newmap[vim 123.txt]=9
+ 1278  python
+ 1279  exit
+ 1280  ls
+ 1281  ls -al
+ 1282  clear
+ 1283  ?
+ 1284  cd ..
+ 1285  ll
+ 1286  cd Linux/
+ 1287  ll
+ 1288  cd sujung/
+ 1289  ll
+ 1290  vim gwajae.sh 
+ 1291  ./gwajae.sh 
+ 1292  vim gwajae.sh 
+ 1293  ls
+ 1294  cd ..
+ 1295  ls
+ 1296  cd shinye/
+ 1297  ls
+ 1298  ???
+ 1299  ls
+ 1300  cd zoogie/
+ 1301  ls
+ 1302  cd ..
+ 1303  ls
+ 1304  cd ..
+ 1305  ls
+ 1306  cd sujung/
+ 1307  ls
+ 1308  vim gwajae.sh 
+ 1309  source gwajae.sh 
+ 1310  vim gwajae.s
+ 1311  vim gwajae.sh 
+ 1312  source gwajae.sh 
+ 1313  vim gwajae.sh 
+ 1314  history
+ 1315  vim gwajae.sh 
+ 1316  source gwajae.sh 
+ 1317  vim gwajae.sh 
+ 1318  source gwajae.sh 
+ 1319  a="vim abc"
+ 1320  $a
+ 1321  echo $a
+ 1322  echo $(a[0])
+ 1323  vim gwajae.sh 
+ 1324  echo ${a[0]}
+ 1325  echo ${a[1]}
+ 1326  v={$a}
+ 1327  echo $(v[0])
+ 1328  echo ${v[0]}
+ 1329  vim gwajae.sh 
+ 1330  source gwajae.sh 
+ 1331  vim gwajae.sh 
+ 1332  source gwajae.sh 
+ 1333  vim gwajae.sh 
+ 1334  source gwajae.sh 
+ 1335  vim gwajae.sh 
+ 1336  source gwajae.sh 
+ 1337  vim gwajae.sh 
+ 1338  exit
+ 1339  ps aux | grep top
+ 1340  kill -9 13949
+ 1341  top -n 1
+ 1342  exit
+ 1343  s
+ 1344  ls
+ 1345  source gwajae.sh 
+ 1346  declare -A testArr
+ 1347  testArr["key1"]=1
+ 1348  echo ${testArr["key1"]}
+ 1349  echo ${testArr["key2"]}
+ 1350  testArr["vim 1.txt"]=1
+ 1351  testArr
+ 1352  echo ${testArr["vim 1.txt"]}
+ 1353  testArr["1"]
+ 1354  echo ${testArr["1"]}
+ 1355  testArr["1"]+=1
+ 1356  echo ${testArr["1"]}
+ 1357  echo ${testArr}
+ 1358  echo $testArr
+ 1359  echo $testArr[@]
+ 1360  echo ${testArr[@]}
+ 1361  ls
+ 1362  source gwajae.sh 
+ 1363  ls
+ 1364  echo $testArr[@]
+ 1365  echo ${!testArr[@]}
+ 1366  ah...뭐지 왜그러
+ 1367  키를 찾는거네요
+ 1368  echo ${!testArr[@]}
+ 1369  ! 붙이면 키만 찾는거
+ 1370  testArr["key1"]=1
+ 1371  testArr["key2"]=1
+ 1372  testArr["key3"]=1
+ 1373  echo ${!testArr[@]}
+ 1374  source gwajae.sh 
+ 1375  echo ${!testArr[@]}
+ 1376  source gwajae.sh 
+ 1377  ls
+ 1378  declare -A arr
+ 1379  arr["123"]=1
+ 1380  arr["123"]+=1
+ 1381  echo ${arr["123"]}
+ 1382  source gwajae.sh 
+ 1383  ㅠㅣ
+ 1384  ls
+ 1385  str="123"
+ 1386  str="abc"
+ 1387  arr[$str]=423
+ 1388  echo ${arr[$str]}
+ 1389  source gwajae.sh 
+ 1390  ehco arr[@]
+ 1391  echo arr[@]
+ 1392  echo ${arr[@]}
+ 1393  ?
+ 1394  source gwajae.sh 
+ 1395  while문 안에서 declare가 안먹는건지도 ㅎㅎ
+ 1396  source gwajae.sh 
+ 1397  벌써 시간이 많이 지났네요 -x   Mark each name for export to subsequent commands
+ 1398  혁오빠꺼 해야할듯
+ 1399  담에 해봐욤
+ 1400  source gwajae.sh 
+ 1401  cd ..
+ 1402  ls
+ 1403  cd ohhyuk/
+ 1404  ls
+ 1405  mkdir PROCESS__
+ 1406  cd PROCESS__/
+ 1407  ls
+ 1408  vim a.sh
+ 1409  clear
+ 1410  ps -ax
+ 1411  ps -axr
+ 1412  ps axr
+ 1413  clear
+ 1414  ls
+ 1415  man ps
+ 1416  top -o cpu
+ 1417  top -o | grep cpu
+ 1418  clear
+ 1419  ps -axr
+ 1420  ps -ax
+ 1421  ps -axr
+ 1422  ps -r
+ 1423  sudo ps -r
+ 1424  00pc
+ 1425  man ps
+ 1426  ps
+ 1427  ps aux
+ 1428  ps auxr
+ 1429  ps axr
+ 1430  ps ar
+ 1431  ps r
+ 1432  ps auxr
+ 1433  ps ax | sort -n -k5
+ 1434  ps ax | sort -n -k1
+ 1435  ps ax | sort -n -k2
+ 1436  ps ax | sort -n -k1
+ 1437  ps ax | sort -n -k2
+ 1438  ps ax | sort -n -k3
+ 1439  ps ax | sort -n -k1
+ 1440  ps
+ 1441  ps | sort -n
+ 1442  ps | sort -n k1
+ 1443  ps | sort -n k2
+ 1444  ps | sort -n -k2
+ 1445  ps | sort -n -k1
+ 1446  ps | sort -n -k2
+ 1447  ps | sort -n -k13
+ 1448  ps | sort -n -k3
+ 1449  ps | sort -n -k4
+ 1450  ps -a | sort -n -k4
+ 1451  ps -a | sort -n -k3
+ 1452  ps -a | sort -n -k5
+ 1453  ps -a | sort -n -k2
+ 1454  ps -a | sort -n -k6
+ 1455  ps -a | sort -n -k1
+ 1456  ps -a | sort -n
+ 1457  ps -a | sort -n2
+ 1458  ps -a | sort -nk2
+ 1459  ps -ef --sort=start_time
+ 1460  ps -ef --sort=%CPU
+ 1461  ps -ef --sort=%cpu
+ 1462  ps -ax --sort=%cpu
+ 1463  htop
+ 1464  top
+ 1465  top -o cpu
+ 1466  man top
+ 1467  htop
+ 1468  top
+ 1469  ls
+ 1470  ps
+ 1471  ps aux | grep top
+ 1472  kill -9 8655
+ 1473  ps aux | grep top
+ 1474  kill -9 10605
+ 1475  vim test.py
+ 1476  top -n 1
+ 1477  htop -n 1
+ 1478  top -l 1
+ 1479  top -n 1
+ 1480  top -n 1 | grep htop
+ 1481  exit
+ 1482  byobu
+ 1483  ls
+ 1484  su socc
+ 1485  ls
+ 1486  cp ../socc/mlstudy/LinearRegression.py ./ALPC/MachineLearning/lecture/
+ 1487  ls
+ 1488  cd ALPC/
+ 1489  ls
+ 1490  who
+ 1491  byobu
+ 1492  top
+ 1493  ls
+ 1494  top > 1.txt
+ 1495  ls
+ 1496  vim 1.txt 
+ 1497  top > 1.txt
+ 1498  ls
+ 1499  vim 1.txt 
+ 1500  htop
+ 1501  cd
+ 1502  cd ALPC/
+ 1503  cd Linux/
+ 1504  ls
+ 1505  cd shinye/
+ 1506  ls
+ 1507  mkdir duplicate
+ 1508  ls
+ 1509  cd duplicate/
+ 1510  ls
+ 1511  touch 1.txt
+ 1512  touch 1_1.txt
+ 1513  touch 1_2.txt
+ 1514  ls
+ 1515  rmdup 1.txt
+ 1516  ls
+ 1517  touch rmdup
+ 1518  ls
+ 1519  mv rmdup rmdup.sh
+ 1520  ls
+ 1521  vim rmdup.sh 
+ 1522  ls
+ 1523  wget https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj2-v-FyvzKAhWig6YKHaxSDYcQjRwIBw&url=http%3A%2F%2Fwww.sodahead.com%2Fliving%2Fdaddys-girlboy-or-mommys-girlboy%2Fquestion-34657%2F%3Fpage%3D2&bvm=bv.114195076,d.dGY&psig=AFQjCNGnw-L9doDtY01wl5SLwCRTUww4uQ&ust=1455722231361437
+ 1524  ls
+ 1525  mv url\?sa=i daddy.png
+ 1526  ls
+ 1527  vim daddy.png 
+ 1528  wget http://images.sodahead.com/polls/000034657/polls_daddy_boy_blond_5543_981702_answer_2_xlarge.jpeg
+ 1529  ls
+ 1530  rm daddy.png 
+ 1531  mv polls_daddy_boy_blond_5543_981702_answer_2_xlarge.jpeg daddy.png
+ 1532  ls
+ 1533  vim daddy.png 
+ 1534  cp daddy.png daddy(1).png 
+ 1535  cp daddy.png daddy_1.png 
+ 1536  ls
+ 1537  ls -al
+ 1538  ls
+ 1539  cat daddy.png
+ 1540  cat daddy_1.png
+ 1541  ls
+ 1542  vim rmdup.sh 
+ 1543  ls
+ 1544  cat daddy.png
+ 1545  du -k daddy.png | cut =f1
+ 1546  du -k daddy.png | cut -f1
+ 1547  ls
+ 1548  ls -al
+ 1549  du -k daddy.png
+ 1550  du -kh daddy.png
+ 1551  du -k daddy.png | cut -f1
+ 1552  du -k daddy.png
+ 1553  du daddy.png
+ 1554  man du
+ 1555  du -b daddy.png 
+ 1556  ls
+ 1557  vim rmdup.sh 
+ 1558  cat daddy.png | hd
+ 1559  cat daddy.png | h
+ 1560  man hd
+ 1561  ls
+ 1562  vim rmdup.sh 
+ 1563  exit
+ 1564  byobu
+ 1565  byobu
+ 1566  clear
+ 1567  ls
+ 1568  cd ALPC/
+ 1569  ls
+ 1570  cd Linux/
+ 1571  ls
+ 1572  exit
+ 1573  pydemon "g++ scale.cpp;./a.out;"
+ 1574  exit
+ 1575  byobu
+ 1576  ls
+ 1577  byobu
+ 1578  ls
+ 1579  cd
+ 1580  ls
+ 1581  cd ALPC
+ 1582  ls
+ 1583  gs
+ 1584  ls
+ 1585  cd Linux/
+ 1586  ls
+ 1587  cd sujung/
+ 1588  ls
+ 1589  cd ..
+ 1590  ls
+ 1591  cat README.md 
+ 1592  ls
+ 1593  cd ..
+ 1594  ls
+ 1595  cd ..
+ 1596  ls
+ 1597  cd test
+ 1598  ls
+ 1599  cd job
+ 1600  ls
+ 1601  cd ..
+ 1602  ls
+ 1603  cd scale/
+ 1604  ls
+ 1605  cd ..
+ 1606  ls
+ 1607  cd ..
+ 1608  ls
+ 1609  cd ALPC
+ 1610  ls
+ 1611  ga -A
+ 1612  gcm
+ 1613  ls
+ 1614  git push
+ 1615  ls
+ 1616  cd ..
+ 1617  ls
+ 1618  exit
+ 1619  ls
+ 1620  cd ALPC
+ 1621  ls
+ 1622  cd Linux
+ 1623  ls
+ 1624  cd shinye
+ 1625  ls
+ 1626  cd duplicate
+ 1627  ls
+ 1628  cd rmdup.sh
+ 1629  vim rmdup.sh
+ 1630  cd .
+ 1631  ls
+ 1632  cd ..
+ 1633  sl
+ 1634  ls
+ 1635  cd adhd
+ 1636  ls
+ 1637  vim adhd.sh
+ 1638  ..
+ 1639  cd ..
+ 1640  ls
+ 1641  cd duplicate
+ 1642  ls
+ 1643  vim rmdup.sh
+ 1644  cd ..
+ 1645  ls
+ 1646  cd adhd
+ 1647  ls
+ 1648  vim tobechagetime.target
+ 1649  cd ..
+ 1650  ls
+ 1651  cd Desktop
+ 1652  ls
+ 1653  cd ..
+ 1654  cd zoogie
+ 1655  ls
+ 1656  vim 3rd.sh
+ 1657  vim noye.sh
+ 1658  vim zoogie.sh
+ 1659  cd ..
+ 1660  ls
+ 1661  vim adhd
+ 1662  cd adhd
+ 1663  ls
+ 1664  vim adhd.sh
+ 1665  cd ..
+ 1666  ls
+ 1667  cd duplicate
+ 1668  ls
+ 1669  vim rmdup.sh
+ 1670  cd ALPC/Linux/
+ 1671  cd ohhyuk/
+ 1672  ls
+ 1673  cd PROCESS__/
+ 1674  ls
+ 1675  cat 1.txt 
+ 1676  clear
+ 1677  ls
+ 1678  vim a.sh 
+ 1679  ls
+ 1680  chmod 755 a.sh 
+ 1681  ls
+ 1682  ./a.sh 
+ 1683  vim a.sh 
+ 1684  byobu
+ 1685  cd ALPC/
+ 1686  cd Linux/
+ 1687  cd ohhyuk/
+ 1688  cd PROCESS__/
+ 1689  ls
+ 1690  vim a.sh 
+ 1691  ./a.sh 
+ 1692  vim a.sh 
+ 1693  ./a.sh 
+ 1694  vim a.sh 
+ 1695  ./a.sh 
+ 1696  vim a.sh 
+ 1697  ./a.sh 
+ 1698  vim a.sh 
+ 1699  ./a.sh 
+ 1700  exit
+ 1701  ls ALPC
+ 1702  cd ALPC
+ 1703  ls
+ 1704  cd Linux
+ 1705  ls
+ 1706  cd shiye
+ 1707  cd shinye
+ 1708  ls
+ 1709  cd duplicate
+ 1710  ls
+ 1711  vim rmdup.sh
+ 1712  cd ..
+ 1713  ls
+ 1714  cd zoogie
+ 1715  ls
+ 1716  vim zoogie.sh
+ 1717  ls
+ 1718  cd ..
+ 1719  ls
+ 1720  cd adhd
+ 1721  ls
+ 1722  vim tobechagetime.target
+ 1723  cd ..
+ 1724  cd Desktop
+ 1725  ls
+ 1726  cd ..
+ 1727  cd ahdd
+ 1728  cd adhd
+ 1729  ls
+ 1730  vim adhd.virus
+ 1731  cd ..
+ 1732  ls
+ 1733  cd duplicate
+ 1734  ls
+ 1735  vim rmdup.sh
+ 1736  ls .
+ 1737  vim rmdup.sh
+ 1738  cd ..
+ 1739  ls -l
+ 1740  cd ALPC
+ 1741  ll
+ 1742  cd Linux
+ 1743  ll
+ 1744  chmod 777 rmdup.sh 
+ 1745  ls
+ 1746  ./rmdup.sh 
+ 1747  ls
+ 1748  vim rmdup.sh 
+ 1749  ls
+ 1750  cd ..
+ 1751  ls
+ 1752  cd duplicate/
+ 1753  ls
+ 1754  ls -al
+ 1755  ls
+ 1756  vim rmdup.sh 
+ 1757  ./rmdup.sh 
+ 1758  find * -exec 1.txt
+ 1759  man find
+ 1760  ls
+ 1761  find . -name "*.png"
+ 1762  find . -name "*.png" -and -not -name "daddy.png"
+ 1763  kls
+ 1764  ls
+ 1765  vim 1.txt 
+ 1766  ls
+ 1767  grep 1.txt 5
+ 1768  grep 5 1.txt
+ 1769  grep 100 1.txt
+ 1770  ls | grep x
+ 1771  ls
+ 1772  ls | grep x
+ 1773  find . -name "*.png" -and -not -name "daddy.png"
+ 1774  ls -aRl
+ 1775  cd ..
+ 1776  ls
+ 1777  ls -alR
+ 1778  ls -alR | grep *.txt
+ 1779  ls -alR | grep .txt
+ 1780  ls -R | grep .txt
+ 1781  find . -name "*.txt"
+ 1782  grep .txt
+ 1783  ls
+ 1784  grep -rn ".txt"
+ 1785  man grep
+ 1786  man grep | grep -r
+ 1787  man grep | grep r
+ 1788  man grep | grep "-r"
+ 1789  man grep | grep recur
+ 1790  grep -rn ".txt"
+ 1791  grep -r ".txt"
+ 1792  find . -name -not $target
+ 1793  find . -name "*" -not $target
+ 1794  find . -name "*" -and -not -name "1.txt"
+ 1795  ls
+ 1796  cd duplicate/
+ 1797  ls
+ 1798  ./rmdup.sh 
+ 1799  jobs
+ 1800  job
+ 1801  ./rmdup.sh daddy.png
+ 1802  ps aux | grep rmdup
+ 1803  kill -9 5633
+ 1804  vim a.sh 
+ 1805  ps -axr | head -n 2 | grep "    vim"
+ 1806  vim a.sh 
+ 1807  ps -axr | head -n 2 | grep "vim"
+ 1808  ps -axr | | grep "vim"
+ 1809  ps -axr | grep "vim"
+ 1810  ps axr | grep "vim"
+ 1811  clear
+ 1812  man ps
+ 1813  clear
+ 1814  hisotry
+ 1815  history
+ 1816  history | grep "ps"
+ 1817  ps -ax --sort=%cpu
+ 1818  exit
+ 1819  vim a.sh 
+ 1820  history
+ 1821  history | grep "ps"
+ 1822  vim a.
+ 1823  exit
+ 1824  ls
+ 1825  script rmdup.sh 
+ 1826  kill -9 5634
+ 1827  ps aux | grep rmdup
+ 1828  ls
+ 1829  ./rmdup.sh 
+ 1830  ./rmdup.sh daddy.png
+ 1831  cd ..
+ 1832  cd ohhyuk/
+ 1833  cd PROCESS__/
+ 1834  vim
+ 1835  fg
+ 1836  ./a.sh 
+ 1837  exit
+ 1838  ps -ax --sort=%cpu | head -n 2 | grep "vim"
+ 1839  ps -ax --sort=%cpu | head -n 2
+ 1840  ps -ax --sort=%cpu | head -n 5
+ 1841  ps aux --sort=%cpu | head -n 5
+ 1842  ps ax --sort=%cpu | head -n 5
+ 1843  ls
+ 1844  ps ax --sort=%cpu | head -n 5
+ 1845  ps aux --sort=%cpu | head -n 5
+ 1846  ps ax --sort=%cpu | head -n 5
+ 1847  ls
+ 1848  ps ax --sort=%cpu | head -n 5
+ 1849  ls
+ 1850  ps ax --sort=%cpu | head -n 5
+ 1851  ps ax --sort=%cpu
+ 1852  ps ax --sort=%cpu -n 5
+ 1853  ps ax --sort=%cpu -l 5
+ 1854  ps ax --sort=%cpu -
+ 1855  ps ax --sort=%cpu -5
+ 1856  ps ax --sort=%cpu -i 5
+ 1857  ps ax --sort=%cpu -n 5
+ 1858  ps ax --sort=%cpu 
+ 1859  ps ax --sort=%cpu | head
+ 1860  ps ax -sort=%cpu | head
+ 1861  ps -ax --sort=%cpu | head
+ 1862  ps -ax --sort=%cpu
+ 1863  ps aux | sort -rk 3,3 | head -n 6
+ 1864  ps ax | sort -rk 3,3 | head -n 6
+ 1865  ps aux | sort -rk 3,3 | head -n 6
+ 1866  ps aux | sort -rk 3,3 | head -n 2
+ 1867  exit
+ 1868  htop
+ 1869  exit
+ 1870  ls
+ 1871  ./gwajae.sh 
+ 1872  ls
+ 1873  ./gwajae.sh 
+ 1874  source ./gwajae.sh 
+ 1875  source gwajae.sh 
+ 1876  history
+ 1877  source gwajae.sh
+ 1878  history
+ 1879  source gwajae.sh
+ 1880  history
+ 1881  source gwajae.sh
+ 1882  ls
+ 1883  vim yame.txt 
+ 1884  source gwajae.sh
+ 1885  declare -Ax test
+ 1886  test["ps aux -op"]=1
+ 1887  echo test
+ 1888  echo ${!test[@]}
+ 1889  echo ${test["ps"]}
+ 1890  echo ${test["ps aux -op"]}
+ 1891  test["ps aux -op"]=1
+ 1892  test["node"]=1
+ 1893  echo ${!test[@]}
+ 1894  source gwajae.sh
+ 1895  history
+ 1896  history | grep ?
+ 1897  source gwajae.sh
+ 1898  echo ${!test[@]}
+ 1899  echo ${test[@]}
+ 1900  echo ${!test[0]}
+ 1901  echo ${!test[1]}
+ 1902  echo ${test[1]}
+ 1903  echo ${test[0]}
+ 1904  test["ps aux -op"]=1
+ 1905  test["node"]=1
+ 1906  echo ${test["ps aux -op"]}
+ 1907  echo ${!test[@]}
+ 1908  echo ${test["ps aux -op"]}
+ 1909  for key in echo ${!test[@]};echo $key
+ 1910  for key in echo ${!test[@]};do;echo $key;done
+ 1911  for key in echo ${!test[@]};do;echo $key done
+ 1912  for key in echo ${!test[@]}; do echo $key; done
+ 1913  for key in echo (${!test[@]}); do echo $key; done
+ 1914  echo ${!test[*]}
+ 1915  for key in echo ${!test[*]}; do echo $key; done
+ 1916  for key in echo ${#test[@]}; do echo $key; done
+ 1917  for key in `echo ${!test[@]}`; do echo $key; done
+ 1918  for key in `echo ${test[N]}`; do echo $key; done
+ 1919  for key in `echo ${test[S]}`; do echo $key; done
+ 1920  for key in `echo ${test[STRING]}`; do echo $key; done
+ 1921  first="ps aux -op"
+ 1922  conv=${first/ /_}
+ 1923  echo $conv
+ 1924  conv=$(echo $first | sed 's/ /_/g')
+ 1925  echo $conv
+ 1926  ls
+ 1927  ./gwajae.sh 
+ 1928  source ./gwajae.sh 
+ 1929  ./gwajae.sh 
+ 1930  source ./gwajae.sh 
+ 1931  ls
+ 1932  vim yame.txt 
+ 1933  source ./gwajae.sh 
+ 1934  헬로월드
+ 1935  source ./gwajae.sh 
+ 1936  헬로월드
+ 1937  source ./gwajae.sh 
+ 1938  헬로월드
+ 1939  source ./gwajae.sh 
+ 1940  $test["ps"]=1
+ 1941  test["ps"]=1
+ 1942  echo $test["ps"]
+ 1943  echo ${test["ps"]}
+ 1944  test["ps"]+=1
+ 1945  echo ${test["ps"]}
+ 1946  $((${test["ps"]}+1))
+ 1947  $(($e{test["ps"]}+1)
+ 1948  $((${test["ps"]}+1)
+ 1949  $((${test["ps"]}+1))
+ 1950  $(({test["ps"]}+1))
+ 1951  $(($test["ps"]+1))
+ 1952  $((${test["ps"]}+1))
+ 1953  e=$((${test["ps"]}+1))
+ 1954  echo $e
+ 1955  source ./gwajae.sh 
+ 1956  clear
+ 1957  gs
+ 1958  clear
+ 1959  ls
+ 1960  vim yame.txt 
+ 1961  quit
+ 1962  exit
+ 1963  byobu
+ 1964  i
+ 1965  #
+ 1966  ls
+ 1967  test[ 안자 ?
+ 1968  declare -Ax test
+ 1969  test["aa"]=1
+ 1970  echo ${test["aa"]}
+ 1971  test["aa"]+=1
+ 1972  test["aa"]
+ 1973  echo ${test["aa"]}
+ 1974  $((test["aa"]+=1))
+ 1975  e=$((test["aa"]+=1))
+ 1976  echo ${test["aa"]}
+ 1977  ls
+ 1978  ./gwajae.sh 
+ 1979  source ./gwajae.sh 
+ 1980  clear
+ 1981  source ./gwajae.sh 
+ 1982  clear
+ 1983  source ./gwajae.sh 
+ 1984  qclear
+ 1985  clear
+ 1986  source ./gwajae.sh 
+ 1987  clear
+ 1988  exit
+ 1989  byobu
+ 1990  exit
+ 1991  ls
+ 1992  exit
+ 1993  ls
+ 1994  source gwajae.sh 
+ 1995  잉 됏다
+ 1996  dh
+ 1997  어
+ 1998  그러넹
+ 1999  source gwajae.sh 
+ 2000  ????????????????????????????ㅇ다아
+ 2001  아
+ 2002  declare 어레이하면
+ 2003  계속 지속되는거 같음
+ 2004  시아아아 그럼 clear해줘야겠넹 끝나면?녜
+ 2005  ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ이ㅋㅋㅋㅋ
+ 2006  source gwajae.sh 
+ 2007  쌓인당
+ 2008  자자요 ㅋㅋㅋㅋ
+ 2009  불
+ 2010  source gwajae.sh 
+ 2011  댓당
+ 2012  오호
+ 2013  source gwajae.sh 
+ 2014  ?
+ 2015  source gwajae.sh 
