@@ -18,7 +18,7 @@ def predict(alphas, b, train_mat, train_label, array_input):
     labelMatrix = mat(train_label).transpose()
     array_input = mat(array_input)
     fXi = multiply(alphas, labelMatrix).T * \
-      (dataMatrix * array_input.T) + b
+      (dataMatrix * array_input.T) + b # Wx + b 
     return sign(fXi)
 
 def smoSimple(train_mat, train_label, C, epoch):
@@ -32,14 +32,15 @@ def smoSimple(train_mat, train_label, C, epoch):
         alphaPairsChanged = 0
         for i in range(m):
             fXi = multiply(alphas, labelMatrix).T * \
-              (dataMatrix * dataMatrix[i,:].T) + b
-            Ei = fXi - labelMatrix[i]
+              (dataMatrix * dataMatrix[i,:].T) + b #  ==  W x1 + b
+            Ei = fXi - labelMatrix[i] # Error old 1
             if ((labelMatrix[i] * Ei < - 0.001 and (alphas[i] < C )) or\
               (labelMatrix[i] * Ei > 0.001 and (alphas[i] > 0))):
               j = selectJrand(i, m)
               fXj = multiply(alphas, labelMatrix).T * \
-                (dataMatrix * dataMatrix[j,:].T) + b
-              Ej = fXj - labelMatrix[j]
+                (dataMatrix * dataMatrix[j,:].T) + b # == W x2 + b
+              Ej =
+    fXj - labelMatrix[j] # Error old 2
               alphaIold = alphas[i].copy()
               alphaJold = alphas[j].copy()
               if ( labelMatrix[i] != labelMatrix[j] ):

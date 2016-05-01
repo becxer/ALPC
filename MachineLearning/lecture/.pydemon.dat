@@ -1,7 +1,14 @@
 {
     "ignore_postfix": [
         ".swp", 
-        ".log"
+        ".log", 
+        ".git", 
+        ".dat"
     ], 
-    "run_count": 13
+    "ignore_prefix": [
+        ".", 
+        "#", 
+        "~"
+    ], 
+    "run_count": 38
 }
