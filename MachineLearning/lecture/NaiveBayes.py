@@ -57,47 +57,48 @@ class NaiveBayes:
 
         best_cate_index = prob_result.argsort()[::-1][0]
         return self.cate_map[best_cate_index]
-    
-        
-        
-sample_mails = [\
-                  "hello this is virus mail",\
-                  "hi this is from friend",\
-                  "how about buy this virus",\
-                  "facebook friend contact to you",\
-                  "I love you baby virus",\
-                  "what a nice day how about you"\
-                    ]
 
-label_mail = ['spam', 'ham', 'spam', 'ham', 'spam', 'ham']
-                 
-# vector = (hello, this, is, virus, mail, friend, how, about)    
-# sentence 1 = (1,1,1,1,0,0,0,0)
-# sentence 2 = (0,1,1,0,1,0,0,0)
 
-def word_vector(voca, sentence):
-    ret = []
-    for word in voca:
-        sentence_words = sentence.split()
-        if word in sentence_words:
-            ret.append(1)
-        else:
-            ret.append(0)
-    return ret
+if __name__ == "__main__" :
 
-set_of_word = {}
+     sample_mails = [\
+                       "hello this is virus mail",\
+                       "hi this is from friend",\
+                       "how about buy this virus",\
+                       "facebook friend contact to you",\
+                       "I love you baby virus",\
+                       "what a nice day how about you"\
+                         ]
 
-for mail in sample_mails:
-    for word in mail.split():
-        set_of_word[word] = set_of_word.get(word, 0) + 1
-voca = set_of_word.keys()
+     label_mail = ['spam', 'ham', 'spam', 'ham', 'spam', 'ham']
 
-vectors = []
-for mail in sample_mails:
-    vt = word_vector(voca, mail)
-    vectors.append(vt)
+     # vector = (hello, this, is, virus, mail, friend, how, about)    
+     # sentence 1 = (1,1,1,1,0,0,0,0)
+     # sentence 2 = (0,1,1,0,1,0,0,0)
 
-nb = NaiveBayes(vectors, label_mail)
-nb.fit()
-print nb.predict(word_vector(voca, "nice a facebook this"))
+     def word_vector(voca, sentence):
+         ret = []
+         for word in voca:
+             sentence_words = sentence.split()
+             if word in sentence_words:
+                 ret.append(1)
+             else:
+                 ret.append(0)
+         return ret
+
+     set_of_word = {}
+
+     for mail in sample_mails:
+         for word in mail.split():
+             set_of_word[word] = set_of_word.get(word, 0) + 1
+     voca = set_of_word.keys()
+
+     vectors = []
+     for mail in sample_mails:
+         vt = word_vector(voca, mail)
+         vectors.append(vt)
+
+     nb = NaiveBayes(vectors, label_mail)
+     nb.fit()
+     print nb.predict(word_vector(voca, "nice a facebook this"))
 

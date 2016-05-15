@@ -938,3 +938,3215 @@ T: 2016-05-01 18:07:45 #37 Log
 ham
 T: 2016-05-01 18:07:55 #38 Log
 ham
+T: 2016-05-15 15:46:50 #39 Log
+201
+T: 2016-05-15 15:51:51 #40 Log
+201
+4137
+5517
+4896
+4449
+5356
+5780
+5802
+6030
+5700
+5816
+5830
+5843
+5513
+5588
+6099
+5681
+5522
+5508
+5872
+5416
+5374
+5169
+5163
+5213
+5327
+5314
+5589
+5721
+5561
+5961
+6071
+5739
+5699
+6069
+5957
+6086
+6292
+6043
+6114
+5948
+5525
+5190
+6079
+5950
+5245
+5313
+5474
+5738
+5394
+5732
+4864
+6030
+6040
+5831
+5592
+5704
+5875
+6256
+5329
+5405
+5481
+5292
+4950
+5106
+5152
+5139
+5092
+5598
+5835
+5969
+5616
+5958
+5803
+5411
+5678
+5024
+6062
+5829
+5842
+5456
+5256
+5272
+5876
+5780
+6081
+5387
+5255
+5415
+5404
+5242
+5322
+5439
+5216
+5824
+5999
+5801
+5600
+5701
+6348
+5627
+5094
+5639
+5935
+6035
+6085
+5701
+5213
+5866
+6137
+6093
+6808
+5697
+5677
+5866
+5571
+5464
+6128
+6197
+6425
+5696
+6316
+5149
+5289
+6067
+6251
+6415
+5723
+5690
+5791
+5545
+5348
+6566
+6375
+5505
+5988
+6427
+5883
+5899
+6395
+6398
+5701
+5882
+6014
+5947
+6595
+6654
+5914
+5490
+6203
+5711
+4454
+5560
+5745
+5402
+5712
+5834
+5595
+4969
+4764
+5303
+5455
+5778
+5951
+5303
+5365
+5790
+5355
+4996
+4675
+5153
+5549
+5335
+5561
+5040
+5154
+5196
+5101
+5234
+5381
+5287
+5336
+5651
+5685
+6011
+5396
+5419
+4978
+5475
+5623
+5634
+5600
+5233
+5198
+5471
+5044
+5057
+5605
+5853
+5419
+5416
+0
+T: 2016-05-15 15:53:01 #41 Log
+201
+Traceback (most recent call last):
+  File "APpredictor.py", line 14, in <module>
+    print len(json.load(row))
+  File "/usr/lib/python2.7/json/__init__.py", line 286, in load
+    return loads(fp.read(),
+AttributeError: 'str' object has no attribute 'read'
+T: 2016-05-15 15:53:18 #42 Log
+201
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+Traceback (most recent call last):
+  File "APpredictor.py", line 14, in <module>
+    print len(json.loads(row))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 384, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+T: 2016-05-15 15:53:26 #43 Log
+201
+Traceback (most recent call last):
+  File "APpredictor.py", line 14, in <module>
+    print len(json.dump(row))
+TypeError: dump() takes at least 2 arguments (1 given)
+T: 2016-05-15 15:54:13 #44 Log
+201
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+Traceback (most recent call last):
+  File "APpredictor.py", line 14, in <module>
+    print len(json.loads(row))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 384, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+T: 2016-05-15 15:54:45 #45 Log
+201
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+Traceback (most recent call last):
+  File "APpredictor.py", line 14, in <module>
+    print len(json.loads(row))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 384, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+T: 2016-05-15 15:56:27 #46 Log
+201
+Azone 68
+Azone 91
+Azone 81
+Azone 73
+Azone 88
+Azone 95
+Azone 96
+Azone 100
+Azone 94
+Azone 96
+Azone 97
+Azone 97
+Azone 91
+Azone 92
+Azone 101
+Azone 94
+Azone 91
+Azone 91
+Azone 97
+Azone 89
+Azone 89
+Azone 85
+Azone 85
+Azone 86
+Azone 88
+Azone 88
+Azone 92
+Azone 94
+Azone 92
+Azone 98
+Azone 100
+Azone 95
+Azone 94
+Azone 100
+Azone 98
+Azone 100
+Azone 104
+Azone 100
+Azone 101
+Azone 98
+Azone 91
+Azone 85
+Azone 100
+Azone 98
+Azone 87
+Azone 88
+Azone 91
+Azone 95
+Azone 89
+Azone 95
+Bzone 80
+Bzone 100
+Bzone 100
+Bzone 96
+Bzone 92
+Bzone 94
+Bzone 97
+Bzone 104
+Bzone 88
+Bzone 89
+Bzone 90
+Bzone 87
+Bzone 82
+Bzone 84
+Bzone 84
+Bzone 85
+Bzone 84
+Bzone 92
+Bzone 96
+Bzone 98
+Bzone 92
+Bzone 98
+Bzone 96
+Bzone 89
+Bzone 94
+Bzone 83
+Bzone 100
+Bzone 96
+Bzone 97
+Bzone 90
+Bzone 86
+Bzone 87
+Bzone 97
+Bzone 95
+Bzone 101
+Bzone 89
+Bzone 87
+Bzone 90
+Bzone 89
+Bzone 86
+Bzone 88
+Bzone 90
+Bzone 86
+Bzone 96
+Bzone 99
+Bzone 96
+Bzone 92
+Bzone 94
+Bzone 105
+Bzone 93
+Czone 84
+Czone 93
+Czone 98
+Czone 100
+Czone 101
+Czone 94
+Czone 86
+Czone 97
+Czone 101
+Czone 100
+Czone 112
+Czone 94
+Czone 94
+Czone 97
+Czone 92
+Czone 90
+Czone 101
+Czone 102
+Czone 106
+Czone 94
+Czone 104
+Czone 85
+Czone 87
+Czone 100
+Czone 103
+Czone 106
+Czone 94
+Czone 94
+Czone 96
+Czone 91
+Czone 88
+Czone 108
+Czone 105
+Czone 91
+Czone 98
+Czone 106
+Czone 97
+Czone 97
+Czone 106
+Czone 106
+Czone 94
+Czone 97
+Czone 99
+Czone 98
+Czone 108
+Czone 109
+Czone 98
+Czone 91
+Czone 103
+Czone 94
+Dzone 73
+Dzone 91
+Dzone 94
+Dzone 89
+Dzone 94
+Dzone 96
+Dzone 92
+Dzone 81
+Dzone 78
+Dzone 87
+Dzone 90
+Dzone 95
+Dzone 98
+Dzone 87
+Dzone 88
+Dzone 95
+Dzone 88
+Dzone 82
+Dzone 77
+Dzone 85
+Dzone 91
+Dzone 87
+Dzone 91
+Dzone 83
+Dzone 84
+Dzone 85
+Dzone 84
+Dzone 86
+Dzone 88
+Dzone 87
+Dzone 88
+Dzone 93
+Dzone 93
+Dzone 99
+Dzone 89
+Dzone 89
+Dzone 82
+Dzone 90
+Dzone 92
+Dzone 92
+Dzone 92
+Dzone 86
+Dzone 85
+Dzone 90
+Dzone 83
+Dzone 83
+Dzone 92
+Dzone 96
+Dzone 89
+Dzone 89
+Traceback (most recent call last):
+  File "APpredictor.py", line 14, in <module>
+    row = json.loads(row)
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 384, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+T: 2016-05-15 15:57:20 #47 Log
+200
+Azone 68
+Azone 91
+Azone 81
+Azone 73
+Azone 88
+Azone 95
+Azone 96
+Azone 100
+Azone 94
+Azone 96
+Azone 97
+Azone 97
+Azone 91
+Azone 92
+Azone 101
+Azone 94
+Azone 91
+Azone 91
+Azone 97
+Azone 89
+Azone 89
+Azone 85
+Azone 85
+Azone 86
+Azone 88
+Azone 88
+Azone 92
+Azone 94
+Azone 92
+Azone 98
+Azone 100
+Azone 95
+Azone 94
+Azone 100
+Azone 98
+Azone 100
+Azone 104
+Azone 100
+Azone 101
+Azone 98
+Azone 91
+Azone 85
+Azone 100
+Azone 98
+Azone 87
+Azone 88
+Azone 91
+Azone 95
+Azone 89
+Azone 95
+Bzone 80
+Bzone 100
+Bzone 100
+Bzone 96
+Bzone 92
+Bzone 94
+Bzone 97
+Bzone 104
+Bzone 88
+Bzone 89
+Bzone 90
+Bzone 87
+Bzone 82
+Bzone 84
+Bzone 84
+Bzone 85
+Bzone 84
+Bzone 92
+Bzone 96
+Bzone 98
+Bzone 92
+Bzone 98
+Bzone 96
+Bzone 89
+Bzone 94
+Bzone 83
+Bzone 100
+Bzone 96
+Bzone 97
+Bzone 90
+Bzone 86
+Bzone 87
+Bzone 97
+Bzone 95
+Bzone 101
+Bzone 89
+Bzone 87
+Bzone 90
+Bzone 89
+Bzone 86
+Bzone 88
+Bzone 90
+Bzone 86
+Bzone 96
+Bzone 99
+Bzone 96
+Bzone 92
+Bzone 94
+Bzone 105
+Bzone 93
+Czone 84
+Czone 93
+Czone 98
+Czone 100
+Czone 101
+Czone 94
+Czone 86
+Czone 97
+Czone 101
+Czone 100
+Czone 112
+Czone 94
+Czone 94
+Czone 97
+Czone 92
+Czone 90
+Czone 101
+Czone 102
+Czone 106
+Czone 94
+Czone 104
+Czone 85
+Czone 87
+Czone 100
+Czone 103
+Czone 106
+Czone 94
+Czone 94
+Czone 96
+Czone 91
+Czone 88
+Czone 108
+Czone 105
+Czone 91
+Czone 98
+Czone 106
+Czone 97
+Czone 97
+Czone 106
+Czone 106
+Czone 94
+Czone 97
+Czone 99
+Czone 98
+Czone 108
+Czone 109
+Czone 98
+Czone 91
+Czone 103
+Czone 94
+Dzone 73
+Dzone 91
+Dzone 94
+Dzone 89
+Dzone 94
+Dzone 96
+Dzone 92
+Dzone 81
+Dzone 78
+Dzone 87
+Dzone 90
+Dzone 95
+Dzone 98
+Dzone 87
+Dzone 88
+Dzone 95
+Dzone 88
+Dzone 82
+Dzone 77
+Dzone 85
+Dzone 91
+Dzone 87
+Dzone 91
+Dzone 83
+Dzone 84
+Dzone 85
+Dzone 84
+Dzone 86
+Dzone 88
+Dzone 87
+Dzone 88
+Dzone 93
+Dzone 93
+Dzone 99
+Dzone 89
+Dzone 89
+Dzone 82
+Dzone 90
+Dzone 92
+Dzone 92
+Dzone 92
+Dzone 86
+Dzone 85
+Dzone 90
+Dzone 83
+Dzone 83
+Dzone 92
+Dzone 96
+Dzone 89
+Dzone 89
+T: 2016-05-15 16:01:00 #48 Log
+200
+Azone 68
+Azone 91
+Azone 81
+Azone 73
+Azone 88
+Azone 95
+Azone 96
+Azone 100
+Azone 94
+Azone 96
+Azone 97
+Azone 97
+Azone 91
+Azone 92
+Azone 101
+Azone 94
+Azone 91
+Azone 91
+Azone 97
+Azone 89
+Azone 89
+Azone 85
+Azone 85
+Azone 86
+Azone 88
+Azone 88
+Azone 92
+Azone 94
+Azone 92
+Azone 98
+Azone 100
+Azone 95
+Azone 94
+Azone 100
+Azone 98
+Azone 100
+Azone 104
+Azone 100
+Azone 101
+Azone 98
+Azone 91
+Azone 85
+Azone 100
+Azone 98
+Azone 87
+Azone 88
+Azone 91
+Azone 95
+Azone 89
+Azone 95
+Bzone 80
+Bzone 100
+Bzone 100
+Bzone 96
+Bzone 92
+Bzone 94
+Bzone 97
+Bzone 104
+Bzone 88
+Bzone 89
+Bzone 90
+Bzone 87
+Bzone 82
+Bzone 84
+Bzone 84
+Bzone 85
+Bzone 84
+Bzone 92
+Bzone 96
+Bzone 98
+Bzone 92
+Bzone 98
+Bzone 96
+Bzone 89
+Bzone 94
+Bzone 83
+Bzone 100
+Bzone 96
+Bzone 97
+Bzone 90
+Bzone 86
+Bzone 87
+Bzone 97
+Bzone 95
+Bzone 101
+Bzone 89
+Bzone 87
+Bzone 90
+Bzone 89
+Bzone 86
+Bzone 88
+Bzone 90
+Bzone 86
+Bzone 96
+Bzone 99
+Bzone 96
+Bzone 92
+Bzone 94
+Bzone 105
+Bzone 93
+Czone 84
+Czone 93
+Czone 98
+Czone 100
+Czone 101
+Czone 94
+Czone 86
+Czone 97
+Czone 101
+Czone 100
+Czone 112
+Czone 94
+Czone 94
+Czone 97
+Czone 92
+Czone 90
+Czone 101
+Czone 102
+Czone 106
+Czone 94
+Czone 104
+Czone 85
+Czone 87
+Czone 100
+Czone 103
+Czone 106
+Czone 94
+Czone 94
+Czone 96
+Czone 91
+Czone 88
+Czone 108
+Czone 105
+Czone 91
+Czone 98
+Czone 106
+Czone 97
+Czone 97
+Czone 106
+Czone 106
+Czone 94
+Czone 97
+Czone 99
+Czone 98
+Czone 108
+Czone 109
+Czone 98
+Czone 91
+Czone 103
+Czone 94
+Dzone 73
+Dzone 91
+Dzone 94
+Dzone 89
+Dzone 94
+Dzone 96
+Dzone 92
+Dzone 81
+Dzone 78
+Dzone 87
+Dzone 90
+Dzone 95
+Dzone 98
+Dzone 87
+Dzone 88
+Dzone 95
+Dzone 88
+Dzone 82
+Dzone 77
+Dzone 85
+Dzone 91
+Dzone 87
+Dzone 91
+Dzone 83
+Dzone 84
+Dzone 85
+Dzone 84
+Dzone 86
+Dzone 88
+Dzone 87
+Dzone 88
+Dzone 93
+Dzone 93
+Dzone 99
+Dzone 89
+Dzone 89
+Dzone 82
+Dzone 90
+Dzone 92
+Dzone 92
+Dzone 92
+Dzone 86
+Dzone 85
+Dzone 90
+Dzone 83
+Dzone 83
+Dzone 92
+Dzone 96
+Dzone 89
+Dzone 89
+{u'g9:d9:er:74:f6:eb': 39, u'g9:d9:er:74:f6:ee': 43, u'g9:d9:er:74:f6:ed': 44, u'g9:d9:er:74:45:a4': 146, u'g9:d9:er:74:48:80': 2, u'g9:d9:er:74:02:cb': 2, u'g9:d9:er:74:e9:ee': 86, u'0c:d2:92:51:4f:0f': 109, u'g9:d9:er:74:eb:6b': 37, u'g9:d9:er:95:a0:49': 2, u'g9:d9:er:74:43:8b': 128, u'g9:d9:er:74:46:4b': 199, u'g9:d9:er:74:45:cb': 124, u'g9:d9:er:74:e9:ed': 107, u'g9:d9:er:74:e9:e9': 78, u'g9:d9:er:93:fa:49': 2, u'g9:d9:er:74:f6:e2': 22, u'g9:d9:er:74:f6:e1': 22, u'g9:d9:er:74:f6:e0': 45, u'g9:d9:er:74:30:a4': 166, u'g9:d9:er:74:f6:e9': 53, u'g9:d9:er:74:eb:60': 6, u'g9:d9:er:93:ff:00': 4, u'g9:d9:er:95:01:e0': 8, u'g9:d9:er:74:ee:2d': 118, u'g9:d9:er:74:ee:2e': 122, u'g9:d9:er:95:01:e9': 2, u'04:8d:38:06:4e:18': 138, u'g9:d9:er:93:f8:40': 11, u'90:9f:33:2c:d3:00': 84, u'g9:d9:er:95:01:6b': 2, u'g9:d9:er:74:34:cb': 196, u'g9:d9:er:74:48:89': 2, u'g9:d9:er:74:34:cd': 296, u'g9:d9:er:74:34:ce': 196, u'g9:d9:er:74:3f:0b': 194, u'g9:d9:er:74:3f:0e': 200, u'g9:d9:er:74:3f:0d': 281, u'g9:d9:er:93:7d:ab': 2, u'ac:5a:14:2f:2d:19': 105, u'g9:d9:er:74:46:4d': 281, u'g9:d9:er:74:46:4e': 199, u'g9:d9:er:74:43:8e': 149, u'g9:d9:er:74:43:8d': 188, u'g9:d9:er:74:ea:6d': 93, u'g9:d9:er:74:ea:6e': 70, u'g9:d9:er:74:ea:6b': 80, u'g9:f2:6d:a8:e7:af': 200, u'g9:d9:er:95:01:eb': 6, u'g9:d9:er:93:ff:0b': 6, u'g9:d9:er:93:ff:0e': 6, u'g9:d9:er:74:ee:29': 72, u'g9:d9:er:95:01:ee': 2, u'g9:d9:er:95:01:ed': 8, u'g9:d9:er:74:45:c2': 144, u'g9:d9:er:74:ee:20': 104, u'g9:d9:er:74:ee:21': 104, u'g9:d9:er:74:ee:22': 105, u'g9:d9:er:74:43:81': 149, u'g9:d9:er:74:43:80': 163, u'g9:d9:er:74:43:82': 149, u'g9:d9:er:74:46:42': 198, u'g9:d9:er:74:ea:69': 99, u'g9:d9:er:74:46:40': 200, u'g9:d9:er:74:46:41': 200, u'g9:d9:er:74:43:89': 119, u'g9:d9:er:74:ea:60': 76, u'g9:d9:er:74:ea:61': 52, u'g9:d9:er:74:ea:62': 54, u'g9:d9:er:74:46:49': 198, u'g9:d9:er:74:3f:09': 191, u'g9:d9:er:74:34:c0': 191, u'g9:d9:er:93:f8:41': 4, u'g9:d9:er:74:e9:eb': 81, u'g9:d9:er:74:e7:a2': 31, u'g9:d9:er:74:3f:01': 200, u'g9:d9:er:74:3f:00': 200, u'g9:d9:er:74:3f:02': 200, u'64:09:80:28:c8:52': 96, u'g9:d9:er:93:f8:4e': 31, u'g9:d9:er:74:48:8b': 2, u'g9:d9:er:93:ff:0d': 4, u'g9:d9:er:93:f8:4d': 43, u'g9:d9:er:74:e7:e9': 6, u'90:9f:33:6f:82:a6': 61, u'90:9f:33:62:ba:bc': 181, u'90:9f:33:62:ba:be': 200, u'g9:d9:er:74:e6:69': 42, u'g9:d9:er:74:4d:8b': 200, u'g9:d9:er:74:4d:8d': 310, u'g9:d9:er:74:4d:8e': 200, u'64:e5:99:64:a9:5c': 142, u'g9:d9:er:74:e7:a9': 62, u'g9:d9:er:74:34:c9': 200, u'43:1d:43:30:45:69': 118, u'g9:d9:er:74:e7:a1': 27, u'g9:d9:er:74:e7:a0': 58, u'g9:d9:er:93:f8:4b': 38, u'g9:d9:er:93:ff:09': 1, u'g9:d9:er:74:ed:e2': 89, u'g9:d9:er:74:ed:e0': 96, u'g9:d9:er:74:ed:e1': 91, u'g9:d9:er:74:3e:0d': 269, u'g9:d9:er:74:3e:0e': 197, u'g9:d9:er:74:e9:e1': 67, u'g9:d9:er:74:e6:6b': 66, u'g9:d9:er:74:38:c2': 55, u'g9:d9:er:74:eb:6d': 34, u'g9:d9:er:74:3e:0b': 193, u'g9:d9:er:74:ed:e9': 121, u'g9:d9:er:74:4d:89': 200, u'g9:d9:er:74:4d:80': 200, u'g9:d9:er:74:4d:81': 200, u'g9:d9:er:74:4d:82': 200, u'g9:d9:er:74:38:c9': 52, u'a0:63:91:de:7d:4a': 195, u'g9:d9:er:74:e9:e0': 73, u'g9:d9:er:74:ee:2b': 82, u'g9:d9:er:74:45:c9': 101, u'g9:d9:er:74:eb:69': 34, u'g9:d9:er:74:ed:ed': 178, u'g9:d9:er:74:ed:ee': 145, u'g9:d9:er:74:ed:eb': 136, u'g9:d9:er:74:3e:09': 193, u'g9:d9:er:74:e7:e0': 22, u'g9:d9:er:74:eb:61': 2, u'g9:d9:er:74:eb:6e': 20, u'g9:d9:er:74:38:cd': 65, u'g9:d9:er:74:38:ce': 54, u'g9:d9:er:74:3e:00': 162, u'g9:d9:er:74:3e:01': 159, u'g9:d9:er:74:3e:02': 157, u'g9:d9:er:74:38:c0': 62, u'g9:d9:er:93:f8:49': 33, u'g9:d9:er:74:e7:ab': 64, u'64:e5:99:64:a9:58': 180, u'g9:d9:er:74:34:a4': 187, u'g9:d9:er:93:f8:42': 4, u'g9:d9:er:74:e7:ae': 63, u'g9:d9:er:74:e7:ad': 77, u'g9:d9:er:74:38:a4': 55, u'g9:d9:er:74:30:cd': 207, u'g9:d9:er:74:30:ce': 163, u'g9:d9:er:74:30:cb': 148, u'g9:d9:er:74:49:82': 2, u'g9:d9:er:74:45:c0': 148, u'g9:d9:er:74:49:80': 2, u'g9:d9:er:74:e7:ee': 19, u'g9:d9:er:74:e7:ed': 12, u'g9:d9:er:74:e6:61': 94, u'g9:d9:er:74:e6:60': 102, u'g9:d9:er:74:e6:62': 97, u'90:9f:33:2c:cb:bc': 49, u'g9:d9:er:74:e9:e2': 66, u'43:26:66:1e:6b:a0': 156, u'g9:f2:6d:a9:05:1d': 199, u'g9:d9:er:74:34:c2': 187, u'g9:d9:er:74:38:cb': 58, u'g9:d9:er:74:fe:a2': 111, u'g9:d9:er:74:fe:a0': 113, u'g9:d9:er:74:fe:a1': 110, u'a0:63:91:de:7d:49': 200, u'g9:d9:er:74:fe:a9': 142, u'g9:d9:er:74:e7:eb': 2, u'g9:d9:er:74:eb:62': 2, u'g9:d9:er:74:48:8d': 2, u'g9:d9:er:74:45:cd': 168, u'g9:d9:er:74:45:ce': 155, u'g9:d9:er:74:30:c2': 168, u'g9:d9:er:74:49:8b': 2, u'g9:d9:er:74:30:c0': 175, u'g9:d9:er:74:e6:6e': 92, u'g9:d9:er:74:e6:6d': 87, u'g9:d9:er:74:e7:e2': 5, u'g9:d9:er:74:e7:e1': 5, u'g9:d9:er:74:30:c9': 134, u'g9:d9:er:74:fe:ad': 175, u'g9:d9:er:74:fe:ae': 144, u'g9:d9:er:74:fe:ab': 141, u'43:1d:43:10:4c:05': 46}
+T: 2016-05-15 16:02:17 #49 Log
+200
+Azone 68
+Azone 91
+Azone 81
+Azone 73
+Azone 88
+Azone 95
+Azone 96
+Azone 100
+Azone 94
+Azone 96
+Azone 97
+Azone 97
+Azone 91
+Azone 92
+Azone 101
+Azone 94
+Azone 91
+Azone 91
+Azone 97
+Azone 89
+Azone 89
+Azone 85
+Azone 85
+Azone 86
+Azone 88
+Azone 88
+Azone 92
+Azone 94
+Azone 92
+Azone 98
+Azone 100
+Azone 95
+Azone 94
+Azone 100
+Azone 98
+Azone 100
+Azone 104
+Azone 100
+Azone 101
+Azone 98
+Azone 91
+Azone 85
+Azone 100
+Azone 98
+Azone 87
+Azone 88
+Azone 91
+Azone 95
+Azone 89
+Azone 95
+Bzone 80
+Bzone 100
+Bzone 100
+Bzone 96
+Bzone 92
+Bzone 94
+Bzone 97
+Bzone 104
+Bzone 88
+Bzone 89
+Bzone 90
+Bzone 87
+Bzone 82
+Bzone 84
+Bzone 84
+Bzone 85
+Bzone 84
+Bzone 92
+Bzone 96
+Bzone 98
+Bzone 92
+Bzone 98
+Bzone 96
+Bzone 89
+Bzone 94
+Bzone 83
+Bzone 100
+Bzone 96
+Bzone 97
+Bzone 90
+Bzone 86
+Bzone 87
+Bzone 97
+Bzone 95
+Bzone 101
+Bzone 89
+Bzone 87
+Bzone 90
+Bzone 89
+Bzone 86
+Bzone 88
+Bzone 90
+Bzone 86
+Bzone 96
+Bzone 99
+Bzone 96
+Bzone 92
+Bzone 94
+Bzone 105
+Bzone 93
+Czone 84
+Czone 93
+Czone 98
+Czone 100
+Czone 101
+Czone 94
+Czone 86
+Czone 97
+Czone 101
+Czone 100
+Czone 112
+Czone 94
+Czone 94
+Czone 97
+Czone 92
+Czone 90
+Czone 101
+Czone 102
+Czone 106
+Czone 94
+Czone 104
+Czone 85
+Czone 87
+Czone 100
+Czone 103
+Czone 106
+Czone 94
+Czone 94
+Czone 96
+Czone 91
+Czone 88
+Czone 108
+Czone 105
+Czone 91
+Czone 98
+Czone 106
+Czone 97
+Czone 97
+Czone 106
+Czone 106
+Czone 94
+Czone 97
+Czone 99
+Czone 98
+Czone 108
+Czone 109
+Czone 98
+Czone 91
+Czone 103
+Czone 94
+Dzone 73
+Dzone 91
+Dzone 94
+Dzone 89
+Dzone 94
+Dzone 96
+Dzone 92
+Dzone 81
+Dzone 78
+Dzone 87
+Dzone 90
+Dzone 95
+Dzone 98
+Dzone 87
+Dzone 88
+Dzone 95
+Dzone 88
+Dzone 82
+Dzone 77
+Dzone 85
+Dzone 91
+Dzone 87
+Dzone 91
+Dzone 83
+Dzone 84
+Dzone 85
+Dzone 84
+Dzone 86
+Dzone 88
+Dzone 87
+Dzone 88
+Dzone 93
+Dzone 93
+Dzone 99
+Dzone 89
+Dzone 89
+Dzone 82
+Dzone 90
+Dzone 92
+Dzone 92
+Dzone 92
+Dzone 86
+Dzone 85
+Dzone 90
+Dzone 83
+Dzone 83
+Dzone 92
+Dzone 96
+Dzone 89
+Dzone 89
+{u'g9:d9:er:74:f6:eb': 39, u'g9:d9:er:74:f6:ee': 43, u'g9:d9:er:74:f6:ed': 44, u'g9:d9:er:74:45:a4': 146, u'g9:d9:er:74:48:80': 2, u'g9:d9:er:74:02:cb': 2, u'g9:d9:er:74:e9:ee': 86, u'0c:d2:92:51:4f:0f': 109, u'g9:d9:er:74:eb:6b': 37, u'g9:d9:er:95:a0:49': 2, u'g9:d9:er:74:43:8b': 128, u'g9:d9:er:74:46:4b': 199, u'g9:d9:er:74:45:cb': 124, u'g9:d9:er:74:e9:ed': 107, u'g9:d9:er:74:e9:e9': 78, u'g9:d9:er:93:fa:49': 2, u'g9:d9:er:74:f6:e2': 22, u'g9:d9:er:74:f6:e1': 22, u'g9:d9:er:74:f6:e0': 45, u'g9:d9:er:74:30:a4': 166, u'g9:d9:er:74:f6:e9': 53, u'g9:d9:er:74:eb:60': 6, u'g9:d9:er:93:ff:00': 4, u'g9:d9:er:95:01:e0': 8, u'g9:d9:er:74:ee:2d': 118, u'g9:d9:er:74:ee:2e': 122, u'g9:d9:er:95:01:e9': 2, u'04:8d:38:06:4e:18': 138, u'g9:d9:er:93:f8:40': 11, u'90:9f:33:2c:d3:00': 84, u'g9:d9:er:95:01:6b': 2, u'g9:d9:er:74:34:cb': 196, u'g9:d9:er:74:48:89': 2, u'g9:d9:er:74:34:cd': 296, u'g9:d9:er:74:34:ce': 196, u'g9:d9:er:74:3f:0b': 194, u'g9:d9:er:74:3f:0e': 200, u'g9:d9:er:74:3f:0d': 281, u'g9:d9:er:93:7d:ab': 2, u'ac:5a:14:2f:2d:19': 105, u'g9:d9:er:74:46:4d': 281, u'g9:d9:er:74:46:4e': 199, u'g9:d9:er:74:43:8e': 149, u'g9:d9:er:74:43:8d': 188, u'g9:d9:er:74:ea:6d': 93, u'g9:d9:er:74:ea:6e': 70, u'g9:d9:er:74:ea:6b': 80, u'g9:f2:6d:a8:e7:af': 200, u'g9:d9:er:95:01:eb': 6, u'g9:d9:er:93:ff:0b': 6, u'g9:d9:er:93:ff:0e': 6, u'g9:d9:er:74:ee:29': 72, u'g9:d9:er:95:01:ee': 2, u'g9:d9:er:95:01:ed': 8, u'g9:d9:er:74:45:c2': 144, u'g9:d9:er:74:ee:20': 104, u'g9:d9:er:74:ee:21': 104, u'g9:d9:er:74:ee:22': 105, u'g9:d9:er:74:43:81': 149, u'g9:d9:er:74:43:80': 163, u'g9:d9:er:74:43:82': 149, u'g9:d9:er:74:46:42': 198, u'g9:d9:er:74:ea:69': 99, u'g9:d9:er:74:46:40': 200, u'g9:d9:er:74:46:41': 200, u'g9:d9:er:74:43:89': 119, u'g9:d9:er:74:ea:60': 76, u'g9:d9:er:74:ea:61': 52, u'g9:d9:er:74:ea:62': 54, u'g9:d9:er:74:46:49': 198, u'g9:d9:er:74:3f:09': 191, u'g9:d9:er:74:34:c0': 191, u'g9:d9:er:93:f8:41': 4, u'g9:d9:er:74:e9:eb': 81, u'g9:d9:er:74:e7:a2': 31, u'g9:d9:er:74:3f:01': 200, u'g9:d9:er:74:3f:00': 200, u'g9:d9:er:74:3f:02': 200, u'64:09:80:28:c8:52': 96, u'g9:d9:er:93:f8:4e': 31, u'g9:d9:er:74:48:8b': 2, u'g9:d9:er:93:ff:0d': 4, u'g9:d9:er:93:f8:4d': 43, u'g9:d9:er:74:e7:e9': 6, u'90:9f:33:6f:82:a6': 61, u'90:9f:33:62:ba:bc': 181, u'90:9f:33:62:ba:be': 200, u'g9:d9:er:74:e6:69': 42, u'g9:d9:er:74:4d:8b': 200, u'g9:d9:er:74:4d:8d': 310, u'g9:d9:er:74:4d:8e': 200, u'64:e5:99:64:a9:5c': 142, u'g9:d9:er:74:e7:a9': 62, u'g9:d9:er:74:34:c9': 200, u'43:1d:43:30:45:69': 118, u'g9:d9:er:74:e7:a1': 27, u'g9:d9:er:74:e7:a0': 58, u'g9:d9:er:93:f8:4b': 38, u'g9:d9:er:93:ff:09': 1, u'g9:d9:er:74:ed:e2': 89, u'g9:d9:er:74:ed:e0': 96, u'g9:d9:er:74:ed:e1': 91, u'g9:d9:er:74:3e:0d': 269, u'g9:d9:er:74:3e:0e': 197, u'g9:d9:er:74:e9:e1': 67, u'g9:d9:er:74:e6:6b': 66, u'g9:d9:er:74:38:c2': 55, u'g9:d9:er:74:eb:6d': 34, u'g9:d9:er:74:3e:0b': 193, u'g9:d9:er:74:ed:e9': 121, u'g9:d9:er:74:4d:89': 200, u'g9:d9:er:74:4d:80': 200, u'g9:d9:er:74:4d:81': 200, u'g9:d9:er:74:4d:82': 200, u'g9:d9:er:74:38:c9': 52, u'a0:63:91:de:7d:4a': 195, u'g9:d9:er:74:e9:e0': 73, u'g9:d9:er:74:ee:2b': 82, u'g9:d9:er:74:45:c9': 101, u'g9:d9:er:74:eb:69': 34, u'g9:d9:er:74:ed:ed': 178, u'g9:d9:er:74:ed:ee': 145, u'g9:d9:er:74:ed:eb': 136, u'g9:d9:er:74:3e:09': 193, u'g9:d9:er:74:e7:e0': 22, u'g9:d9:er:74:eb:61': 2, u'g9:d9:er:74:eb:6e': 20, u'g9:d9:er:74:38:cd': 65, u'g9:d9:er:74:38:ce': 54, u'g9:d9:er:74:3e:00': 162, u'g9:d9:er:74:3e:01': 159, u'g9:d9:er:74:3e:02': 157, u'g9:d9:er:74:38:c0': 62, u'g9:d9:er:93:f8:49': 33, u'g9:d9:er:74:e7:ab': 64, u'64:e5:99:64:a9:58': 180, u'g9:d9:er:74:34:a4': 187, u'g9:d9:er:93:f8:42': 4, u'g9:d9:er:74:e7:ae': 63, u'g9:d9:er:74:e7:ad': 77, u'g9:d9:er:74:38:a4': 55, u'g9:d9:er:74:30:cd': 207, u'g9:d9:er:74:30:ce': 163, u'g9:d9:er:74:30:cb': 148, u'g9:d9:er:74:49:82': 2, u'g9:d9:er:74:45:c0': 148, u'g9:d9:er:74:49:80': 2, u'g9:d9:er:74:e7:ee': 19, u'g9:d9:er:74:e7:ed': 12, u'g9:d9:er:74:e6:61': 94, u'g9:d9:er:74:e6:60': 102, u'g9:d9:er:74:e6:62': 97, u'90:9f:33:2c:cb:bc': 49, u'g9:d9:er:74:e9:e2': 66, u'43:26:66:1e:6b:a0': 156, u'g9:f2:6d:a9:05:1d': 199, u'g9:d9:er:74:34:c2': 187, u'g9:d9:er:74:38:cb': 58, u'g9:d9:er:74:fe:a2': 111, u'g9:d9:er:74:fe:a0': 113, u'g9:d9:er:74:fe:a1': 110, u'a0:63:91:de:7d:49': 200, u'g9:d9:er:74:fe:a9': 142, u'g9:d9:er:74:e7:eb': 2, u'g9:d9:er:74:eb:62': 2, u'g9:d9:er:74:48:8d': 2, u'g9:d9:er:74:45:cd': 168, u'g9:d9:er:74:45:ce': 155, u'g9:d9:er:74:30:c2': 168, u'g9:d9:er:74:49:8b': 2, u'g9:d9:er:74:30:c0': 175, u'g9:d9:er:74:e6:6e': 92, u'g9:d9:er:74:e6:6d': 87, u'g9:d9:er:74:e7:e2': 5, u'g9:d9:er:74:e7:e1': 5, u'g9:d9:er:74:30:c9': 134, u'g9:d9:er:74:fe:ad': 175, u'g9:d9:er:74:fe:ae': 144, u'g9:d9:er:74:fe:ab': 141, u'43:1d:43:10:4c:05': 46}
+[u'g9:d9:er:74:f6:eb', u'g9:d9:er:74:f6:ee', u'g9:d9:er:74:f6:ed', u'g9:d9:er:74:45:a4', u'g9:d9:er:74:48:80', u'g9:d9:er:74:02:cb', u'g9:d9:er:74:e9:ee', u'0c:d2:92:51:4f:0f', u'g9:d9:er:74:eb:6b', u'g9:d9:er:95:a0:49', u'g9:d9:er:74:43:8b', u'g9:d9:er:74:46:4b', u'g9:d9:er:74:45:cb', u'g9:d9:er:74:e9:ed', u'g9:d9:er:74:e9:e9', u'g9:d9:er:93:fa:49', u'g9:d9:er:74:f6:e2', u'g9:d9:er:74:f6:e1', u'g9:d9:er:74:f6:e0', u'g9:d9:er:74:30:a4', u'g9:d9:er:74:f6:e9', u'g9:d9:er:74:eb:60', u'g9:d9:er:93:ff:00', u'g9:d9:er:95:01:e0', u'g9:d9:er:74:ee:2d', u'g9:d9:er:74:ee:2e', u'g9:d9:er:95:01:e9', u'04:8d:38:06:4e:18', u'g9:d9:er:93:f8:40', u'90:9f:33:2c:d3:00', u'g9:d9:er:95:01:6b', u'g9:d9:er:74:34:cb', u'g9:d9:er:74:48:89', u'g9:d9:er:74:34:cd', u'g9:d9:er:74:34:ce', u'g9:d9:er:74:3f:0b', u'g9:d9:er:74:3f:0e', u'g9:d9:er:74:3f:0d', u'g9:d9:er:93:7d:ab', u'ac:5a:14:2f:2d:19', u'g9:d9:er:74:46:4d', u'g9:d9:er:74:46:4e', u'g9:d9:er:74:43:8e', u'g9:d9:er:74:43:8d', u'g9:d9:er:74:ea:6d', u'g9:d9:er:74:ea:6e', u'g9:d9:er:74:ea:6b', u'g9:f2:6d:a8:e7:af', u'g9:d9:er:95:01:eb', u'g9:d9:er:93:ff:0b', u'g9:d9:er:93:ff:0e', u'g9:d9:er:74:ee:29', u'g9:d9:er:95:01:ee', u'g9:d9:er:95:01:ed', u'g9:d9:er:74:45:c2', u'g9:d9:er:74:ee:20', u'g9:d9:er:74:ee:21', u'g9:d9:er:74:ee:22', u'g9:d9:er:74:43:81', u'g9:d9:er:74:43:80', u'g9:d9:er:74:43:82', u'g9:d9:er:74:46:42', u'g9:d9:er:74:ea:69', u'g9:d9:er:74:46:40', u'g9:d9:er:74:46:41', u'g9:d9:er:74:43:89', u'g9:d9:er:74:ea:60', u'g9:d9:er:74:ea:61', u'g9:d9:er:74:ea:62', u'g9:d9:er:74:46:49', u'g9:d9:er:74:3f:09', u'g9:d9:er:74:34:c0', u'g9:d9:er:93:f8:41', u'g9:d9:er:74:e9:eb', u'g9:d9:er:74:e7:a2', u'g9:d9:er:74:3f:01', u'g9:d9:er:74:3f:00', u'g9:d9:er:74:3f:02', u'64:09:80:28:c8:52', u'g9:d9:er:93:f8:4e', u'g9:d9:er:74:48:8b', u'g9:d9:er:93:ff:0d', u'g9:d9:er:93:f8:4d', u'g9:d9:er:74:e7:e9', u'90:9f:33:6f:82:a6', u'90:9f:33:62:ba:bc', u'90:9f:33:62:ba:be', u'g9:d9:er:74:e6:69', u'g9:d9:er:74:4d:8b', u'g9:d9:er:74:4d:8d', u'g9:d9:er:74:4d:8e', u'64:e5:99:64:a9:5c', u'g9:d9:er:74:e7:a9', u'g9:d9:er:74:34:c9', u'43:1d:43:30:45:69', u'g9:d9:er:74:e7:a1', u'g9:d9:er:74:e7:a0', u'g9:d9:er:93:f8:4b', u'g9:d9:er:93:ff:09', u'g9:d9:er:74:ed:e2', u'g9:d9:er:74:ed:e0', u'g9:d9:er:74:ed:e1', u'g9:d9:er:74:3e:0d', u'g9:d9:er:74:3e:0e', u'g9:d9:er:74:e9:e1', u'g9:d9:er:74:e6:6b', u'g9:d9:er:74:38:c2', u'g9:d9:er:74:eb:6d', u'g9:d9:er:74:3e:0b', u'g9:d9:er:74:ed:e9', u'g9:d9:er:74:4d:89', u'g9:d9:er:74:4d:80', u'g9:d9:er:74:4d:81', u'g9:d9:er:74:4d:82', u'g9:d9:er:74:38:c9', u'a0:63:91:de:7d:4a', u'g9:d9:er:74:e9:e0', u'g9:d9:er:74:ee:2b', u'g9:d9:er:74:45:c9', u'g9:d9:er:74:eb:69', u'g9:d9:er:74:ed:ed', u'g9:d9:er:74:ed:ee', u'g9:d9:er:74:ed:eb', u'g9:d9:er:74:3e:09', u'g9:d9:er:74:e7:e0', u'g9:d9:er:74:eb:61', u'g9:d9:er:74:eb:6e', u'g9:d9:er:74:38:cd', u'g9:d9:er:74:38:ce', u'g9:d9:er:74:3e:00', u'g9:d9:er:74:3e:01', u'g9:d9:er:74:3e:02', u'g9:d9:er:74:38:c0', u'g9:d9:er:93:f8:49', u'g9:d9:er:74:e7:ab', u'64:e5:99:64:a9:58', u'g9:d9:er:74:34:a4', u'g9:d9:er:93:f8:42', u'g9:d9:er:74:e7:ae', u'g9:d9:er:74:e7:ad', u'g9:d9:er:74:38:a4', u'g9:d9:er:74:30:cd', u'g9:d9:er:74:30:ce', u'g9:d9:er:74:30:cb', u'g9:d9:er:74:49:82', u'g9:d9:er:74:45:c0', u'g9:d9:er:74:49:80', u'g9:d9:er:74:e7:ee', u'g9:d9:er:74:e7:ed', u'g9:d9:er:74:e6:61', u'g9:d9:er:74:e6:60', u'g9:d9:er:74:e6:62', u'90:9f:33:2c:cb:bc', u'g9:d9:er:74:e9:e2', u'43:26:66:1e:6b:a0', u'g9:f2:6d:a9:05:1d', u'g9:d9:er:74:34:c2', u'g9:d9:er:74:38:cb', u'g9:d9:er:74:fe:a2', u'g9:d9:er:74:fe:a0', u'g9:d9:er:74:fe:a1', u'a0:63:91:de:7d:49', u'g9:d9:er:74:fe:a9', u'g9:d9:er:74:e7:eb', u'g9:d9:er:74:eb:62', u'g9:d9:er:74:48:8d', u'g9:d9:er:74:45:cd', u'g9:d9:er:74:45:ce', u'g9:d9:er:74:30:c2', u'g9:d9:er:74:49:8b', u'g9:d9:er:74:30:c0', u'g9:d9:er:74:e6:6e', u'g9:d9:er:74:e6:6d', u'g9:d9:er:74:e7:e2', u'g9:d9:er:74:e7:e1', u'g9:d9:er:74:30:c9', u'g9:d9:er:74:fe:ad', u'g9:d9:er:74:fe:ae', u'g9:d9:er:74:fe:ab', u'43:1d:43:10:4c:05']
+T: 2016-05-15 16:12:05 #50 Log
+200
+Azone 68
+Azone 91
+Azone 81
+Azone 73
+Azone 88
+Azone 95
+Azone 96
+Azone 100
+Azone 94
+Azone 96
+Azone 97
+Azone 97
+Azone 91
+Azone 92
+Azone 101
+Azone 94
+Azone 91
+Azone 91
+Azone 97
+Azone 89
+Azone 89
+Azone 85
+Azone 85
+Azone 86
+Azone 88
+Azone 88
+Azone 92
+Azone 94
+Azone 92
+Azone 98
+Azone 100
+Azone 95
+Azone 94
+Azone 100
+Azone 98
+Azone 100
+Azone 104
+Azone 100
+Azone 101
+Azone 98
+Azone 91
+Azone 85
+Azone 100
+Azone 98
+Azone 87
+Azone 88
+Azone 91
+Azone 95
+Azone 89
+Azone 95
+Bzone 80
+Bzone 100
+Bzone 100
+Bzone 96
+Bzone 92
+Bzone 94
+Bzone 97
+Bzone 104
+Bzone 88
+Bzone 89
+Bzone 90
+Bzone 87
+Bzone 82
+Bzone 84
+Bzone 84
+Bzone 85
+Bzone 84
+Bzone 92
+Bzone 96
+Bzone 98
+Bzone 92
+Bzone 98
+Bzone 96
+Bzone 89
+Bzone 94
+Bzone 83
+Bzone 100
+Bzone 96
+Bzone 97
+Bzone 90
+Bzone 86
+Bzone 87
+Bzone 97
+Bzone 95
+Bzone 101
+Bzone 89
+Bzone 87
+Bzone 90
+Bzone 89
+Bzone 86
+Bzone 88
+Bzone 90
+Bzone 86
+Bzone 96
+Bzone 99
+Bzone 96
+Bzone 92
+Bzone 94
+Bzone 105
+Bzone 93
+Czone 84
+Czone 93
+Czone 98
+Czone 100
+Czone 101
+Czone 94
+Czone 86
+Czone 97
+Czone 101
+Czone 100
+Czone 112
+Czone 94
+Czone 94
+Czone 97
+Czone 92
+Czone 90
+Czone 101
+Czone 102
+Czone 106
+Czone 94
+Czone 104
+Czone 85
+Czone 87
+Czone 100
+Czone 103
+Czone 106
+Czone 94
+Czone 94
+Czone 96
+Czone 91
+Czone 88
+Czone 108
+Czone 105
+Czone 91
+Czone 98
+Czone 106
+Czone 97
+Czone 97
+Czone 106
+Czone 106
+Czone 94
+Czone 97
+Czone 99
+Czone 98
+Czone 108
+Czone 109
+Czone 98
+Czone 91
+Czone 103
+Czone 94
+Dzone 73
+Dzone 91
+Dzone 94
+Dzone 89
+Dzone 94
+Dzone 96
+Dzone 92
+Dzone 81
+Dzone 78
+Dzone 87
+Dzone 90
+Dzone 95
+Dzone 98
+Dzone 87
+Dzone 88
+Dzone 95
+Dzone 88
+Dzone 82
+Dzone 77
+Dzone 85
+Dzone 91
+Dzone 87
+Dzone 91
+Dzone 83
+Dzone 84
+Dzone 85
+Dzone 84
+Dzone 86
+Dzone 88
+Dzone 87
+Dzone 88
+Dzone 93
+Dzone 93
+Dzone 99
+Dzone 89
+Dzone 89
+Dzone 82
+Dzone 90
+Dzone 92
+Dzone 92
+Dzone 92
+Dzone 86
+Dzone 85
+Dzone 90
+Dzone 83
+Dzone 83
+Dzone 92
+Dzone 96
+Dzone 89
+Dzone 89
+{u'g9:d9:er:74:f6:eb': 39, u'g9:d9:er:74:f6:ee': 43, u'g9:d9:er:74:f6:ed': 44, u'g9:d9:er:74:45:a4': 146, u'g9:d9:er:74:48:80': 2, u'g9:d9:er:74:02:cb': 2, u'g9:d9:er:74:e9:ee': 86, u'0c:d2:92:51:4f:0f': 109, u'g9:d9:er:74:eb:6b': 37, u'g9:d9:er:95:a0:49': 2, u'g9:d9:er:74:43:8b': 128, u'g9:d9:er:74:46:4b': 199, u'g9:d9:er:74:45:cb': 124, u'g9:d9:er:74:e9:ed': 107, u'g9:d9:er:74:e9:e9': 78, u'g9:d9:er:93:fa:49': 2, u'g9:d9:er:74:f6:e2': 22, u'g9:d9:er:74:f6:e1': 22, u'g9:d9:er:74:f6:e0': 45, u'g9:d9:er:74:30:a4': 166, u'g9:d9:er:74:f6:e9': 53, u'g9:d9:er:74:eb:60': 6, u'g9:d9:er:93:ff:00': 4, u'g9:d9:er:95:01:e0': 8, u'g9:d9:er:74:ee:2d': 118, u'g9:d9:er:74:ee:2e': 122, u'g9:d9:er:95:01:e9': 2, u'04:8d:38:06:4e:18': 138, u'g9:d9:er:93:f8:40': 11, u'90:9f:33:2c:d3:00': 84, u'g9:d9:er:95:01:6b': 2, u'g9:d9:er:74:34:cb': 196, u'g9:d9:er:74:48:89': 2, u'g9:d9:er:74:34:cd': 296, u'g9:d9:er:74:34:ce': 196, u'g9:d9:er:74:3f:0b': 194, u'g9:d9:er:74:3f:0e': 200, u'g9:d9:er:74:3f:0d': 281, u'g9:d9:er:93:7d:ab': 2, u'ac:5a:14:2f:2d:19': 105, u'g9:d9:er:74:46:4d': 281, u'g9:d9:er:74:46:4e': 199, u'g9:d9:er:74:43:8e': 149, u'g9:d9:er:74:43:8d': 188, u'g9:d9:er:74:ea:6d': 93, u'g9:d9:er:74:ea:6e': 70, u'g9:d9:er:74:ea:6b': 80, u'g9:f2:6d:a8:e7:af': 200, u'g9:d9:er:95:01:eb': 6, u'g9:d9:er:93:ff:0b': 6, u'g9:d9:er:93:ff:0e': 6, u'g9:d9:er:74:ee:29': 72, u'g9:d9:er:95:01:ee': 2, u'g9:d9:er:95:01:ed': 8, u'g9:d9:er:74:45:c2': 144, u'g9:d9:er:74:ee:20': 104, u'g9:d9:er:74:ee:21': 104, u'g9:d9:er:74:ee:22': 105, u'g9:d9:er:74:43:81': 149, u'g9:d9:er:74:43:80': 163, u'g9:d9:er:74:43:82': 149, u'g9:d9:er:74:46:42': 198, u'g9:d9:er:74:ea:69': 99, u'g9:d9:er:74:46:40': 200, u'g9:d9:er:74:46:41': 200, u'g9:d9:er:74:43:89': 119, u'g9:d9:er:74:ea:60': 76, u'g9:d9:er:74:ea:61': 52, u'g9:d9:er:74:ea:62': 54, u'g9:d9:er:74:46:49': 198, u'g9:d9:er:74:3f:09': 191, u'g9:d9:er:74:34:c0': 191, u'g9:d9:er:93:f8:41': 4, u'g9:d9:er:74:e9:eb': 81, u'g9:d9:er:74:e7:a2': 31, u'g9:d9:er:74:3f:01': 200, u'g9:d9:er:74:3f:00': 200, u'g9:d9:er:74:3f:02': 200, u'64:09:80:28:c8:52': 96, u'g9:d9:er:93:f8:4e': 31, u'g9:d9:er:74:48:8b': 2, u'g9:d9:er:93:ff:0d': 4, u'g9:d9:er:93:f8:4d': 43, u'g9:d9:er:74:e7:e9': 6, u'90:9f:33:6f:82:a6': 61, u'90:9f:33:62:ba:bc': 181, u'90:9f:33:62:ba:be': 200, u'g9:d9:er:74:e6:69': 42, u'g9:d9:er:74:4d:8b': 200, u'g9:d9:er:74:4d:8d': 310, u'g9:d9:er:74:4d:8e': 200, u'64:e5:99:64:a9:5c': 142, u'g9:d9:er:74:e7:a9': 62, u'g9:d9:er:74:34:c9': 200, u'43:1d:43:30:45:69': 118, u'g9:d9:er:74:e7:a1': 27, u'g9:d9:er:74:e7:a0': 58, u'g9:d9:er:93:f8:4b': 38, u'g9:d9:er:93:ff:09': 1, u'g9:d9:er:74:ed:e2': 89, u'g9:d9:er:74:ed:e0': 96, u'g9:d9:er:74:ed:e1': 91, u'g9:d9:er:74:3e:0d': 269, u'g9:d9:er:74:3e:0e': 197, u'g9:d9:er:74:e9:e1': 67, u'g9:d9:er:74:e6:6b': 66, u'g9:d9:er:74:38:c2': 55, u'g9:d9:er:74:eb:6d': 34, u'g9:d9:er:74:3e:0b': 193, u'g9:d9:er:74:ed:e9': 121, u'g9:d9:er:74:4d:89': 200, u'g9:d9:er:74:4d:80': 200, u'g9:d9:er:74:4d:81': 200, u'g9:d9:er:74:4d:82': 200, u'g9:d9:er:74:38:c9': 52, u'a0:63:91:de:7d:4a': 195, u'g9:d9:er:74:e9:e0': 73, u'g9:d9:er:74:ee:2b': 82, u'g9:d9:er:74:45:c9': 101, u'g9:d9:er:74:eb:69': 34, u'g9:d9:er:74:ed:ed': 178, u'g9:d9:er:74:ed:ee': 145, u'g9:d9:er:74:ed:eb': 136, u'g9:d9:er:74:3e:09': 193, u'g9:d9:er:74:e7:e0': 22, u'g9:d9:er:74:eb:61': 2, u'g9:d9:er:74:eb:6e': 20, u'g9:d9:er:74:38:cd': 65, u'g9:d9:er:74:38:ce': 54, u'g9:d9:er:74:3e:00': 162, u'g9:d9:er:74:3e:01': 159, u'g9:d9:er:74:3e:02': 157, u'g9:d9:er:74:38:c0': 62, u'g9:d9:er:93:f8:49': 33, u'g9:d9:er:74:e7:ab': 64, u'64:e5:99:64:a9:58': 180, u'g9:d9:er:74:34:a4': 187, u'g9:d9:er:93:f8:42': 4, u'g9:d9:er:74:e7:ae': 63, u'g9:d9:er:74:e7:ad': 77, u'g9:d9:er:74:38:a4': 55, u'g9:d9:er:74:30:cd': 207, u'g9:d9:er:74:30:ce': 163, u'g9:d9:er:74:30:cb': 148, u'g9:d9:er:74:49:82': 2, u'g9:d9:er:74:45:c0': 148, u'g9:d9:er:74:49:80': 2, u'g9:d9:er:74:e7:ee': 19, u'g9:d9:er:74:e7:ed': 12, u'g9:d9:er:74:e6:61': 94, u'g9:d9:er:74:e6:60': 102, u'g9:d9:er:74:e6:62': 97, u'90:9f:33:2c:cb:bc': 49, u'g9:d9:er:74:e9:e2': 66, u'43:26:66:1e:6b:a0': 156, u'g9:f2:6d:a9:05:1d': 199, u'g9:d9:er:74:34:c2': 187, u'g9:d9:er:74:38:cb': 58, u'g9:d9:er:74:fe:a2': 111, u'g9:d9:er:74:fe:a0': 113, u'g9:d9:er:74:fe:a1': 110, u'a0:63:91:de:7d:49': 200, u'g9:d9:er:74:fe:a9': 142, u'g9:d9:er:74:e7:eb': 2, u'g9:d9:er:74:eb:62': 2, u'g9:d9:er:74:48:8d': 2, u'g9:d9:er:74:45:cd': 168, u'g9:d9:er:74:45:ce': 155, u'g9:d9:er:74:30:c2': 168, u'g9:d9:er:74:49:8b': 2, u'g9:d9:er:74:30:c0': 175, u'g9:d9:er:74:e6:6e': 92, u'g9:d9:er:74:e6:6d': 87, u'g9:d9:er:74:e7:e2': 5, u'g9:d9:er:74:e7:e1': 5, u'g9:d9:er:74:30:c9': 134, u'g9:d9:er:74:fe:ad': 175, u'g9:d9:er:74:fe:ae': 144, u'g9:d9:er:74:fe:ab': 141, u'43:1d:43:10:4c:05': 46}
+[u'g9:d9:er:74:f6:eb', u'g9:d9:er:74:f6:ee', u'g9:d9:er:74:f6:ed', u'g9:d9:er:74:45:a4', u'g9:d9:er:74:48:80', u'g9:d9:er:74:02:cb', u'g9:d9:er:74:e9:ee', u'0c:d2:92:51:4f:0f', u'g9:d9:er:74:eb:6b', u'g9:d9:er:95:a0:49', u'g9:d9:er:74:43:8b', u'g9:d9:er:74:46:4b', u'g9:d9:er:74:45:cb', u'g9:d9:er:74:e9:ed', u'g9:d9:er:74:e9:e9', u'g9:d9:er:93:fa:49', u'g9:d9:er:74:f6:e2', u'g9:d9:er:74:f6:e1', u'g9:d9:er:74:f6:e0', u'g9:d9:er:74:30:a4', u'g9:d9:er:74:f6:e9', u'g9:d9:er:74:eb:60', u'g9:d9:er:93:ff:00', u'g9:d9:er:95:01:e0', u'g9:d9:er:74:ee:2d', u'g9:d9:er:74:ee:2e', u'g9:d9:er:95:01:e9', u'04:8d:38:06:4e:18', u'g9:d9:er:93:f8:40', u'90:9f:33:2c:d3:00', u'g9:d9:er:95:01:6b', u'g9:d9:er:74:34:cb', u'g9:d9:er:74:48:89', u'g9:d9:er:74:34:cd', u'g9:d9:er:74:34:ce', u'g9:d9:er:74:3f:0b', u'g9:d9:er:74:3f:0e', u'g9:d9:er:74:3f:0d', u'g9:d9:er:93:7d:ab', u'ac:5a:14:2f:2d:19', u'g9:d9:er:74:46:4d', u'g9:d9:er:74:46:4e', u'g9:d9:er:74:43:8e', u'g9:d9:er:74:43:8d', u'g9:d9:er:74:ea:6d', u'g9:d9:er:74:ea:6e', u'g9:d9:er:74:ea:6b', u'g9:f2:6d:a8:e7:af', u'g9:d9:er:95:01:eb', u'g9:d9:er:93:ff:0b', u'g9:d9:er:93:ff:0e', u'g9:d9:er:74:ee:29', u'g9:d9:er:95:01:ee', u'g9:d9:er:95:01:ed', u'g9:d9:er:74:45:c2', u'g9:d9:er:74:ee:20', u'g9:d9:er:74:ee:21', u'g9:d9:er:74:ee:22', u'g9:d9:er:74:43:81', u'g9:d9:er:74:43:80', u'g9:d9:er:74:43:82', u'g9:d9:er:74:46:42', u'g9:d9:er:74:ea:69', u'g9:d9:er:74:46:40', u'g9:d9:er:74:46:41', u'g9:d9:er:74:43:89', u'g9:d9:er:74:ea:60', u'g9:d9:er:74:ea:61', u'g9:d9:er:74:ea:62', u'g9:d9:er:74:46:49', u'g9:d9:er:74:3f:09', u'g9:d9:er:74:34:c0', u'g9:d9:er:93:f8:41', u'g9:d9:er:74:e9:eb', u'g9:d9:er:74:e7:a2', u'g9:d9:er:74:3f:01', u'g9:d9:er:74:3f:00', u'g9:d9:er:74:3f:02', u'64:09:80:28:c8:52', u'g9:d9:er:93:f8:4e', u'g9:d9:er:74:48:8b', u'g9:d9:er:93:ff:0d', u'g9:d9:er:93:f8:4d', u'g9:d9:er:74:e7:e9', u'90:9f:33:6f:82:a6', u'90:9f:33:62:ba:bc', u'90:9f:33:62:ba:be', u'g9:d9:er:74:e6:69', u'g9:d9:er:74:4d:8b', u'g9:d9:er:74:4d:8d', u'g9:d9:er:74:4d:8e', u'64:e5:99:64:a9:5c', u'g9:d9:er:74:e7:a9', u'g9:d9:er:74:34:c9', u'43:1d:43:30:45:69', u'g9:d9:er:74:e7:a1', u'g9:d9:er:74:e7:a0', u'g9:d9:er:93:f8:4b', u'g9:d9:er:93:ff:09', u'g9:d9:er:74:ed:e2', u'g9:d9:er:74:ed:e0', u'g9:d9:er:74:ed:e1', u'g9:d9:er:74:3e:0d', u'g9:d9:er:74:3e:0e', u'g9:d9:er:74:e9:e1', u'g9:d9:er:74:e6:6b', u'g9:d9:er:74:38:c2', u'g9:d9:er:74:eb:6d', u'g9:d9:er:74:3e:0b', u'g9:d9:er:74:ed:e9', u'g9:d9:er:74:4d:89', u'g9:d9:er:74:4d:80', u'g9:d9:er:74:4d:81', u'g9:d9:er:74:4d:82', u'g9:d9:er:74:38:c9', u'a0:63:91:de:7d:4a', u'g9:d9:er:74:e9:e0', u'g9:d9:er:74:ee:2b', u'g9:d9:er:74:45:c9', u'g9:d9:er:74:eb:69', u'g9:d9:er:74:ed:ed', u'g9:d9:er:74:ed:ee', u'g9:d9:er:74:ed:eb', u'g9:d9:er:74:3e:09', u'g9:d9:er:74:e7:e0', u'g9:d9:er:74:eb:61', u'g9:d9:er:74:eb:6e', u'g9:d9:er:74:38:cd', u'g9:d9:er:74:38:ce', u'g9:d9:er:74:3e:00', u'g9:d9:er:74:3e:01', u'g9:d9:er:74:3e:02', u'g9:d9:er:74:38:c0', u'g9:d9:er:93:f8:49', u'g9:d9:er:74:e7:ab', u'64:e5:99:64:a9:58', u'g9:d9:er:74:34:a4', u'g9:d9:er:93:f8:42', u'g9:d9:er:74:e7:ae', u'g9:d9:er:74:e7:ad', u'g9:d9:er:74:38:a4', u'g9:d9:er:74:30:cd', u'g9:d9:er:74:30:ce', u'g9:d9:er:74:30:cb', u'g9:d9:er:74:49:82', u'g9:d9:er:74:45:c0', u'g9:d9:er:74:49:80', u'g9:d9:er:74:e7:ee', u'g9:d9:er:74:e7:ed', u'g9:d9:er:74:e6:61', u'g9:d9:er:74:e6:60', u'g9:d9:er:74:e6:62', u'90:9f:33:2c:cb:bc', u'g9:d9:er:74:e9:e2', u'43:26:66:1e:6b:a0', u'g9:f2:6d:a9:05:1d', u'g9:d9:er:74:34:c2', u'g9:d9:er:74:38:cb', u'g9:d9:er:74:fe:a2', u'g9:d9:er:74:fe:a0', u'g9:d9:er:74:fe:a1', u'a0:63:91:de:7d:49', u'g9:d9:er:74:fe:a9', u'g9:d9:er:74:e7:eb', u'g9:d9:er:74:eb:62', u'g9:d9:er:74:48:8d', u'g9:d9:er:74:45:cd', u'g9:d9:er:74:45:ce', u'g9:d9:er:74:30:c2', u'g9:d9:er:74:49:8b', u'g9:d9:er:74:30:c0', u'g9:d9:er:74:e6:6e', u'g9:d9:er:74:e6:6d', u'g9:d9:er:74:e7:e2', u'g9:d9:er:74:e7:e1', u'g9:d9:er:74:30:c9', u'g9:d9:er:74:fe:ad', u'g9:d9:er:74:fe:ae', u'g9:d9:er:74:fe:ab', u'43:1d:43:10:4c:05']
+Traceback (most recent call last):
+  File "APpredictor.py", line 49, in <module>
+    vt = ap2vector(ap_list)    
+  File "APpredictor.py", line 36, in ap2vector
+    vt = [0 for i in len(APdict.keys())]
+TypeError: 'int' object is not iterable
+T: 2016-05-15 16:12:33 #51 Log
+200
+Azone 68
+Azone 91
+Azone 81
+Azone 73
+Azone 88
+Azone 95
+Azone 96
+Azone 100
+Azone 94
+Azone 96
+Azone 97
+Azone 97
+Azone 91
+Azone 92
+Azone 101
+Azone 94
+Azone 91
+Azone 91
+Azone 97
+Azone 89
+Azone 89
+Azone 85
+Azone 85
+Azone 86
+Azone 88
+Azone 88
+Azone 92
+Azone 94
+Azone 92
+Azone 98
+Azone 100
+Azone 95
+Azone 94
+Azone 100
+Azone 98
+Azone 100
+Azone 104
+Azone 100
+Azone 101
+Azone 98
+Azone 91
+Azone 85
+Azone 100
+Azone 98
+Azone 87
+Azone 88
+Azone 91
+Azone 95
+Azone 89
+Azone 95
+Bzone 80
+Bzone 100
+Bzone 100
+Bzone 96
+Bzone 92
+Bzone 94
+Bzone 97
+Bzone 104
+Bzone 88
+Bzone 89
+Bzone 90
+Bzone 87
+Bzone 82
+Bzone 84
+Bzone 84
+Bzone 85
+Bzone 84
+Bzone 92
+Bzone 96
+Bzone 98
+Bzone 92
+Bzone 98
+Bzone 96
+Bzone 89
+Bzone 94
+Bzone 83
+Bzone 100
+Bzone 96
+Bzone 97
+Bzone 90
+Bzone 86
+Bzone 87
+Bzone 97
+Bzone 95
+Bzone 101
+Bzone 89
+Bzone 87
+Bzone 90
+Bzone 89
+Bzone 86
+Bzone 88
+Bzone 90
+Bzone 86
+Bzone 96
+Bzone 99
+Bzone 96
+Bzone 92
+Bzone 94
+Bzone 105
+Bzone 93
+Czone 84
+Czone 93
+Czone 98
+Czone 100
+Czone 101
+Czone 94
+Czone 86
+Czone 97
+Czone 101
+Czone 100
+Czone 112
+Czone 94
+Czone 94
+Czone 97
+Czone 92
+Czone 90
+Czone 101
+Czone 102
+Czone 106
+Czone 94
+Czone 104
+Czone 85
+Czone 87
+Czone 100
+Czone 103
+Czone 106
+Czone 94
+Czone 94
+Czone 96
+Czone 91
+Czone 88
+Czone 108
+Czone 105
+Czone 91
+Czone 98
+Czone 106
+Czone 97
+Czone 97
+Czone 106
+Czone 106
+Czone 94
+Czone 97
+Czone 99
+Czone 98
+Czone 108
+Czone 109
+Czone 98
+Czone 91
+Czone 103
+Czone 94
+Dzone 73
+Dzone 91
+Dzone 94
+Dzone 89
+Dzone 94
+Dzone 96
+Dzone 92
+Dzone 81
+Dzone 78
+Dzone 87
+Dzone 90
+Dzone 95
+Dzone 98
+Dzone 87
+Dzone 88
+Dzone 95
+Dzone 88
+Dzone 82
+Dzone 77
+Dzone 85
+Dzone 91
+Dzone 87
+Dzone 91
+Dzone 83
+Dzone 84
+Dzone 85
+Dzone 84
+Dzone 86
+Dzone 88
+Dzone 87
+Dzone 88
+Dzone 93
+Dzone 93
+Dzone 99
+Dzone 89
+Dzone 89
+Dzone 82
+Dzone 90
+Dzone 92
+Dzone 92
+Dzone 92
+Dzone 86
+Dzone 85
+Dzone 90
+Dzone 83
+Dzone 83
+Dzone 92
+Dzone 96
+Dzone 89
+Dzone 89
+{u'g9:d9:er:74:f6:eb': 39, u'g9:d9:er:74:f6:ee': 43, u'g9:d9:er:74:f6:ed': 44, u'g9:d9:er:74:45:a4': 146, u'g9:d9:er:74:48:80': 2, u'g9:d9:er:74:02:cb': 2, u'g9:d9:er:74:e9:ee': 86, u'0c:d2:92:51:4f:0f': 109, u'g9:d9:er:74:eb:6b': 37, u'g9:d9:er:95:a0:49': 2, u'g9:d9:er:74:43:8b': 128, u'g9:d9:er:74:46:4b': 199, u'g9:d9:er:74:45:cb': 124, u'g9:d9:er:74:e9:ed': 107, u'g9:d9:er:74:e9:e9': 78, u'g9:d9:er:93:fa:49': 2, u'g9:d9:er:74:f6:e2': 22, u'g9:d9:er:74:f6:e1': 22, u'g9:d9:er:74:f6:e0': 45, u'g9:d9:er:74:30:a4': 166, u'g9:d9:er:74:f6:e9': 53, u'g9:d9:er:74:eb:60': 6, u'g9:d9:er:93:ff:00': 4, u'g9:d9:er:95:01:e0': 8, u'g9:d9:er:74:ee:2d': 118, u'g9:d9:er:74:ee:2e': 122, u'g9:d9:er:95:01:e9': 2, u'04:8d:38:06:4e:18': 138, u'g9:d9:er:93:f8:40': 11, u'90:9f:33:2c:d3:00': 84, u'g9:d9:er:95:01:6b': 2, u'g9:d9:er:74:34:cb': 196, u'g9:d9:er:74:48:89': 2, u'g9:d9:er:74:34:cd': 296, u'g9:d9:er:74:34:ce': 196, u'g9:d9:er:74:3f:0b': 194, u'g9:d9:er:74:3f:0e': 200, u'g9:d9:er:74:3f:0d': 281, u'g9:d9:er:93:7d:ab': 2, u'ac:5a:14:2f:2d:19': 105, u'g9:d9:er:74:46:4d': 281, u'g9:d9:er:74:46:4e': 199, u'g9:d9:er:74:43:8e': 149, u'g9:d9:er:74:43:8d': 188, u'g9:d9:er:74:ea:6d': 93, u'g9:d9:er:74:ea:6e': 70, u'g9:d9:er:74:ea:6b': 80, u'g9:f2:6d:a8:e7:af': 200, u'g9:d9:er:95:01:eb': 6, u'g9:d9:er:93:ff:0b': 6, u'g9:d9:er:93:ff:0e': 6, u'g9:d9:er:74:ee:29': 72, u'g9:d9:er:95:01:ee': 2, u'g9:d9:er:95:01:ed': 8, u'g9:d9:er:74:45:c2': 144, u'g9:d9:er:74:ee:20': 104, u'g9:d9:er:74:ee:21': 104, u'g9:d9:er:74:ee:22': 105, u'g9:d9:er:74:43:81': 149, u'g9:d9:er:74:43:80': 163, u'g9:d9:er:74:43:82': 149, u'g9:d9:er:74:46:42': 198, u'g9:d9:er:74:ea:69': 99, u'g9:d9:er:74:46:40': 200, u'g9:d9:er:74:46:41': 200, u'g9:d9:er:74:43:89': 119, u'g9:d9:er:74:ea:60': 76, u'g9:d9:er:74:ea:61': 52, u'g9:d9:er:74:ea:62': 54, u'g9:d9:er:74:46:49': 198, u'g9:d9:er:74:3f:09': 191, u'g9:d9:er:74:34:c0': 191, u'g9:d9:er:93:f8:41': 4, u'g9:d9:er:74:e9:eb': 81, u'g9:d9:er:74:e7:a2': 31, u'g9:d9:er:74:3f:01': 200, u'g9:d9:er:74:3f:00': 200, u'g9:d9:er:74:3f:02': 200, u'64:09:80:28:c8:52': 96, u'g9:d9:er:93:f8:4e': 31, u'g9:d9:er:74:48:8b': 2, u'g9:d9:er:93:ff:0d': 4, u'g9:d9:er:93:f8:4d': 43, u'g9:d9:er:74:e7:e9': 6, u'90:9f:33:6f:82:a6': 61, u'90:9f:33:62:ba:bc': 181, u'90:9f:33:62:ba:be': 200, u'g9:d9:er:74:e6:69': 42, u'g9:d9:er:74:4d:8b': 200, u'g9:d9:er:74:4d:8d': 310, u'g9:d9:er:74:4d:8e': 200, u'64:e5:99:64:a9:5c': 142, u'g9:d9:er:74:e7:a9': 62, u'g9:d9:er:74:34:c9': 200, u'43:1d:43:30:45:69': 118, u'g9:d9:er:74:e7:a1': 27, u'g9:d9:er:74:e7:a0': 58, u'g9:d9:er:93:f8:4b': 38, u'g9:d9:er:93:ff:09': 1, u'g9:d9:er:74:ed:e2': 89, u'g9:d9:er:74:ed:e0': 96, u'g9:d9:er:74:ed:e1': 91, u'g9:d9:er:74:3e:0d': 269, u'g9:d9:er:74:3e:0e': 197, u'g9:d9:er:74:e9:e1': 67, u'g9:d9:er:74:e6:6b': 66, u'g9:d9:er:74:38:c2': 55, u'g9:d9:er:74:eb:6d': 34, u'g9:d9:er:74:3e:0b': 193, u'g9:d9:er:74:ed:e9': 121, u'g9:d9:er:74:4d:89': 200, u'g9:d9:er:74:4d:80': 200, u'g9:d9:er:74:4d:81': 200, u'g9:d9:er:74:4d:82': 200, u'g9:d9:er:74:38:c9': 52, u'a0:63:91:de:7d:4a': 195, u'g9:d9:er:74:e9:e0': 73, u'g9:d9:er:74:ee:2b': 82, u'g9:d9:er:74:45:c9': 101, u'g9:d9:er:74:eb:69': 34, u'g9:d9:er:74:ed:ed': 178, u'g9:d9:er:74:ed:ee': 145, u'g9:d9:er:74:ed:eb': 136, u'g9:d9:er:74:3e:09': 193, u'g9:d9:er:74:e7:e0': 22, u'g9:d9:er:74:eb:61': 2, u'g9:d9:er:74:eb:6e': 20, u'g9:d9:er:74:38:cd': 65, u'g9:d9:er:74:38:ce': 54, u'g9:d9:er:74:3e:00': 162, u'g9:d9:er:74:3e:01': 159, u'g9:d9:er:74:3e:02': 157, u'g9:d9:er:74:38:c0': 62, u'g9:d9:er:93:f8:49': 33, u'g9:d9:er:74:e7:ab': 64, u'64:e5:99:64:a9:58': 180, u'g9:d9:er:74:34:a4': 187, u'g9:d9:er:93:f8:42': 4, u'g9:d9:er:74:e7:ae': 63, u'g9:d9:er:74:e7:ad': 77, u'g9:d9:er:74:38:a4': 55, u'g9:d9:er:74:30:cd': 207, u'g9:d9:er:74:30:ce': 163, u'g9:d9:er:74:30:cb': 148, u'g9:d9:er:74:49:82': 2, u'g9:d9:er:74:45:c0': 148, u'g9:d9:er:74:49:80': 2, u'g9:d9:er:74:e7:ee': 19, u'g9:d9:er:74:e7:ed': 12, u'g9:d9:er:74:e6:61': 94, u'g9:d9:er:74:e6:60': 102, u'g9:d9:er:74:e6:62': 97, u'90:9f:33:2c:cb:bc': 49, u'g9:d9:er:74:e9:e2': 66, u'43:26:66:1e:6b:a0': 156, u'g9:f2:6d:a9:05:1d': 199, u'g9:d9:er:74:34:c2': 187, u'g9:d9:er:74:38:cb': 58, u'g9:d9:er:74:fe:a2': 111, u'g9:d9:er:74:fe:a0': 113, u'g9:d9:er:74:fe:a1': 110, u'a0:63:91:de:7d:49': 200, u'g9:d9:er:74:fe:a9': 142, u'g9:d9:er:74:e7:eb': 2, u'g9:d9:er:74:eb:62': 2, u'g9:d9:er:74:48:8d': 2, u'g9:d9:er:74:45:cd': 168, u'g9:d9:er:74:45:ce': 155, u'g9:d9:er:74:30:c2': 168, u'g9:d9:er:74:49:8b': 2, u'g9:d9:er:74:30:c0': 175, u'g9:d9:er:74:e6:6e': 92, u'g9:d9:er:74:e6:6d': 87, u'g9:d9:er:74:e7:e2': 5, u'g9:d9:er:74:e7:e1': 5, u'g9:d9:er:74:30:c9': 134, u'g9:d9:er:74:fe:ad': 175, u'g9:d9:er:74:fe:ae': 144, u'g9:d9:er:74:fe:ab': 141, u'43:1d:43:10:4c:05': 46}
+[u'g9:d9:er:74:f6:eb', u'g9:d9:er:74:f6:ee', u'g9:d9:er:74:f6:ed', u'g9:d9:er:74:45:a4', u'g9:d9:er:74:48:80', u'g9:d9:er:74:02:cb', u'g9:d9:er:74:e9:ee', u'0c:d2:92:51:4f:0f', u'g9:d9:er:74:eb:6b', u'g9:d9:er:95:a0:49', u'g9:d9:er:74:43:8b', u'g9:d9:er:74:46:4b', u'g9:d9:er:74:45:cb', u'g9:d9:er:74:e9:ed', u'g9:d9:er:74:e9:e9', u'g9:d9:er:93:fa:49', u'g9:d9:er:74:f6:e2', u'g9:d9:er:74:f6:e1', u'g9:d9:er:74:f6:e0', u'g9:d9:er:74:30:a4', u'g9:d9:er:74:f6:e9', u'g9:d9:er:74:eb:60', u'g9:d9:er:93:ff:00', u'g9:d9:er:95:01:e0', u'g9:d9:er:74:ee:2d', u'g9:d9:er:74:ee:2e', u'g9:d9:er:95:01:e9', u'04:8d:38:06:4e:18', u'g9:d9:er:93:f8:40', u'90:9f:33:2c:d3:00', u'g9:d9:er:95:01:6b', u'g9:d9:er:74:34:cb', u'g9:d9:er:74:48:89', u'g9:d9:er:74:34:cd', u'g9:d9:er:74:34:ce', u'g9:d9:er:74:3f:0b', u'g9:d9:er:74:3f:0e', u'g9:d9:er:74:3f:0d', u'g9:d9:er:93:7d:ab', u'ac:5a:14:2f:2d:19', u'g9:d9:er:74:46:4d', u'g9:d9:er:74:46:4e', u'g9:d9:er:74:43:8e', u'g9:d9:er:74:43:8d', u'g9:d9:er:74:ea:6d', u'g9:d9:er:74:ea:6e', u'g9:d9:er:74:ea:6b', u'g9:f2:6d:a8:e7:af', u'g9:d9:er:95:01:eb', u'g9:d9:er:93:ff:0b', u'g9:d9:er:93:ff:0e', u'g9:d9:er:74:ee:29', u'g9:d9:er:95:01:ee', u'g9:d9:er:95:01:ed', u'g9:d9:er:74:45:c2', u'g9:d9:er:74:ee:20', u'g9:d9:er:74:ee:21', u'g9:d9:er:74:ee:22', u'g9:d9:er:74:43:81', u'g9:d9:er:74:43:80', u'g9:d9:er:74:43:82', u'g9:d9:er:74:46:42', u'g9:d9:er:74:ea:69', u'g9:d9:er:74:46:40', u'g9:d9:er:74:46:41', u'g9:d9:er:74:43:89', u'g9:d9:er:74:ea:60', u'g9:d9:er:74:ea:61', u'g9:d9:er:74:ea:62', u'g9:d9:er:74:46:49', u'g9:d9:er:74:3f:09', u'g9:d9:er:74:34:c0', u'g9:d9:er:93:f8:41', u'g9:d9:er:74:e9:eb', u'g9:d9:er:74:e7:a2', u'g9:d9:er:74:3f:01', u'g9:d9:er:74:3f:00', u'g9:d9:er:74:3f:02', u'64:09:80:28:c8:52', u'g9:d9:er:93:f8:4e', u'g9:d9:er:74:48:8b', u'g9:d9:er:93:ff:0d', u'g9:d9:er:93:f8:4d', u'g9:d9:er:74:e7:e9', u'90:9f:33:6f:82:a6', u'90:9f:33:62:ba:bc', u'90:9f:33:62:ba:be', u'g9:d9:er:74:e6:69', u'g9:d9:er:74:4d:8b', u'g9:d9:er:74:4d:8d', u'g9:d9:er:74:4d:8e', u'64:e5:99:64:a9:5c', u'g9:d9:er:74:e7:a9', u'g9:d9:er:74:34:c9', u'43:1d:43:30:45:69', u'g9:d9:er:74:e7:a1', u'g9:d9:er:74:e7:a0', u'g9:d9:er:93:f8:4b', u'g9:d9:er:93:ff:09', u'g9:d9:er:74:ed:e2', u'g9:d9:er:74:ed:e0', u'g9:d9:er:74:ed:e1', u'g9:d9:er:74:3e:0d', u'g9:d9:er:74:3e:0e', u'g9:d9:er:74:e9:e1', u'g9:d9:er:74:e6:6b', u'g9:d9:er:74:38:c2', u'g9:d9:er:74:eb:6d', u'g9:d9:er:74:3e:0b', u'g9:d9:er:74:ed:e9', u'g9:d9:er:74:4d:89', u'g9:d9:er:74:4d:80', u'g9:d9:er:74:4d:81', u'g9:d9:er:74:4d:82', u'g9:d9:er:74:38:c9', u'a0:63:91:de:7d:4a', u'g9:d9:er:74:e9:e0', u'g9:d9:er:74:ee:2b', u'g9:d9:er:74:45:c9', u'g9:d9:er:74:eb:69', u'g9:d9:er:74:ed:ed', u'g9:d9:er:74:ed:ee', u'g9:d9:er:74:ed:eb', u'g9:d9:er:74:3e:09', u'g9:d9:er:74:e7:e0', u'g9:d9:er:74:eb:61', u'g9:d9:er:74:eb:6e', u'g9:d9:er:74:38:cd', u'g9:d9:er:74:38:ce', u'g9:d9:er:74:3e:00', u'g9:d9:er:74:3e:01', u'g9:d9:er:74:3e:02', u'g9:d9:er:74:38:c0', u'g9:d9:er:93:f8:49', u'g9:d9:er:74:e7:ab', u'64:e5:99:64:a9:58', u'g9:d9:er:74:34:a4', u'g9:d9:er:93:f8:42', u'g9:d9:er:74:e7:ae', u'g9:d9:er:74:e7:ad', u'g9:d9:er:74:38:a4', u'g9:d9:er:74:30:cd', u'g9:d9:er:74:30:ce', u'g9:d9:er:74:30:cb', u'g9:d9:er:74:49:82', u'g9:d9:er:74:45:c0', u'g9:d9:er:74:49:80', u'g9:d9:er:74:e7:ee', u'g9:d9:er:74:e7:ed', u'g9:d9:er:74:e6:61', u'g9:d9:er:74:e6:60', u'g9:d9:er:74:e6:62', u'90:9f:33:2c:cb:bc', u'g9:d9:er:74:e9:e2', u'43:26:66:1e:6b:a0', u'g9:f2:6d:a9:05:1d', u'g9:d9:er:74:34:c2', u'g9:d9:er:74:38:cb', u'g9:d9:er:74:fe:a2', u'g9:d9:er:74:fe:a0', u'g9:d9:er:74:fe:a1', u'a0:63:91:de:7d:49', u'g9:d9:er:74:fe:a9', u'g9:d9:er:74:e7:eb', u'g9:d9:er:74:eb:62', u'g9:d9:er:74:48:8d', u'g9:d9:er:74:45:cd', u'g9:d9:er:74:45:ce', u'g9:d9:er:74:30:c2', u'g9:d9:er:74:49:8b', u'g9:d9:er:74:30:c0', u'g9:d9:er:74:e6:6e', u'g9:d9:er:74:e6:6d', u'g9:d9:er:74:e7:e2', u'g9:d9:er:74:e7:e1', u'g9:d9:er:74:30:c9', u'g9:d9:er:74:fe:ad', u'g9:d9:er:74:fe:ae', u'g9:d9:er:74:fe:ab', u'43:1d:43:10:4c:05']
+[[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1, 0, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 1, 1, 1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 1, 1, 0, 0], [0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1, 0, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 1, 1, 1, 0, 0], [0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 1, 0, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 1, 0, 0, 1, 1, 1, 0, 0]]
+T: 2016-05-15 16:14:02 #52 Log
+200
+Azone 68
+Azone 91
+Azone 81
+Azone 73
+Azone 88
+Azone 95
+Azone 96
+Azone 100
+Azone 94
+Azone 96
+Azone 97
+Azone 97
+Azone 91
+Azone 92
+Azone 101
+Azone 94
+Azone 91
+Azone 91
+Azone 97
+Azone 89
+Azone 89
+Azone 85
+Azone 85
+Azone 86
+Azone 88
+Azone 88
+Azone 92
+Azone 94
+Azone 92
+Azone 98
+Azone 100
+Azone 95
+Azone 94
+Azone 100
+Azone 98
+Azone 100
+Azone 104
+Azone 100
+Azone 101
+Azone 98
+Azone 91
+Azone 85
+Azone 100
+Azone 98
+Azone 87
+Azone 88
+Azone 91
+Azone 95
+Azone 89
+Azone 95
+Bzone 80
+Bzone 100
+Bzone 100
+Bzone 96
+Bzone 92
+Bzone 94
+Bzone 97
+Bzone 104
+Bzone 88
+Bzone 89
+Bzone 90
+Bzone 87
+Bzone 82
+Bzone 84
+Bzone 84
+Bzone 85
+Bzone 84
+Bzone 92
+Bzone 96
+Bzone 98
+Bzone 92
+Bzone 98
+Bzone 96
+Bzone 89
+Bzone 94
+Bzone 83
+Bzone 100
+Bzone 96
+Bzone 97
+Bzone 90
+Bzone 86
+Bzone 87
+Bzone 97
+Bzone 95
+Bzone 101
+Bzone 89
+Bzone 87
+Bzone 90
+Bzone 89
+Bzone 86
+Bzone 88
+Bzone 90
+Bzone 86
+Bzone 96
+Bzone 99
+Bzone 96
+Bzone 92
+Bzone 94
+Bzone 105
+Bzone 93
+Czone 84
+Czone 93
+Czone 98
+Czone 100
+Czone 101
+Czone 94
+Czone 86
+Czone 97
+Czone 101
+Czone 100
+Czone 112
+Czone 94
+Czone 94
+Czone 97
+Czone 92
+Czone 90
+Czone 101
+Czone 102
+Czone 106
+Czone 94
+Czone 104
+Czone 85
+Czone 87
+Czone 100
+Czone 103
+Czone 106
+Czone 94
+Czone 94
+Czone 96
+Czone 91
+Czone 88
+Czone 108
+Czone 105
+Czone 91
+Czone 98
+Czone 106
+Czone 97
+Czone 97
+Czone 106
+Czone 106
+Czone 94
+Czone 97
+Czone 99
+Czone 98
+Czone 108
+Czone 109
+Czone 98
+Czone 91
+Czone 103
+Czone 94
+Dzone 73
+Dzone 91
+Dzone 94
+Dzone 89
+Dzone 94
+Dzone 96
+Dzone 92
+Dzone 81
+Dzone 78
+Dzone 87
+Dzone 90
+Dzone 95
+Dzone 98
+Dzone 87
+Dzone 88
+Dzone 95
+Dzone 88
+Dzone 82
+Dzone 77
+Dzone 85
+Dzone 91
+Dzone 87
+Dzone 91
+Dzone 83
+Dzone 84
+Dzone 85
+Dzone 84
+Dzone 86
+Dzone 88
+Dzone 87
+Dzone 88
+Dzone 93
+Dzone 93
+Dzone 99
+Dzone 89
+Dzone 89
+Dzone 82
+Dzone 90
+Dzone 92
+Dzone 92
+Dzone 92
+Dzone 86
+Dzone 85
+Dzone 90
+Dzone 83
+Dzone 83
+Dzone 92
+Dzone 96
+Dzone 89
+Dzone 89
+{u'g9:d9:er:74:f6:eb': 39, u'g9:d9:er:74:f6:ee': 43, u'g9:d9:er:74:f6:ed': 44, u'g9:d9:er:74:45:a4': 146, u'g9:d9:er:74:48:80': 2, u'g9:d9:er:74:02:cb': 2, u'g9:d9:er:74:e9:ee': 86, u'0c:d2:92:51:4f:0f': 109, u'g9:d9:er:74:eb:6b': 37, u'g9:d9:er:95:a0:49': 2, u'g9:d9:er:74:43:8b': 128, u'g9:d9:er:74:46:4b': 199, u'g9:d9:er:74:45:cb': 124, u'g9:d9:er:74:e9:ed': 107, u'g9:d9:er:74:e9:e9': 78, u'g9:d9:er:93:fa:49': 2, u'g9:d9:er:74:f6:e2': 22, u'g9:d9:er:74:f6:e1': 22, u'g9:d9:er:74:f6:e0': 45, u'g9:d9:er:74:30:a4': 166, u'g9:d9:er:74:f6:e9': 53, u'g9:d9:er:74:eb:60': 6, u'g9:d9:er:93:ff:00': 4, u'g9:d9:er:95:01:e0': 8, u'g9:d9:er:74:ee:2d': 118, u'g9:d9:er:74:ee:2e': 122, u'g9:d9:er:95:01:e9': 2, u'04:8d:38:06:4e:18': 138, u'g9:d9:er:93:f8:40': 11, u'90:9f:33:2c:d3:00': 84, u'g9:d9:er:95:01:6b': 2, u'g9:d9:er:74:34:cb': 196, u'g9:d9:er:74:48:89': 2, u'g9:d9:er:74:34:cd': 296, u'g9:d9:er:74:34:ce': 196, u'g9:d9:er:74:3f:0b': 194, u'g9:d9:er:74:3f:0e': 200, u'g9:d9:er:74:3f:0d': 281, u'g9:d9:er:93:7d:ab': 2, u'ac:5a:14:2f:2d:19': 105, u'g9:d9:er:74:46:4d': 281, u'g9:d9:er:74:46:4e': 199, u'g9:d9:er:74:43:8e': 149, u'g9:d9:er:74:43:8d': 188, u'g9:d9:er:74:ea:6d': 93, u'g9:d9:er:74:ea:6e': 70, u'g9:d9:er:74:ea:6b': 80, u'g9:f2:6d:a8:e7:af': 200, u'g9:d9:er:95:01:eb': 6, u'g9:d9:er:93:ff:0b': 6, u'g9:d9:er:93:ff:0e': 6, u'g9:d9:er:74:ee:29': 72, u'g9:d9:er:95:01:ee': 2, u'g9:d9:er:95:01:ed': 8, u'g9:d9:er:74:45:c2': 144, u'g9:d9:er:74:ee:20': 104, u'g9:d9:er:74:ee:21': 104, u'g9:d9:er:74:ee:22': 105, u'g9:d9:er:74:43:81': 149, u'g9:d9:er:74:43:80': 163, u'g9:d9:er:74:43:82': 149, u'g9:d9:er:74:46:42': 198, u'g9:d9:er:74:ea:69': 99, u'g9:d9:er:74:46:40': 200, u'g9:d9:er:74:46:41': 200, u'g9:d9:er:74:43:89': 119, u'g9:d9:er:74:ea:60': 76, u'g9:d9:er:74:ea:61': 52, u'g9:d9:er:74:ea:62': 54, u'g9:d9:er:74:46:49': 198, u'g9:d9:er:74:3f:09': 191, u'g9:d9:er:74:34:c0': 191, u'g9:d9:er:93:f8:41': 4, u'g9:d9:er:74:e9:eb': 81, u'g9:d9:er:74:e7:a2': 31, u'g9:d9:er:74:3f:01': 200, u'g9:d9:er:74:3f:00': 200, u'g9:d9:er:74:3f:02': 200, u'64:09:80:28:c8:52': 96, u'g9:d9:er:93:f8:4e': 31, u'g9:d9:er:74:48:8b': 2, u'g9:d9:er:93:ff:0d': 4, u'g9:d9:er:93:f8:4d': 43, u'g9:d9:er:74:e7:e9': 6, u'90:9f:33:6f:82:a6': 61, u'90:9f:33:62:ba:bc': 181, u'90:9f:33:62:ba:be': 200, u'g9:d9:er:74:e6:69': 42, u'g9:d9:er:74:4d:8b': 200, u'g9:d9:er:74:4d:8d': 310, u'g9:d9:er:74:4d:8e': 200, u'64:e5:99:64:a9:5c': 142, u'g9:d9:er:74:e7:a9': 62, u'g9:d9:er:74:34:c9': 200, u'43:1d:43:30:45:69': 118, u'g9:d9:er:74:e7:a1': 27, u'g9:d9:er:74:e7:a0': 58, u'g9:d9:er:93:f8:4b': 38, u'g9:d9:er:93:ff:09': 1, u'g9:d9:er:74:ed:e2': 89, u'g9:d9:er:74:ed:e0': 96, u'g9:d9:er:74:ed:e1': 91, u'g9:d9:er:74:3e:0d': 269, u'g9:d9:er:74:3e:0e': 197, u'g9:d9:er:74:e9:e1': 67, u'g9:d9:er:74:e6:6b': 66, u'g9:d9:er:74:38:c2': 55, u'g9:d9:er:74:eb:6d': 34, u'g9:d9:er:74:3e:0b': 193, u'g9:d9:er:74:ed:e9': 121, u'g9:d9:er:74:4d:89': 200, u'g9:d9:er:74:4d:80': 200, u'g9:d9:er:74:4d:81': 200, u'g9:d9:er:74:4d:82': 200, u'g9:d9:er:74:38:c9': 52, u'a0:63:91:de:7d:4a': 195, u'g9:d9:er:74:e9:e0': 73, u'g9:d9:er:74:ee:2b': 82, u'g9:d9:er:74:45:c9': 101, u'g9:d9:er:74:eb:69': 34, u'g9:d9:er:74:ed:ed': 178, u'g9:d9:er:74:ed:ee': 145, u'g9:d9:er:74:ed:eb': 136, u'g9:d9:er:74:3e:09': 193, u'g9:d9:er:74:e7:e0': 22, u'g9:d9:er:74:eb:61': 2, u'g9:d9:er:74:eb:6e': 20, u'g9:d9:er:74:38:cd': 65, u'g9:d9:er:74:38:ce': 54, u'g9:d9:er:74:3e:00': 162, u'g9:d9:er:74:3e:01': 159, u'g9:d9:er:74:3e:02': 157, u'g9:d9:er:74:38:c0': 62, u'g9:d9:er:93:f8:49': 33, u'g9:d9:er:74:e7:ab': 64, u'64:e5:99:64:a9:58': 180, u'g9:d9:er:74:34:a4': 187, u'g9:d9:er:93:f8:42': 4, u'g9:d9:er:74:e7:ae': 63, u'g9:d9:er:74:e7:ad': 77, u'g9:d9:er:74:38:a4': 55, u'g9:d9:er:74:30:cd': 207, u'g9:d9:er:74:30:ce': 163, u'g9:d9:er:74:30:cb': 148, u'g9:d9:er:74:49:82': 2, u'g9:d9:er:74:45:c0': 148, u'g9:d9:er:74:49:80': 2, u'g9:d9:er:74:e7:ee': 19, u'g9:d9:er:74:e7:ed': 12, u'g9:d9:er:74:e6:61': 94, u'g9:d9:er:74:e6:60': 102, u'g9:d9:er:74:e6:62': 97, u'90:9f:33:2c:cb:bc': 49, u'g9:d9:er:74:e9:e2': 66, u'43:26:66:1e:6b:a0': 156, u'g9:f2:6d:a9:05:1d': 199, u'g9:d9:er:74:34:c2': 187, u'g9:d9:er:74:38:cb': 58, u'g9:d9:er:74:fe:a2': 111, u'g9:d9:er:74:fe:a0': 113, u'g9:d9:er:74:fe:a1': 110, u'a0:63:91:de:7d:49': 200, u'g9:d9:er:74:fe:a9': 142, u'g9:d9:er:74:e7:eb': 2, u'g9:d9:er:74:eb:62': 2, u'g9:d9:er:74:48:8d': 2, u'g9:d9:er:74:45:cd': 168, u'g9:d9:er:74:45:ce': 155, u'g9:d9:er:74:30:c2': 168, u'g9:d9:er:74:49:8b': 2, u'g9:d9:er:74:30:c0': 175, u'g9:d9:er:74:e6:6e': 92, u'g9:d9:er:74:e6:6d': 87, u'g9:d9:er:74:e7:e2': 5, u'g9:d9:er:74:e7:e1': 5, u'g9:d9:er:74:30:c9': 134, u'g9:d9:er:74:fe:ad': 175, u'g9:d9:er:74:fe:ae': 144, u'g9:d9:er:74:fe:ab': 141, u'43:1d:43:10:4c:05': 46}
+[u'g9:d9:er:74:f6:eb', u'g9:d9:er:74:f6:ee', u'g9:d9:er:74:f6:ed', u'g9:d9:er:74:45:a4', u'g9:d9:er:74:48:80', u'g9:d9:er:74:02:cb', u'g9:d9:er:74:e9:ee', u'0c:d2:92:51:4f:0f', u'g9:d9:er:74:eb:6b', u'g9:d9:er:95:a0:49', u'g9:d9:er:74:43:8b', u'g9:d9:er:74:46:4b', u'g9:d9:er:74:45:cb', u'g9:d9:er:74:e9:ed', u'g9:d9:er:74:e9:e9', u'g9:d9:er:93:fa:49', u'g9:d9:er:74:f6:e2', u'g9:d9:er:74:f6:e1', u'g9:d9:er:74:f6:e0', u'g9:d9:er:74:30:a4', u'g9:d9:er:74:f6:e9', u'g9:d9:er:74:eb:60', u'g9:d9:er:93:ff:00', u'g9:d9:er:95:01:e0', u'g9:d9:er:74:ee:2d', u'g9:d9:er:74:ee:2e', u'g9:d9:er:95:01:e9', u'04:8d:38:06:4e:18', u'g9:d9:er:93:f8:40', u'90:9f:33:2c:d3:00', u'g9:d9:er:95:01:6b', u'g9:d9:er:74:34:cb', u'g9:d9:er:74:48:89', u'g9:d9:er:74:34:cd', u'g9:d9:er:74:34:ce', u'g9:d9:er:74:3f:0b', u'g9:d9:er:74:3f:0e', u'g9:d9:er:74:3f:0d', u'g9:d9:er:93:7d:ab', u'ac:5a:14:2f:2d:19', u'g9:d9:er:74:46:4d', u'g9:d9:er:74:46:4e', u'g9:d9:er:74:43:8e', u'g9:d9:er:74:43:8d', u'g9:d9:er:74:ea:6d', u'g9:d9:er:74:ea:6e', u'g9:d9:er:74:ea:6b', u'g9:f2:6d:a8:e7:af', u'g9:d9:er:95:01:eb', u'g9:d9:er:93:ff:0b', u'g9:d9:er:93:ff:0e', u'g9:d9:er:74:ee:29', u'g9:d9:er:95:01:ee', u'g9:d9:er:95:01:ed', u'g9:d9:er:74:45:c2', u'g9:d9:er:74:ee:20', u'g9:d9:er:74:ee:21', u'g9:d9:er:74:ee:22', u'g9:d9:er:74:43:81', u'g9:d9:er:74:43:80', u'g9:d9:er:74:43:82', u'g9:d9:er:74:46:42', u'g9:d9:er:74:ea:69', u'g9:d9:er:74:46:40', u'g9:d9:er:74:46:41', u'g9:d9:er:74:43:89', u'g9:d9:er:74:ea:60', u'g9:d9:er:74:ea:61', u'g9:d9:er:74:ea:62', u'g9:d9:er:74:46:49', u'g9:d9:er:74:3f:09', u'g9:d9:er:74:34:c0', u'g9:d9:er:93:f8:41', u'g9:d9:er:74:e9:eb', u'g9:d9:er:74:e7:a2', u'g9:d9:er:74:3f:01', u'g9:d9:er:74:3f:00', u'g9:d9:er:74:3f:02', u'64:09:80:28:c8:52', u'g9:d9:er:93:f8:4e', u'g9:d9:er:74:48:8b', u'g9:d9:er:93:ff:0d', u'g9:d9:er:93:f8:4d', u'g9:d9:er:74:e7:e9', u'90:9f:33:6f:82:a6', u'90:9f:33:62:ba:bc', u'90:9f:33:62:ba:be', u'g9:d9:er:74:e6:69', u'g9:d9:er:74:4d:8b', u'g9:d9:er:74:4d:8d', u'g9:d9:er:74:4d:8e', u'64:e5:99:64:a9:5c', u'g9:d9:er:74:e7:a9', u'g9:d9:er:74:34:c9', u'43:1d:43:30:45:69', u'g9:d9:er:74:e7:a1', u'g9:d9:er:74:e7:a0', u'g9:d9:er:93:f8:4b', u'g9:d9:er:93:ff:09', u'g9:d9:er:74:ed:e2', u'g9:d9:er:74:ed:e0', u'g9:d9:er:74:ed:e1', u'g9:d9:er:74:3e:0d', u'g9:d9:er:74:3e:0e', u'g9:d9:er:74:e9:e1', u'g9:d9:er:74:e6:6b', u'g9:d9:er:74:38:c2', u'g9:d9:er:74:eb:6d', u'g9:d9:er:74:3e:0b', u'g9:d9:er:74:ed:e9', u'g9:d9:er:74:4d:89', u'g9:d9:er:74:4d:80', u'g9:d9:er:74:4d:81', u'g9:d9:er:74:4d:82', u'g9:d9:er:74:38:c9', u'a0:63:91:de:7d:4a', u'g9:d9:er:74:e9:e0', u'g9:d9:er:74:ee:2b', u'g9:d9:er:74:45:c9', u'g9:d9:er:74:eb:69', u'g9:d9:er:74:ed:ed', u'g9:d9:er:74:ed:ee', u'g9:d9:er:74:ed:eb', u'g9:d9:er:74:3e:09', u'g9:d9:er:74:e7:e0', u'g9:d9:er:74:eb:61', u'g9:d9:er:74:eb:6e', u'g9:d9:er:74:38:cd', u'g9:d9:er:74:38:ce', u'g9:d9:er:74:3e:00', u'g9:d9:er:74:3e:01', u'g9:d9:er:74:3e:02', u'g9:d9:er:74:38:c0', u'g9:d9:er:93:f8:49', u'g9:d9:er:74:e7:ab', u'64:e5:99:64:a9:58', u'g9:d9:er:74:34:a4', u'g9:d9:er:93:f8:42', u'g9:d9:er:74:e7:ae', u'g9:d9:er:74:e7:ad', u'g9:d9:er:74:38:a4', u'g9:d9:er:74:30:cd', u'g9:d9:er:74:30:ce', u'g9:d9:er:74:30:cb', u'g9:d9:er:74:49:82', u'g9:d9:er:74:45:c0', u'g9:d9:er:74:49:80', u'g9:d9:er:74:e7:ee', u'g9:d9:er:74:e7:ed', u'g9:d9:er:74:e6:61', u'g9:d9:er:74:e6:60', u'g9:d9:er:74:e6:62', u'90:9f:33:2c:cb:bc', u'g9:d9:er:74:e9:e2', u'43:26:66:1e:6b:a0', u'g9:f2:6d:a9:05:1d', u'g9:d9:er:74:34:c2', u'g9:d9:er:74:38:cb', u'g9:d9:er:74:fe:a2', u'g9:d9:er:74:fe:a0', u'g9:d9:er:74:fe:a1', u'a0:63:91:de:7d:49', u'g9:d9:er:74:fe:a9', u'g9:d9:er:74:e7:eb', u'g9:d9:er:74:eb:62', u'g9:d9:er:74:48:8d', u'g9:d9:er:74:45:cd', u'g9:d9:er:74:45:ce', u'g9:d9:er:74:30:c2', u'g9:d9:er:74:49:8b', u'g9:d9:er:74:30:c0', u'g9:d9:er:74:e6:6e', u'g9:d9:er:74:e6:6d', u'g9:d9:er:74:e7:e2', u'g9:d9:er:74:e7:e1', u'g9:d9:er:74:30:c9', u'g9:d9:er:74:fe:ad', u'g9:d9:er:74:fe:ae', u'g9:d9:er:74:fe:ab', u'43:1d:43:10:4c:05']
+160
+160
+40
+40
+T: 2016-05-15 16:32:08 #53 Log
+200
+Azone 68
+Azone 91
+Azone 81
+Azone 73
+Azone 88
+Azone 95
+Azone 96
+Azone 100
+Azone 94
+Azone 96
+Azone 97
+Azone 97
+Azone 91
+Azone 92
+Azone 101
+Azone 94
+Azone 91
+Azone 91
+Azone 97
+Azone 89
+Azone 89
+Azone 85
+Azone 85
+Azone 86
+Azone 88
+Azone 88
+Azone 92
+Azone 94
+Azone 92
+Azone 98
+Azone 100
+Azone 95
+Azone 94
+Azone 100
+Azone 98
+Azone 100
+Azone 104
+Azone 100
+Azone 101
+Azone 98
+Azone 91
+Azone 85
+Azone 100
+Azone 98
+Azone 87
+Azone 88
+Azone 91
+Azone 95
+Azone 89
+Azone 95
+Bzone 80
+Bzone 100
+Bzone 100
+Bzone 96
+Bzone 92
+Bzone 94
+Bzone 97
+Bzone 104
+Bzone 88
+Bzone 89
+Bzone 90
+Bzone 87
+Bzone 82
+Bzone 84
+Bzone 84
+Bzone 85
+Bzone 84
+Bzone 92
+Bzone 96
+Bzone 98
+Bzone 92
+Bzone 98
+Bzone 96
+Bzone 89
+Bzone 94
+Bzone 83
+Bzone 100
+Bzone 96
+Bzone 97
+Bzone 90
+Bzone 86
+Bzone 87
+Bzone 97
+Bzone 95
+Bzone 101
+Bzone 89
+Bzone 87
+Bzone 90
+Bzone 89
+Bzone 86
+Bzone 88
+Bzone 90
+Bzone 86
+Bzone 96
+Bzone 99
+Bzone 96
+Bzone 92
+Bzone 94
+Bzone 105
+Bzone 93
+Czone 84
+Czone 93
+Czone 98
+Czone 100
+Czone 101
+Czone 94
+Czone 86
+Czone 97
+Czone 101
+Czone 100
+Czone 112
+Czone 94
+Czone 94
+Czone 97
+Czone 92
+Czone 90
+Czone 101
+Czone 102
+Czone 106
+Czone 94
+Czone 104
+Czone 85
+Czone 87
+Czone 100
+Czone 103
+Czone 106
+Czone 94
+Czone 94
+Czone 96
+Czone 91
+Czone 88
+Czone 108
+Czone 105
+Czone 91
+Czone 98
+Czone 106
+Czone 97
+Czone 97
+Czone 106
+Czone 106
+Czone 94
+Czone 97
+Czone 99
+Czone 98
+Czone 108
+Czone 109
+Czone 98
+Czone 91
+Czone 103
+Czone 94
+Dzone 73
+Dzone 91
+Dzone 94
+Dzone 89
+Dzone 94
+Dzone 96
+Dzone 92
+Dzone 81
+Dzone 78
+Dzone 87
+Dzone 90
+Dzone 95
+Dzone 98
+Dzone 87
+Dzone 88
+Dzone 95
+Dzone 88
+Dzone 82
+Dzone 77
+Dzone 85
+Dzone 91
+Dzone 87
+Dzone 91
+Dzone 83
+Dzone 84
+Dzone 85
+Dzone 84
+Dzone 86
+Dzone 88
+Dzone 87
+Dzone 88
+Dzone 93
+Dzone 93
+Dzone 99
+Dzone 89
+Dzone 89
+Dzone 82
+Dzone 90
+Dzone 92
+Dzone 92
+Dzone 92
+Dzone 86
+Dzone 85
+Dzone 90
+Dzone 83
+Dzone 83
+Dzone 92
+Dzone 96
+Dzone 89
+Dzone 89
+{u'g9:d9:er:74:f6:eb': 39, u'g9:d9:er:74:f6:ee': 43, u'g9:d9:er:74:f6:ed': 44, u'g9:d9:er:74:45:a4': 146, u'g9:d9:er:74:48:80': 2, u'g9:d9:er:74:02:cb': 2, u'g9:d9:er:74:e9:ee': 86, u'0c:d2:92:51:4f:0f': 109, u'g9:d9:er:74:eb:6b': 37, u'g9:d9:er:95:a0:49': 2, u'g9:d9:er:74:43:8b': 128, u'g9:d9:er:74:46:4b': 199, u'g9:d9:er:74:45:cb': 124, u'g9:d9:er:74:e9:ed': 107, u'g9:d9:er:74:e9:e9': 78, u'g9:d9:er:93:fa:49': 2, u'g9:d9:er:74:f6:e2': 22, u'g9:d9:er:74:f6:e1': 22, u'g9:d9:er:74:f6:e0': 45, u'g9:d9:er:74:30:a4': 166, u'g9:d9:er:74:f6:e9': 53, u'g9:d9:er:74:eb:60': 6, u'g9:d9:er:93:ff:00': 4, u'g9:d9:er:95:01:e0': 8, u'g9:d9:er:74:ee:2d': 118, u'g9:d9:er:74:ee:2e': 122, u'g9:d9:er:95:01:e9': 2, u'04:8d:38:06:4e:18': 138, u'g9:d9:er:93:f8:40': 11, u'90:9f:33:2c:d3:00': 84, u'g9:d9:er:95:01:6b': 2, u'g9:d9:er:74:34:cb': 196, u'g9:d9:er:74:48:89': 2, u'g9:d9:er:74:34:cd': 296, u'g9:d9:er:74:34:ce': 196, u'g9:d9:er:74:3f:0b': 194, u'g9:d9:er:74:3f:0e': 200, u'g9:d9:er:74:3f:0d': 281, u'g9:d9:er:93:7d:ab': 2, u'ac:5a:14:2f:2d:19': 105, u'g9:d9:er:74:46:4d': 281, u'g9:d9:er:74:46:4e': 199, u'g9:d9:er:74:43:8e': 149, u'g9:d9:er:74:43:8d': 188, u'g9:d9:er:74:ea:6d': 93, u'g9:d9:er:74:ea:6e': 70, u'g9:d9:er:74:ea:6b': 80, u'g9:f2:6d:a8:e7:af': 200, u'g9:d9:er:95:01:eb': 6, u'g9:d9:er:93:ff:0b': 6, u'g9:d9:er:93:ff:0e': 6, u'g9:d9:er:74:ee:29': 72, u'g9:d9:er:95:01:ee': 2, u'g9:d9:er:95:01:ed': 8, u'g9:d9:er:74:45:c2': 144, u'g9:d9:er:74:ee:20': 104, u'g9:d9:er:74:ee:21': 104, u'g9:d9:er:74:ee:22': 105, u'g9:d9:er:74:43:81': 149, u'g9:d9:er:74:43:80': 163, u'g9:d9:er:74:43:82': 149, u'g9:d9:er:74:46:42': 198, u'g9:d9:er:74:ea:69': 99, u'g9:d9:er:74:46:40': 200, u'g9:d9:er:74:46:41': 200, u'g9:d9:er:74:43:89': 119, u'g9:d9:er:74:ea:60': 76, u'g9:d9:er:74:ea:61': 52, u'g9:d9:er:74:ea:62': 54, u'g9:d9:er:74:46:49': 198, u'g9:d9:er:74:3f:09': 191, u'g9:d9:er:74:34:c0': 191, u'g9:d9:er:93:f8:41': 4, u'g9:d9:er:74:e9:eb': 81, u'g9:d9:er:74:e7:a2': 31, u'g9:d9:er:74:3f:01': 200, u'g9:d9:er:74:3f:00': 200, u'g9:d9:er:74:3f:02': 200, u'64:09:80:28:c8:52': 96, u'g9:d9:er:93:f8:4e': 31, u'g9:d9:er:74:48:8b': 2, u'g9:d9:er:93:ff:0d': 4, u'g9:d9:er:93:f8:4d': 43, u'g9:d9:er:74:e7:e9': 6, u'90:9f:33:6f:82:a6': 61, u'90:9f:33:62:ba:bc': 181, u'90:9f:33:62:ba:be': 200, u'g9:d9:er:74:e6:69': 42, u'g9:d9:er:74:4d:8b': 200, u'g9:d9:er:74:4d:8d': 310, u'g9:d9:er:74:4d:8e': 200, u'64:e5:99:64:a9:5c': 142, u'g9:d9:er:74:e7:a9': 62, u'g9:d9:er:74:34:c9': 200, u'43:1d:43:30:45:69': 118, u'g9:d9:er:74:e7:a1': 27, u'g9:d9:er:74:e7:a0': 58, u'g9:d9:er:93:f8:4b': 38, u'g9:d9:er:93:ff:09': 1, u'g9:d9:er:74:ed:e2': 89, u'g9:d9:er:74:ed:e0': 96, u'g9:d9:er:74:ed:e1': 91, u'g9:d9:er:74:3e:0d': 269, u'g9:d9:er:74:3e:0e': 197, u'g9:d9:er:74:e9:e1': 67, u'g9:d9:er:74:e6:6b': 66, u'g9:d9:er:74:38:c2': 55, u'g9:d9:er:74:eb:6d': 34, u'g9:d9:er:74:3e:0b': 193, u'g9:d9:er:74:ed:e9': 121, u'g9:d9:er:74:4d:89': 200, u'g9:d9:er:74:4d:80': 200, u'g9:d9:er:74:4d:81': 200, u'g9:d9:er:74:4d:82': 200, u'g9:d9:er:74:38:c9': 52, u'a0:63:91:de:7d:4a': 195, u'g9:d9:er:74:e9:e0': 73, u'g9:d9:er:74:ee:2b': 82, u'g9:d9:er:74:45:c9': 101, u'g9:d9:er:74:eb:69': 34, u'g9:d9:er:74:ed:ed': 178, u'g9:d9:er:74:ed:ee': 145, u'g9:d9:er:74:ed:eb': 136, u'g9:d9:er:74:3e:09': 193, u'g9:d9:er:74:e7:e0': 22, u'g9:d9:er:74:eb:61': 2, u'g9:d9:er:74:eb:6e': 20, u'g9:d9:er:74:38:cd': 65, u'g9:d9:er:74:38:ce': 54, u'g9:d9:er:74:3e:00': 162, u'g9:d9:er:74:3e:01': 159, u'g9:d9:er:74:3e:02': 157, u'g9:d9:er:74:38:c0': 62, u'g9:d9:er:93:f8:49': 33, u'g9:d9:er:74:e7:ab': 64, u'64:e5:99:64:a9:58': 180, u'g9:d9:er:74:34:a4': 187, u'g9:d9:er:93:f8:42': 4, u'g9:d9:er:74:e7:ae': 63, u'g9:d9:er:74:e7:ad': 77, u'g9:d9:er:74:38:a4': 55, u'g9:d9:er:74:30:cd': 207, u'g9:d9:er:74:30:ce': 163, u'g9:d9:er:74:30:cb': 148, u'g9:d9:er:74:49:82': 2, u'g9:d9:er:74:45:c0': 148, u'g9:d9:er:74:49:80': 2, u'g9:d9:er:74:e7:ee': 19, u'g9:d9:er:74:e7:ed': 12, u'g9:d9:er:74:e6:61': 94, u'g9:d9:er:74:e6:60': 102, u'g9:d9:er:74:e6:62': 97, u'90:9f:33:2c:cb:bc': 49, u'g9:d9:er:74:e9:e2': 66, u'43:26:66:1e:6b:a0': 156, u'g9:f2:6d:a9:05:1d': 199, u'g9:d9:er:74:34:c2': 187, u'g9:d9:er:74:38:cb': 58, u'g9:d9:er:74:fe:a2': 111, u'g9:d9:er:74:fe:a0': 113, u'g9:d9:er:74:fe:a1': 110, u'a0:63:91:de:7d:49': 200, u'g9:d9:er:74:fe:a9': 142, u'g9:d9:er:74:e7:eb': 2, u'g9:d9:er:74:eb:62': 2, u'g9:d9:er:74:48:8d': 2, u'g9:d9:er:74:45:cd': 168, u'g9:d9:er:74:45:ce': 155, u'g9:d9:er:74:30:c2': 168, u'g9:d9:er:74:49:8b': 2, u'g9:d9:er:74:30:c0': 175, u'g9:d9:er:74:e6:6e': 92, u'g9:d9:er:74:e6:6d': 87, u'g9:d9:er:74:e7:e2': 5, u'g9:d9:er:74:e7:e1': 5, u'g9:d9:er:74:30:c9': 134, u'g9:d9:er:74:fe:ad': 175, u'g9:d9:er:74:fe:ae': 144, u'g9:d9:er:74:fe:ab': 141, u'43:1d:43:10:4c:05': 46}
+[u'g9:d9:er:74:f6:eb', u'g9:d9:er:74:f6:ee', u'g9:d9:er:74:f6:ed', u'g9:d9:er:74:45:a4', u'g9:d9:er:74:48:80', u'g9:d9:er:74:02:cb', u'g9:d9:er:74:e9:ee', u'0c:d2:92:51:4f:0f', u'g9:d9:er:74:eb:6b', u'g9:d9:er:95:a0:49', u'g9:d9:er:74:43:8b', u'g9:d9:er:74:46:4b', u'g9:d9:er:74:45:cb', u'g9:d9:er:74:e9:ed', u'g9:d9:er:74:e9:e9', u'g9:d9:er:93:fa:49', u'g9:d9:er:74:f6:e2', u'g9:d9:er:74:f6:e1', u'g9:d9:er:74:f6:e0', u'g9:d9:er:74:30:a4', u'g9:d9:er:74:f6:e9', u'g9:d9:er:74:eb:60', u'g9:d9:er:93:ff:00', u'g9:d9:er:95:01:e0', u'g9:d9:er:74:ee:2d', u'g9:d9:er:74:ee:2e', u'g9:d9:er:95:01:e9', u'04:8d:38:06:4e:18', u'g9:d9:er:93:f8:40', u'90:9f:33:2c:d3:00', u'g9:d9:er:95:01:6b', u'g9:d9:er:74:34:cb', u'g9:d9:er:74:48:89', u'g9:d9:er:74:34:cd', u'g9:d9:er:74:34:ce', u'g9:d9:er:74:3f:0b', u'g9:d9:er:74:3f:0e', u'g9:d9:er:74:3f:0d', u'g9:d9:er:93:7d:ab', u'ac:5a:14:2f:2d:19', u'g9:d9:er:74:46:4d', u'g9:d9:er:74:46:4e', u'g9:d9:er:74:43:8e', u'g9:d9:er:74:43:8d', u'g9:d9:er:74:ea:6d', u'g9:d9:er:74:ea:6e', u'g9:d9:er:74:ea:6b', u'g9:f2:6d:a8:e7:af', u'g9:d9:er:95:01:eb', u'g9:d9:er:93:ff:0b', u'g9:d9:er:93:ff:0e', u'g9:d9:er:74:ee:29', u'g9:d9:er:95:01:ee', u'g9:d9:er:95:01:ed', u'g9:d9:er:74:45:c2', u'g9:d9:er:74:ee:20', u'g9:d9:er:74:ee:21', u'g9:d9:er:74:ee:22', u'g9:d9:er:74:43:81', u'g9:d9:er:74:43:80', u'g9:d9:er:74:43:82', u'g9:d9:er:74:46:42', u'g9:d9:er:74:ea:69', u'g9:d9:er:74:46:40', u'g9:d9:er:74:46:41', u'g9:d9:er:74:43:89', u'g9:d9:er:74:ea:60', u'g9:d9:er:74:ea:61', u'g9:d9:er:74:ea:62', u'g9:d9:er:74:46:49', u'g9:d9:er:74:3f:09', u'g9:d9:er:74:34:c0', u'g9:d9:er:93:f8:41', u'g9:d9:er:74:e9:eb', u'g9:d9:er:74:e7:a2', u'g9:d9:er:74:3f:01', u'g9:d9:er:74:3f:00', u'g9:d9:er:74:3f:02', u'64:09:80:28:c8:52', u'g9:d9:er:93:f8:4e', u'g9:d9:er:74:48:8b', u'g9:d9:er:93:ff:0d', u'g9:d9:er:93:f8:4d', u'g9:d9:er:74:e7:e9', u'90:9f:33:6f:82:a6', u'90:9f:33:62:ba:bc', u'90:9f:33:62:ba:be', u'g9:d9:er:74:e6:69', u'g9:d9:er:74:4d:8b', u'g9:d9:er:74:4d:8d', u'g9:d9:er:74:4d:8e', u'64:e5:99:64:a9:5c', u'g9:d9:er:74:e7:a9', u'g9:d9:er:74:34:c9', u'43:1d:43:30:45:69', u'g9:d9:er:74:e7:a1', u'g9:d9:er:74:e7:a0', u'g9:d9:er:93:f8:4b', u'g9:d9:er:93:ff:09', u'g9:d9:er:74:ed:e2', u'g9:d9:er:74:ed:e0', u'g9:d9:er:74:ed:e1', u'g9:d9:er:74:3e:0d', u'g9:d9:er:74:3e:0e', u'g9:d9:er:74:e9:e1', u'g9:d9:er:74:e6:6b', u'g9:d9:er:74:38:c2', u'g9:d9:er:74:eb:6d', u'g9:d9:er:74:3e:0b', u'g9:d9:er:74:ed:e9', u'g9:d9:er:74:4d:89', u'g9:d9:er:74:4d:80', u'g9:d9:er:74:4d:81', u'g9:d9:er:74:4d:82', u'g9:d9:er:74:38:c9', u'a0:63:91:de:7d:4a', u'g9:d9:er:74:e9:e0', u'g9:d9:er:74:ee:2b', u'g9:d9:er:74:45:c9', u'g9:d9:er:74:eb:69', u'g9:d9:er:74:ed:ed', u'g9:d9:er:74:ed:ee', u'g9:d9:er:74:ed:eb', u'g9:d9:er:74:3e:09', u'g9:d9:er:74:e7:e0', u'g9:d9:er:74:eb:61', u'g9:d9:er:74:eb:6e', u'g9:d9:er:74:38:cd', u'g9:d9:er:74:38:ce', u'g9:d9:er:74:3e:00', u'g9:d9:er:74:3e:01', u'g9:d9:er:74:3e:02', u'g9:d9:er:74:38:c0', u'g9:d9:er:93:f8:49', u'g9:d9:er:74:e7:ab', u'64:e5:99:64:a9:58', u'g9:d9:er:74:34:a4', u'g9:d9:er:93:f8:42', u'g9:d9:er:74:e7:ae', u'g9:d9:er:74:e7:ad', u'g9:d9:er:74:38:a4', u'g9:d9:er:74:30:cd', u'g9:d9:er:74:30:ce', u'g9:d9:er:74:30:cb', u'g9:d9:er:74:49:82', u'g9:d9:er:74:45:c0', u'g9:d9:er:74:49:80', u'g9:d9:er:74:e7:ee', u'g9:d9:er:74:e7:ed', u'g9:d9:er:74:e6:61', u'g9:d9:er:74:e6:60', u'g9:d9:er:74:e6:62', u'90:9f:33:2c:cb:bc', u'g9:d9:er:74:e9:e2', u'43:26:66:1e:6b:a0', u'g9:f2:6d:a9:05:1d', u'g9:d9:er:74:34:c2', u'g9:d9:er:74:38:cb', u'g9:d9:er:74:fe:a2', u'g9:d9:er:74:fe:a0', u'g9:d9:er:74:fe:a1', u'a0:63:91:de:7d:49', u'g9:d9:er:74:fe:a9', u'g9:d9:er:74:e7:eb', u'g9:d9:er:74:eb:62', u'g9:d9:er:74:48:8d', u'g9:d9:er:74:45:cd', u'g9:d9:er:74:45:ce', u'g9:d9:er:74:30:c2', u'g9:d9:er:74:49:8b', u'g9:d9:er:74:30:c0', u'g9:d9:er:74:e6:6e', u'g9:d9:er:74:e6:6d', u'g9:d9:er:74:e7:e2', u'g9:d9:er:74:e7:e1', u'g9:d9:er:74:30:c9', u'g9:d9:er:74:fe:ad', u'g9:d9:er:74:fe:ae', u'g9:d9:er:74:fe:ab', u'43:1d:43:10:4c:05']
+160
+160
+40
+40
+T: 2016-05-15 16:33:22 #54 Log
+200
+Azone 68
+Azone 91
+Azone 81
+Azone 73
+Azone 88
+Azone 95
+Azone 96
+Azone 100
+Azone 94
+Azone 96
+Azone 97
+Azone 97
+Azone 91
+Azone 92
+Azone 101
+Azone 94
+Azone 91
+Azone 91
+Azone 97
+Azone 89
+Azone 89
+Azone 85
+Azone 85
+Azone 86
+Azone 88
+Azone 88
+Azone 92
+Azone 94
+Azone 92
+Azone 98
+Azone 100
+Azone 95
+Azone 94
+Azone 100
+Azone 98
+Azone 100
+Azone 104
+Azone 100
+Azone 101
+Azone 98
+Azone 91
+Azone 85
+Azone 100
+Azone 98
+Azone 87
+Azone 88
+Azone 91
+Azone 95
+Azone 89
+Azone 95
+Bzone 80
+Bzone 100
+Bzone 100
+Bzone 96
+Bzone 92
+Bzone 94
+Bzone 97
+Bzone 104
+Bzone 88
+Bzone 89
+Bzone 90
+Bzone 87
+Bzone 82
+Bzone 84
+Bzone 84
+Bzone 85
+Bzone 84
+Bzone 92
+Bzone 96
+Bzone 98
+Bzone 92
+Bzone 98
+Bzone 96
+Bzone 89
+Bzone 94
+Bzone 83
+Bzone 100
+Bzone 96
+Bzone 97
+Bzone 90
+Bzone 86
+Bzone 87
+Bzone 97
+Bzone 95
+Bzone 101
+Bzone 89
+Bzone 87
+Bzone 90
+Bzone 89
+Bzone 86
+Bzone 88
+Bzone 90
+Bzone 86
+Bzone 96
+Bzone 99
+Bzone 96
+Bzone 92
+Bzone 94
+Bzone 105
+Bzone 93
+Czone 84
+Czone 93
+Czone 98
+Czone 100
+Czone 101
+Czone 94
+Czone 86
+Czone 97
+Czone 101
+Czone 100
+Czone 112
+Czone 94
+Czone 94
+Czone 97
+Czone 92
+Czone 90
+Czone 101
+Czone 102
+Czone 106
+Czone 94
+Czone 104
+Czone 85
+Czone 87
+Czone 100
+Czone 103
+Czone 106
+Czone 94
+Czone 94
+Czone 96
+Czone 91
+Czone 88
+Czone 108
+Czone 105
+Czone 91
+Czone 98
+Czone 106
+Czone 97
+Czone 97
+Czone 106
+Czone 106
+Czone 94
+Czone 97
+Czone 99
+Czone 98
+Czone 108
+Czone 109
+Czone 98
+Czone 91
+Czone 103
+Czone 94
+Dzone 73
+Dzone 91
+Dzone 94
+Dzone 89
+Dzone 94
+Dzone 96
+Dzone 92
+Dzone 81
+Dzone 78
+Dzone 87
+Dzone 90
+Dzone 95
+Dzone 98
+Dzone 87
+Dzone 88
+Dzone 95
+Dzone 88
+Dzone 82
+Dzone 77
+Dzone 85
+Dzone 91
+Dzone 87
+Dzone 91
+Dzone 83
+Dzone 84
+Dzone 85
+Dzone 84
+Dzone 86
+Dzone 88
+Dzone 87
+Dzone 88
+Dzone 93
+Dzone 93
+Dzone 99
+Dzone 89
+Dzone 89
+Dzone 82
+Dzone 90
+Dzone 92
+Dzone 92
+Dzone 92
+Dzone 86
+Dzone 85
+Dzone 90
+Dzone 83
+Dzone 83
+Dzone 92
+Dzone 96
+Dzone 89
+Dzone 89
+{u'g9:d9:er:74:f6:eb': 39, u'g9:d9:er:74:f6:ee': 43, u'g9:d9:er:74:f6:ed': 44, u'g9:d9:er:74:45:a4': 146, u'g9:d9:er:74:48:80': 2, u'g9:d9:er:74:02:cb': 2, u'g9:d9:er:74:e9:ee': 86, u'0c:d2:92:51:4f:0f': 109, u'g9:d9:er:74:eb:6b': 37, u'g9:d9:er:95:a0:49': 2, u'g9:d9:er:74:43:8b': 128, u'g9:d9:er:74:46:4b': 199, u'g9:d9:er:74:45:cb': 124, u'g9:d9:er:74:e9:ed': 107, u'g9:d9:er:74:e9:e9': 78, u'g9:d9:er:93:fa:49': 2, u'g9:d9:er:74:f6:e2': 22, u'g9:d9:er:74:f6:e1': 22, u'g9:d9:er:74:f6:e0': 45, u'g9:d9:er:74:30:a4': 166, u'g9:d9:er:74:f6:e9': 53, u'g9:d9:er:74:eb:60': 6, u'g9:d9:er:93:ff:00': 4, u'g9:d9:er:95:01:e0': 8, u'g9:d9:er:74:ee:2d': 118, u'g9:d9:er:74:ee:2e': 122, u'g9:d9:er:95:01:e9': 2, u'04:8d:38:06:4e:18': 138, u'g9:d9:er:93:f8:40': 11, u'90:9f:33:2c:d3:00': 84, u'g9:d9:er:95:01:6b': 2, u'g9:d9:er:74:34:cb': 196, u'g9:d9:er:74:48:89': 2, u'g9:d9:er:74:34:cd': 296, u'g9:d9:er:74:34:ce': 196, u'g9:d9:er:74:3f:0b': 194, u'g9:d9:er:74:3f:0e': 200, u'g9:d9:er:74:3f:0d': 281, u'g9:d9:er:93:7d:ab': 2, u'ac:5a:14:2f:2d:19': 105, u'g9:d9:er:74:46:4d': 281, u'g9:d9:er:74:46:4e': 199, u'g9:d9:er:74:43:8e': 149, u'g9:d9:er:74:43:8d': 188, u'g9:d9:er:74:ea:6d': 93, u'g9:d9:er:74:ea:6e': 70, u'g9:d9:er:74:ea:6b': 80, u'g9:f2:6d:a8:e7:af': 200, u'g9:d9:er:95:01:eb': 6, u'g9:d9:er:93:ff:0b': 6, u'g9:d9:er:93:ff:0e': 6, u'g9:d9:er:74:ee:29': 72, u'g9:d9:er:95:01:ee': 2, u'g9:d9:er:95:01:ed': 8, u'g9:d9:er:74:45:c2': 144, u'g9:d9:er:74:ee:20': 104, u'g9:d9:er:74:ee:21': 104, u'g9:d9:er:74:ee:22': 105, u'g9:d9:er:74:43:81': 149, u'g9:d9:er:74:43:80': 163, u'g9:d9:er:74:43:82': 149, u'g9:d9:er:74:46:42': 198, u'g9:d9:er:74:ea:69': 99, u'g9:d9:er:74:46:40': 200, u'g9:d9:er:74:46:41': 200, u'g9:d9:er:74:43:89': 119, u'g9:d9:er:74:ea:60': 76, u'g9:d9:er:74:ea:61': 52, u'g9:d9:er:74:ea:62': 54, u'g9:d9:er:74:46:49': 198, u'g9:d9:er:74:3f:09': 191, u'g9:d9:er:74:34:c0': 191, u'g9:d9:er:93:f8:41': 4, u'g9:d9:er:74:e9:eb': 81, u'g9:d9:er:74:e7:a2': 31, u'g9:d9:er:74:3f:01': 200, u'g9:d9:er:74:3f:00': 200, u'g9:d9:er:74:3f:02': 200, u'64:09:80:28:c8:52': 96, u'g9:d9:er:93:f8:4e': 31, u'g9:d9:er:74:48:8b': 2, u'g9:d9:er:93:ff:0d': 4, u'g9:d9:er:93:f8:4d': 43, u'g9:d9:er:74:e7:e9': 6, u'90:9f:33:6f:82:a6': 61, u'90:9f:33:62:ba:bc': 181, u'90:9f:33:62:ba:be': 200, u'g9:d9:er:74:e6:69': 42, u'g9:d9:er:74:4d:8b': 200, u'g9:d9:er:74:4d:8d': 310, u'g9:d9:er:74:4d:8e': 200, u'64:e5:99:64:a9:5c': 142, u'g9:d9:er:74:e7:a9': 62, u'g9:d9:er:74:34:c9': 200, u'43:1d:43:30:45:69': 118, u'g9:d9:er:74:e7:a1': 27, u'g9:d9:er:74:e7:a0': 58, u'g9:d9:er:93:f8:4b': 38, u'g9:d9:er:93:ff:09': 1, u'g9:d9:er:74:ed:e2': 89, u'g9:d9:er:74:ed:e0': 96, u'g9:d9:er:74:ed:e1': 91, u'g9:d9:er:74:3e:0d': 269, u'g9:d9:er:74:3e:0e': 197, u'g9:d9:er:74:e9:e1': 67, u'g9:d9:er:74:e6:6b': 66, u'g9:d9:er:74:38:c2': 55, u'g9:d9:er:74:eb:6d': 34, u'g9:d9:er:74:3e:0b': 193, u'g9:d9:er:74:ed:e9': 121, u'g9:d9:er:74:4d:89': 200, u'g9:d9:er:74:4d:80': 200, u'g9:d9:er:74:4d:81': 200, u'g9:d9:er:74:4d:82': 200, u'g9:d9:er:74:38:c9': 52, u'a0:63:91:de:7d:4a': 195, u'g9:d9:er:74:e9:e0': 73, u'g9:d9:er:74:ee:2b': 82, u'g9:d9:er:74:45:c9': 101, u'g9:d9:er:74:eb:69': 34, u'g9:d9:er:74:ed:ed': 178, u'g9:d9:er:74:ed:ee': 145, u'g9:d9:er:74:ed:eb': 136, u'g9:d9:er:74:3e:09': 193, u'g9:d9:er:74:e7:e0': 22, u'g9:d9:er:74:eb:61': 2, u'g9:d9:er:74:eb:6e': 20, u'g9:d9:er:74:38:cd': 65, u'g9:d9:er:74:38:ce': 54, u'g9:d9:er:74:3e:00': 162, u'g9:d9:er:74:3e:01': 159, u'g9:d9:er:74:3e:02': 157, u'g9:d9:er:74:38:c0': 62, u'g9:d9:er:93:f8:49': 33, u'g9:d9:er:74:e7:ab': 64, u'64:e5:99:64:a9:58': 180, u'g9:d9:er:74:34:a4': 187, u'g9:d9:er:93:f8:42': 4, u'g9:d9:er:74:e7:ae': 63, u'g9:d9:er:74:e7:ad': 77, u'g9:d9:er:74:38:a4': 55, u'g9:d9:er:74:30:cd': 207, u'g9:d9:er:74:30:ce': 163, u'g9:d9:er:74:30:cb': 148, u'g9:d9:er:74:49:82': 2, u'g9:d9:er:74:45:c0': 148, u'g9:d9:er:74:49:80': 2, u'g9:d9:er:74:e7:ee': 19, u'g9:d9:er:74:e7:ed': 12, u'g9:d9:er:74:e6:61': 94, u'g9:d9:er:74:e6:60': 102, u'g9:d9:er:74:e6:62': 97, u'90:9f:33:2c:cb:bc': 49, u'g9:d9:er:74:e9:e2': 66, u'43:26:66:1e:6b:a0': 156, u'g9:f2:6d:a9:05:1d': 199, u'g9:d9:er:74:34:c2': 187, u'g9:d9:er:74:38:cb': 58, u'g9:d9:er:74:fe:a2': 111, u'g9:d9:er:74:fe:a0': 113, u'g9:d9:er:74:fe:a1': 110, u'a0:63:91:de:7d:49': 200, u'g9:d9:er:74:fe:a9': 142, u'g9:d9:er:74:e7:eb': 2, u'g9:d9:er:74:eb:62': 2, u'g9:d9:er:74:48:8d': 2, u'g9:d9:er:74:45:cd': 168, u'g9:d9:er:74:45:ce': 155, u'g9:d9:er:74:30:c2': 168, u'g9:d9:er:74:49:8b': 2, u'g9:d9:er:74:30:c0': 175, u'g9:d9:er:74:e6:6e': 92, u'g9:d9:er:74:e6:6d': 87, u'g9:d9:er:74:e7:e2': 5, u'g9:d9:er:74:e7:e1': 5, u'g9:d9:er:74:30:c9': 134, u'g9:d9:er:74:fe:ad': 175, u'g9:d9:er:74:fe:ae': 144, u'g9:d9:er:74:fe:ab': 141, u'43:1d:43:10:4c:05': 46}
+[u'g9:d9:er:74:f6:eb', u'g9:d9:er:74:f6:ee', u'g9:d9:er:74:f6:ed', u'g9:d9:er:74:45:a4', u'g9:d9:er:74:48:80', u'g9:d9:er:74:02:cb', u'g9:d9:er:74:e9:ee', u'0c:d2:92:51:4f:0f', u'g9:d9:er:74:eb:6b', u'g9:d9:er:95:a0:49', u'g9:d9:er:74:43:8b', u'g9:d9:er:74:46:4b', u'g9:d9:er:74:45:cb', u'g9:d9:er:74:e9:ed', u'g9:d9:er:74:e9:e9', u'g9:d9:er:93:fa:49', u'g9:d9:er:74:f6:e2', u'g9:d9:er:74:f6:e1', u'g9:d9:er:74:f6:e0', u'g9:d9:er:74:30:a4', u'g9:d9:er:74:f6:e9', u'g9:d9:er:74:eb:60', u'g9:d9:er:93:ff:00', u'g9:d9:er:95:01:e0', u'g9:d9:er:74:ee:2d', u'g9:d9:er:74:ee:2e', u'g9:d9:er:95:01:e9', u'04:8d:38:06:4e:18', u'g9:d9:er:93:f8:40', u'90:9f:33:2c:d3:00', u'g9:d9:er:95:01:6b', u'g9:d9:er:74:34:cb', u'g9:d9:er:74:48:89', u'g9:d9:er:74:34:cd', u'g9:d9:er:74:34:ce', u'g9:d9:er:74:3f:0b', u'g9:d9:er:74:3f:0e', u'g9:d9:er:74:3f:0d', u'g9:d9:er:93:7d:ab', u'ac:5a:14:2f:2d:19', u'g9:d9:er:74:46:4d', u'g9:d9:er:74:46:4e', u'g9:d9:er:74:43:8e', u'g9:d9:er:74:43:8d', u'g9:d9:er:74:ea:6d', u'g9:d9:er:74:ea:6e', u'g9:d9:er:74:ea:6b', u'g9:f2:6d:a8:e7:af', u'g9:d9:er:95:01:eb', u'g9:d9:er:93:ff:0b', u'g9:d9:er:93:ff:0e', u'g9:d9:er:74:ee:29', u'g9:d9:er:95:01:ee', u'g9:d9:er:95:01:ed', u'g9:d9:er:74:45:c2', u'g9:d9:er:74:ee:20', u'g9:d9:er:74:ee:21', u'g9:d9:er:74:ee:22', u'g9:d9:er:74:43:81', u'g9:d9:er:74:43:80', u'g9:d9:er:74:43:82', u'g9:d9:er:74:46:42', u'g9:d9:er:74:ea:69', u'g9:d9:er:74:46:40', u'g9:d9:er:74:46:41', u'g9:d9:er:74:43:89', u'g9:d9:er:74:ea:60', u'g9:d9:er:74:ea:61', u'g9:d9:er:74:ea:62', u'g9:d9:er:74:46:49', u'g9:d9:er:74:3f:09', u'g9:d9:er:74:34:c0', u'g9:d9:er:93:f8:41', u'g9:d9:er:74:e9:eb', u'g9:d9:er:74:e7:a2', u'g9:d9:er:74:3f:01', u'g9:d9:er:74:3f:00', u'g9:d9:er:74:3f:02', u'64:09:80:28:c8:52', u'g9:d9:er:93:f8:4e', u'g9:d9:er:74:48:8b', u'g9:d9:er:93:ff:0d', u'g9:d9:er:93:f8:4d', u'g9:d9:er:74:e7:e9', u'90:9f:33:6f:82:a6', u'90:9f:33:62:ba:bc', u'90:9f:33:62:ba:be', u'g9:d9:er:74:e6:69', u'g9:d9:er:74:4d:8b', u'g9:d9:er:74:4d:8d', u'g9:d9:er:74:4d:8e', u'64:e5:99:64:a9:5c', u'g9:d9:er:74:e7:a9', u'g9:d9:er:74:34:c9', u'43:1d:43:30:45:69', u'g9:d9:er:74:e7:a1', u'g9:d9:er:74:e7:a0', u'g9:d9:er:93:f8:4b', u'g9:d9:er:93:ff:09', u'g9:d9:er:74:ed:e2', u'g9:d9:er:74:ed:e0', u'g9:d9:er:74:ed:e1', u'g9:d9:er:74:3e:0d', u'g9:d9:er:74:3e:0e', u'g9:d9:er:74:e9:e1', u'g9:d9:er:74:e6:6b', u'g9:d9:er:74:38:c2', u'g9:d9:er:74:eb:6d', u'g9:d9:er:74:3e:0b', u'g9:d9:er:74:ed:e9', u'g9:d9:er:74:4d:89', u'g9:d9:er:74:4d:80', u'g9:d9:er:74:4d:81', u'g9:d9:er:74:4d:82', u'g9:d9:er:74:38:c9', u'a0:63:91:de:7d:4a', u'g9:d9:er:74:e9:e0', u'g9:d9:er:74:ee:2b', u'g9:d9:er:74:45:c9', u'g9:d9:er:74:eb:69', u'g9:d9:er:74:ed:ed', u'g9:d9:er:74:ed:ee', u'g9:d9:er:74:ed:eb', u'g9:d9:er:74:3e:09', u'g9:d9:er:74:e7:e0', u'g9:d9:er:74:eb:61', u'g9:d9:er:74:eb:6e', u'g9:d9:er:74:38:cd', u'g9:d9:er:74:38:ce', u'g9:d9:er:74:3e:00', u'g9:d9:er:74:3e:01', u'g9:d9:er:74:3e:02', u'g9:d9:er:74:38:c0', u'g9:d9:er:93:f8:49', u'g9:d9:er:74:e7:ab', u'64:e5:99:64:a9:58', u'g9:d9:er:74:34:a4', u'g9:d9:er:93:f8:42', u'g9:d9:er:74:e7:ae', u'g9:d9:er:74:e7:ad', u'g9:d9:er:74:38:a4', u'g9:d9:er:74:30:cd', u'g9:d9:er:74:30:ce', u'g9:d9:er:74:30:cb', u'g9:d9:er:74:49:82', u'g9:d9:er:74:45:c0', u'g9:d9:er:74:49:80', u'g9:d9:er:74:e7:ee', u'g9:d9:er:74:e7:ed', u'g9:d9:er:74:e6:61', u'g9:d9:er:74:e6:60', u'g9:d9:er:74:e6:62', u'90:9f:33:2c:cb:bc', u'g9:d9:er:74:e9:e2', u'43:26:66:1e:6b:a0', u'g9:f2:6d:a9:05:1d', u'g9:d9:er:74:34:c2', u'g9:d9:er:74:38:cb', u'g9:d9:er:74:fe:a2', u'g9:d9:er:74:fe:a0', u'g9:d9:er:74:fe:a1', u'a0:63:91:de:7d:49', u'g9:d9:er:74:fe:a9', u'g9:d9:er:74:e7:eb', u'g9:d9:er:74:eb:62', u'g9:d9:er:74:48:8d', u'g9:d9:er:74:45:cd', u'g9:d9:er:74:45:ce', u'g9:d9:er:74:30:c2', u'g9:d9:er:74:49:8b', u'g9:d9:er:74:30:c0', u'g9:d9:er:74:e6:6e', u'g9:d9:er:74:e6:6d', u'g9:d9:er:74:e7:e2', u'g9:d9:er:74:e7:e1', u'g9:d9:er:74:30:c9', u'g9:d9:er:74:fe:ad', u'g9:d9:er:74:fe:ae', u'g9:d9:er:74:fe:ab', u'43:1d:43:10:4c:05']
+160
+160
+40
+40
+T: 2016-05-15 16:35:27 #55 Log
+200
+Azone 68
+Azone 91
+Azone 81
+Azone 73
+Azone 88
+Azone 95
+Azone 96
+Azone 100
+Azone 94
+Azone 96
+Azone 97
+Azone 97
+Azone 91
+Azone 92
+Azone 101
+Azone 94
+Azone 91
+Azone 91
+Azone 97
+Azone 89
+Azone 89
+Azone 85
+Azone 85
+Azone 86
+Azone 88
+Azone 88
+Azone 92
+Azone 94
+Azone 92
+Azone 98
+Azone 100
+Azone 95
+Azone 94
+Azone 100
+Azone 98
+Azone 100
+Azone 104
+Azone 100
+Azone 101
+Azone 98
+Azone 91
+Azone 85
+Azone 100
+Azone 98
+Azone 87
+Azone 88
+Azone 91
+Azone 95
+Azone 89
+Azone 95
+Bzone 80
+Bzone 100
+Bzone 100
+Bzone 96
+Bzone 92
+Bzone 94
+Bzone 97
+Bzone 104
+Bzone 88
+Bzone 89
+Bzone 90
+Bzone 87
+Bzone 82
+Bzone 84
+Bzone 84
+Bzone 85
+Bzone 84
+Bzone 92
+Bzone 96
+Bzone 98
+Bzone 92
+Bzone 98
+Bzone 96
+Bzone 89
+Bzone 94
+Bzone 83
+Bzone 100
+Bzone 96
+Bzone 97
+Bzone 90
+Bzone 86
+Bzone 87
+Bzone 97
+Bzone 95
+Bzone 101
+Bzone 89
+Bzone 87
+Bzone 90
+Bzone 89
+Bzone 86
+Bzone 88
+Bzone 90
+Bzone 86
+Bzone 96
+Bzone 99
+Bzone 96
+Bzone 92
+Bzone 94
+Bzone 105
+Bzone 93
+Czone 84
+Czone 93
+Czone 98
+Czone 100
+Czone 101
+Czone 94
+Czone 86
+Czone 97
+Czone 101
+Czone 100
+Czone 112
+Czone 94
+Czone 94
+Czone 97
+Czone 92
+Czone 90
+Czone 101
+Czone 102
+Czone 106
+Czone 94
+Czone 104
+Czone 85
+Czone 87
+Czone 100
+Czone 103
+Czone 106
+Czone 94
+Czone 94
+Czone 96
+Czone 91
+Czone 88
+Czone 108
+Czone 105
+Czone 91
+Czone 98
+Czone 106
+Czone 97
+Czone 97
+Czone 106
+Czone 106
+Czone 94
+Czone 97
+Czone 99
+Czone 98
+Czone 108
+Czone 109
+Czone 98
+Czone 91
+Czone 103
+Czone 94
+Dzone 73
+Dzone 91
+Dzone 94
+Dzone 89
+Dzone 94
+Dzone 96
+Dzone 92
+Dzone 81
+Dzone 78
+Dzone 87
+Dzone 90
+Dzone 95
+Dzone 98
+Dzone 87
+Dzone 88
+Dzone 95
+Dzone 88
+Dzone 82
+Dzone 77
+Dzone 85
+Dzone 91
+Dzone 87
+Dzone 91
+Dzone 83
+Dzone 84
+Dzone 85
+Dzone 84
+Dzone 86
+Dzone 88
+Dzone 87
+Dzone 88
+Dzone 93
+Dzone 93
+Dzone 99
+Dzone 89
+Dzone 89
+Dzone 82
+Dzone 90
+Dzone 92
+Dzone 92
+Dzone 92
+Dzone 86
+Dzone 85
+Dzone 90
+Dzone 83
+Dzone 83
+Dzone 92
+Dzone 96
+Dzone 89
+Dzone 89
+{u'g9:d9:er:74:f6:eb': 39, u'g9:d9:er:74:f6:ee': 43, u'g9:d9:er:74:f6:ed': 44, u'g9:d9:er:74:45:a4': 146, u'g9:d9:er:74:48:80': 2, u'g9:d9:er:74:02:cb': 2, u'g9:d9:er:74:e9:ee': 86, u'0c:d2:92:51:4f:0f': 109, u'g9:d9:er:74:eb:6b': 37, u'g9:d9:er:95:a0:49': 2, u'g9:d9:er:74:43:8b': 128, u'g9:d9:er:74:46:4b': 199, u'g9:d9:er:74:45:cb': 124, u'g9:d9:er:74:e9:ed': 107, u'g9:d9:er:74:e9:e9': 78, u'g9:d9:er:93:fa:49': 2, u'g9:d9:er:74:f6:e2': 22, u'g9:d9:er:74:f6:e1': 22, u'g9:d9:er:74:f6:e0': 45, u'g9:d9:er:74:30:a4': 166, u'g9:d9:er:74:f6:e9': 53, u'g9:d9:er:74:eb:60': 6, u'g9:d9:er:93:ff:00': 4, u'g9:d9:er:95:01:e0': 8, u'g9:d9:er:74:ee:2d': 118, u'g9:d9:er:74:ee:2e': 122, u'g9:d9:er:95:01:e9': 2, u'04:8d:38:06:4e:18': 138, u'g9:d9:er:93:f8:40': 11, u'90:9f:33:2c:d3:00': 84, u'g9:d9:er:95:01:6b': 2, u'g9:d9:er:74:34:cb': 196, u'g9:d9:er:74:48:89': 2, u'g9:d9:er:74:34:cd': 296, u'g9:d9:er:74:34:ce': 196, u'g9:d9:er:74:3f:0b': 194, u'g9:d9:er:74:3f:0e': 200, u'g9:d9:er:74:3f:0d': 281, u'g9:d9:er:93:7d:ab': 2, u'ac:5a:14:2f:2d:19': 105, u'g9:d9:er:74:46:4d': 281, u'g9:d9:er:74:46:4e': 199, u'g9:d9:er:74:43:8e': 149, u'g9:d9:er:74:43:8d': 188, u'g9:d9:er:74:ea:6d': 93, u'g9:d9:er:74:ea:6e': 70, u'g9:d9:er:74:ea:6b': 80, u'g9:f2:6d:a8:e7:af': 200, u'g9:d9:er:95:01:eb': 6, u'g9:d9:er:93:ff:0b': 6, u'g9:d9:er:93:ff:0e': 6, u'g9:d9:er:74:ee:29': 72, u'g9:d9:er:95:01:ee': 2, u'g9:d9:er:95:01:ed': 8, u'g9:d9:er:74:45:c2': 144, u'g9:d9:er:74:ee:20': 104, u'g9:d9:er:74:ee:21': 104, u'g9:d9:er:74:ee:22': 105, u'g9:d9:er:74:43:81': 149, u'g9:d9:er:74:43:80': 163, u'g9:d9:er:74:43:82': 149, u'g9:d9:er:74:46:42': 198, u'g9:d9:er:74:ea:69': 99, u'g9:d9:er:74:46:40': 200, u'g9:d9:er:74:46:41': 200, u'g9:d9:er:74:43:89': 119, u'g9:d9:er:74:ea:60': 76, u'g9:d9:er:74:ea:61': 52, u'g9:d9:er:74:ea:62': 54, u'g9:d9:er:74:46:49': 198, u'g9:d9:er:74:3f:09': 191, u'g9:d9:er:74:34:c0': 191, u'g9:d9:er:93:f8:41': 4, u'g9:d9:er:74:e9:eb': 81, u'g9:d9:er:74:e7:a2': 31, u'g9:d9:er:74:3f:01': 200, u'g9:d9:er:74:3f:00': 200, u'g9:d9:er:74:3f:02': 200, u'64:09:80:28:c8:52': 96, u'g9:d9:er:93:f8:4e': 31, u'g9:d9:er:74:48:8b': 2, u'g9:d9:er:93:ff:0d': 4, u'g9:d9:er:93:f8:4d': 43, u'g9:d9:er:74:e7:e9': 6, u'90:9f:33:6f:82:a6': 61, u'90:9f:33:62:ba:bc': 181, u'90:9f:33:62:ba:be': 200, u'g9:d9:er:74:e6:69': 42, u'g9:d9:er:74:4d:8b': 200, u'g9:d9:er:74:4d:8d': 310, u'g9:d9:er:74:4d:8e': 200, u'64:e5:99:64:a9:5c': 142, u'g9:d9:er:74:e7:a9': 62, u'g9:d9:er:74:34:c9': 200, u'43:1d:43:30:45:69': 118, u'g9:d9:er:74:e7:a1': 27, u'g9:d9:er:74:e7:a0': 58, u'g9:d9:er:93:f8:4b': 38, u'g9:d9:er:93:ff:09': 1, u'g9:d9:er:74:ed:e2': 89, u'g9:d9:er:74:ed:e0': 96, u'g9:d9:er:74:ed:e1': 91, u'g9:d9:er:74:3e:0d': 269, u'g9:d9:er:74:3e:0e': 197, u'g9:d9:er:74:e9:e1': 67, u'g9:d9:er:74:e6:6b': 66, u'g9:d9:er:74:38:c2': 55, u'g9:d9:er:74:eb:6d': 34, u'g9:d9:er:74:3e:0b': 193, u'g9:d9:er:74:ed:e9': 121, u'g9:d9:er:74:4d:89': 200, u'g9:d9:er:74:4d:80': 200, u'g9:d9:er:74:4d:81': 200, u'g9:d9:er:74:4d:82': 200, u'g9:d9:er:74:38:c9': 52, u'a0:63:91:de:7d:4a': 195, u'g9:d9:er:74:e9:e0': 73, u'g9:d9:er:74:ee:2b': 82, u'g9:d9:er:74:45:c9': 101, u'g9:d9:er:74:eb:69': 34, u'g9:d9:er:74:ed:ed': 178, u'g9:d9:er:74:ed:ee': 145, u'g9:d9:er:74:ed:eb': 136, u'g9:d9:er:74:3e:09': 193, u'g9:d9:er:74:e7:e0': 22, u'g9:d9:er:74:eb:61': 2, u'g9:d9:er:74:eb:6e': 20, u'g9:d9:er:74:38:cd': 65, u'g9:d9:er:74:38:ce': 54, u'g9:d9:er:74:3e:00': 162, u'g9:d9:er:74:3e:01': 159, u'g9:d9:er:74:3e:02': 157, u'g9:d9:er:74:38:c0': 62, u'g9:d9:er:93:f8:49': 33, u'g9:d9:er:74:e7:ab': 64, u'64:e5:99:64:a9:58': 180, u'g9:d9:er:74:34:a4': 187, u'g9:d9:er:93:f8:42': 4, u'g9:d9:er:74:e7:ae': 63, u'g9:d9:er:74:e7:ad': 77, u'g9:d9:er:74:38:a4': 55, u'g9:d9:er:74:30:cd': 207, u'g9:d9:er:74:30:ce': 163, u'g9:d9:er:74:30:cb': 148, u'g9:d9:er:74:49:82': 2, u'g9:d9:er:74:45:c0': 148, u'g9:d9:er:74:49:80': 2, u'g9:d9:er:74:e7:ee': 19, u'g9:d9:er:74:e7:ed': 12, u'g9:d9:er:74:e6:61': 94, u'g9:d9:er:74:e6:60': 102, u'g9:d9:er:74:e6:62': 97, u'90:9f:33:2c:cb:bc': 49, u'g9:d9:er:74:e9:e2': 66, u'43:26:66:1e:6b:a0': 156, u'g9:f2:6d:a9:05:1d': 199, u'g9:d9:er:74:34:c2': 187, u'g9:d9:er:74:38:cb': 58, u'g9:d9:er:74:fe:a2': 111, u'g9:d9:er:74:fe:a0': 113, u'g9:d9:er:74:fe:a1': 110, u'a0:63:91:de:7d:49': 200, u'g9:d9:er:74:fe:a9': 142, u'g9:d9:er:74:e7:eb': 2, u'g9:d9:er:74:eb:62': 2, u'g9:d9:er:74:48:8d': 2, u'g9:d9:er:74:45:cd': 168, u'g9:d9:er:74:45:ce': 155, u'g9:d9:er:74:30:c2': 168, u'g9:d9:er:74:49:8b': 2, u'g9:d9:er:74:30:c0': 175, u'g9:d9:er:74:e6:6e': 92, u'g9:d9:er:74:e6:6d': 87, u'g9:d9:er:74:e7:e2': 5, u'g9:d9:er:74:e7:e1': 5, u'g9:d9:er:74:30:c9': 134, u'g9:d9:er:74:fe:ad': 175, u'g9:d9:er:74:fe:ae': 144, u'g9:d9:er:74:fe:ab': 141, u'43:1d:43:10:4c:05': 46}
+[u'g9:d9:er:74:f6:eb', u'g9:d9:er:74:f6:ee', u'g9:d9:er:74:f6:ed', u'g9:d9:er:74:45:a4', u'g9:d9:er:74:48:80', u'g9:d9:er:74:02:cb', u'g9:d9:er:74:e9:ee', u'0c:d2:92:51:4f:0f', u'g9:d9:er:74:eb:6b', u'g9:d9:er:95:a0:49', u'g9:d9:er:74:43:8b', u'g9:d9:er:74:46:4b', u'g9:d9:er:74:45:cb', u'g9:d9:er:74:e9:ed', u'g9:d9:er:74:e9:e9', u'g9:d9:er:93:fa:49', u'g9:d9:er:74:f6:e2', u'g9:d9:er:74:f6:e1', u'g9:d9:er:74:f6:e0', u'g9:d9:er:74:30:a4', u'g9:d9:er:74:f6:e9', u'g9:d9:er:74:eb:60', u'g9:d9:er:93:ff:00', u'g9:d9:er:95:01:e0', u'g9:d9:er:74:ee:2d', u'g9:d9:er:74:ee:2e', u'g9:d9:er:95:01:e9', u'04:8d:38:06:4e:18', u'g9:d9:er:93:f8:40', u'90:9f:33:2c:d3:00', u'g9:d9:er:95:01:6b', u'g9:d9:er:74:34:cb', u'g9:d9:er:74:48:89', u'g9:d9:er:74:34:cd', u'g9:d9:er:74:34:ce', u'g9:d9:er:74:3f:0b', u'g9:d9:er:74:3f:0e', u'g9:d9:er:74:3f:0d', u'g9:d9:er:93:7d:ab', u'ac:5a:14:2f:2d:19', u'g9:d9:er:74:46:4d', u'g9:d9:er:74:46:4e', u'g9:d9:er:74:43:8e', u'g9:d9:er:74:43:8d', u'g9:d9:er:74:ea:6d', u'g9:d9:er:74:ea:6e', u'g9:d9:er:74:ea:6b', u'g9:f2:6d:a8:e7:af', u'g9:d9:er:95:01:eb', u'g9:d9:er:93:ff:0b', u'g9:d9:er:93:ff:0e', u'g9:d9:er:74:ee:29', u'g9:d9:er:95:01:ee', u'g9:d9:er:95:01:ed', u'g9:d9:er:74:45:c2', u'g9:d9:er:74:ee:20', u'g9:d9:er:74:ee:21', u'g9:d9:er:74:ee:22', u'g9:d9:er:74:43:81', u'g9:d9:er:74:43:80', u'g9:d9:er:74:43:82', u'g9:d9:er:74:46:42', u'g9:d9:er:74:ea:69', u'g9:d9:er:74:46:40', u'g9:d9:er:74:46:41', u'g9:d9:er:74:43:89', u'g9:d9:er:74:ea:60', u'g9:d9:er:74:ea:61', u'g9:d9:er:74:ea:62', u'g9:d9:er:74:46:49', u'g9:d9:er:74:3f:09', u'g9:d9:er:74:34:c0', u'g9:d9:er:93:f8:41', u'g9:d9:er:74:e9:eb', u'g9:d9:er:74:e7:a2', u'g9:d9:er:74:3f:01', u'g9:d9:er:74:3f:00', u'g9:d9:er:74:3f:02', u'64:09:80:28:c8:52', u'g9:d9:er:93:f8:4e', u'g9:d9:er:74:48:8b', u'g9:d9:er:93:ff:0d', u'g9:d9:er:93:f8:4d', u'g9:d9:er:74:e7:e9', u'90:9f:33:6f:82:a6', u'90:9f:33:62:ba:bc', u'90:9f:33:62:ba:be', u'g9:d9:er:74:e6:69', u'g9:d9:er:74:4d:8b', u'g9:d9:er:74:4d:8d', u'g9:d9:er:74:4d:8e', u'64:e5:99:64:a9:5c', u'g9:d9:er:74:e7:a9', u'g9:d9:er:74:34:c9', u'43:1d:43:30:45:69', u'g9:d9:er:74:e7:a1', u'g9:d9:er:74:e7:a0', u'g9:d9:er:93:f8:4b', u'g9:d9:er:93:ff:09', u'g9:d9:er:74:ed:e2', u'g9:d9:er:74:ed:e0', u'g9:d9:er:74:ed:e1', u'g9:d9:er:74:3e:0d', u'g9:d9:er:74:3e:0e', u'g9:d9:er:74:e9:e1', u'g9:d9:er:74:e6:6b', u'g9:d9:er:74:38:c2', u'g9:d9:er:74:eb:6d', u'g9:d9:er:74:3e:0b', u'g9:d9:er:74:ed:e9', u'g9:d9:er:74:4d:89', u'g9:d9:er:74:4d:80', u'g9:d9:er:74:4d:81', u'g9:d9:er:74:4d:82', u'g9:d9:er:74:38:c9', u'a0:63:91:de:7d:4a', u'g9:d9:er:74:e9:e0', u'g9:d9:er:74:ee:2b', u'g9:d9:er:74:45:c9', u'g9:d9:er:74:eb:69', u'g9:d9:er:74:ed:ed', u'g9:d9:er:74:ed:ee', u'g9:d9:er:74:ed:eb', u'g9:d9:er:74:3e:09', u'g9:d9:er:74:e7:e0', u'g9:d9:er:74:eb:61', u'g9:d9:er:74:eb:6e', u'g9:d9:er:74:38:cd', u'g9:d9:er:74:38:ce', u'g9:d9:er:74:3e:00', u'g9:d9:er:74:3e:01', u'g9:d9:er:74:3e:02', u'g9:d9:er:74:38:c0', u'g9:d9:er:93:f8:49', u'g9:d9:er:74:e7:ab', u'64:e5:99:64:a9:58', u'g9:d9:er:74:34:a4', u'g9:d9:er:93:f8:42', u'g9:d9:er:74:e7:ae', u'g9:d9:er:74:e7:ad', u'g9:d9:er:74:38:a4', u'g9:d9:er:74:30:cd', u'g9:d9:er:74:30:ce', u'g9:d9:er:74:30:cb', u'g9:d9:er:74:49:82', u'g9:d9:er:74:45:c0', u'g9:d9:er:74:49:80', u'g9:d9:er:74:e7:ee', u'g9:d9:er:74:e7:ed', u'g9:d9:er:74:e6:61', u'g9:d9:er:74:e6:60', u'g9:d9:er:74:e6:62', u'90:9f:33:2c:cb:bc', u'g9:d9:er:74:e9:e2', u'43:26:66:1e:6b:a0', u'g9:f2:6d:a9:05:1d', u'g9:d9:er:74:34:c2', u'g9:d9:er:74:38:cb', u'g9:d9:er:74:fe:a2', u'g9:d9:er:74:fe:a0', u'g9:d9:er:74:fe:a1', u'a0:63:91:de:7d:49', u'g9:d9:er:74:fe:a9', u'g9:d9:er:74:e7:eb', u'g9:d9:er:74:eb:62', u'g9:d9:er:74:48:8d', u'g9:d9:er:74:45:cd', u'g9:d9:er:74:45:ce', u'g9:d9:er:74:30:c2', u'g9:d9:er:74:49:8b', u'g9:d9:er:74:30:c0', u'g9:d9:er:74:e6:6e', u'g9:d9:er:74:e6:6d', u'g9:d9:er:74:e7:e2', u'g9:d9:er:74:e7:e1', u'g9:d9:er:74:30:c9', u'g9:d9:er:74:fe:ad', u'g9:d9:er:74:fe:ae', u'g9:d9:er:74:fe:ab', u'43:1d:43:10:4c:05']
+160
+160
+40
+40
+origin :  Azone  predicted :  Bzone
+origin :  Azone  predicted :  Bzone
+origin :  Azone  predicted :  Azone
+origin :  Azone  predicted :  Bzone
+origin :  Azone  predicted :  Bzone
+origin :  Azone  predicted :  Azone
+origin :  Azone  predicted :  Bzone
+origin :  Azone  predicted :  Azone
+origin :  Azone  predicted :  Azone
+origin :  Azone  predicted :  Azone
+origin :  Bzone  predicted :  Bzone
+origin :  Bzone  predicted :  Bzone
+origin :  Bzone  predicted :  Bzone
+origin :  Bzone  predicted :  Bzone
+origin :  Bzone  predicted :  Bzone
+origin :  Bzone  predicted :  Bzone
+origin :  Bzone  predicted :  Bzone
+origin :  Bzone  predicted :  Bzone
+origin :  Bzone  predicted :  Azone
+origin :  Bzone  predicted :  Azone
+origin :  Czone  predicted :  Czone
+origin :  Czone  predicted :  Czone
+origin :  Czone  predicted :  Czone
+origin :  Czone  predicted :  Czone
+origin :  Czone  predicted :  Czone
+origin :  Czone  predicted :  Czone
+origin :  Czone  predicted :  Czone
+origin :  Czone  predicted :  Czone
+origin :  Czone  predicted :  Czone
+origin :  Czone  predicted :  Czone
+origin :  Dzone  predicted :  Dzone
+origin :  Dzone  predicted :  Dzone
+origin :  Dzone  predicted :  Dzone
+origin :  Dzone  predicted :  Dzone
+origin :  Dzone  predicted :  Dzone
+origin :  Dzone  predicted :  Dzone
+origin :  Dzone  predicted :  Dzone
+origin :  Dzone  predicted :  Dzone
+origin :  Dzone  predicted :  Dzone
+origin :  Dzone  predicted :  Dzone
+T: 2016-05-15 16:39:30 #56 Log
+200
+Azone 68
+Azone 91
+Azone 81
+Azone 73
+Azone 88
+Azone 95
+Azone 96
+Azone 100
+Azone 94
+Azone 96
+Azone 97
+Azone 97
+Azone 91
+Azone 92
+Azone 101
+Azone 94
+Azone 91
+Azone 91
+Azone 97
+Azone 89
+Azone 89
+Azone 85
+Azone 85
+Azone 86
+Azone 88
+Azone 88
+Azone 92
+Azone 94
+Azone 92
+Azone 98
+Azone 100
+Azone 95
+Azone 94
+Azone 100
+Azone 98
+Azone 100
+Azone 104
+Azone 100
+Azone 101
+Azone 98
+Azone 91
+Azone 85
+Azone 100
+Azone 98
+Azone 87
+Azone 88
+Azone 91
+Azone 95
+Azone 89
+Azone 95
+Bzone 80
+Bzone 100
+Bzone 100
+Bzone 96
+Bzone 92
+Bzone 94
+Bzone 97
+Bzone 104
+Bzone 88
+Bzone 89
+Bzone 90
+Bzone 87
+Bzone 82
+Bzone 84
+Bzone 84
+Bzone 85
+Bzone 84
+Bzone 92
+Bzone 96
+Bzone 98
+Bzone 92
+Bzone 98
+Bzone 96
+Bzone 89
+Bzone 94
+Bzone 83
+Bzone 100
+Bzone 96
+Bzone 97
+Bzone 90
+Bzone 86
+Bzone 87
+Bzone 97
+Bzone 95
+Bzone 101
+Bzone 89
+Bzone 87
+Bzone 90
+Bzone 89
+Bzone 86
+Bzone 88
+Bzone 90
+Bzone 86
+Bzone 96
+Bzone 99
+Bzone 96
+Bzone 92
+Bzone 94
+Bzone 105
+Bzone 93
+Czone 84
+Czone 93
+Czone 98
+Czone 100
+Czone 101
+Czone 94
+Czone 86
+Czone 97
+Czone 101
+Czone 100
+Czone 112
+Czone 94
+Czone 94
+Czone 97
+Czone 92
+Czone 90
+Czone 101
+Czone 102
+Czone 106
+Czone 94
+Czone 104
+Czone 85
+Czone 87
+Czone 100
+Czone 103
+Czone 106
+Czone 94
+Czone 94
+Czone 96
+Czone 91
+Czone 88
+Czone 108
+Czone 105
+Czone 91
+Czone 98
+Czone 106
+Czone 97
+Czone 97
+Czone 106
+Czone 106
+Czone 94
+Czone 97
+Czone 99
+Czone 98
+Czone 108
+Czone 109
+Czone 98
+Czone 91
+Czone 103
+Czone 94
+Dzone 73
+Dzone 91
+Dzone 94
+Dzone 89
+Dzone 94
+Dzone 96
+Dzone 92
+Dzone 81
+Dzone 78
+Dzone 87
+Dzone 90
+Dzone 95
+Dzone 98
+Dzone 87
+Dzone 88
+Dzone 95
+Dzone 88
+Dzone 82
+Dzone 77
+Dzone 85
+Dzone 91
+Dzone 87
+Dzone 91
+Dzone 83
+Dzone 84
+Dzone 85
+Dzone 84
+Dzone 86
+Dzone 88
+Dzone 87
+Dzone 88
+Dzone 93
+Dzone 93
+Dzone 99
+Dzone 89
+Dzone 89
+Dzone 82
+Dzone 90
+Dzone 92
+Dzone 92
+Dzone 92
+Dzone 86
+Dzone 85
+Dzone 90
+Dzone 83
+Dzone 83
+Dzone 92
+Dzone 96
+Dzone 89
+Dzone 89
+{u'g9:d9:er:74:f6:eb': 39, u'g9:d9:er:74:f6:ee': 43, u'g9:d9:er:74:f6:ed': 44, u'g9:d9:er:74:45:a4': 146, u'g9:d9:er:74:48:80': 2, u'g9:d9:er:74:02:cb': 2, u'g9:d9:er:74:e9:ee': 86, u'0c:d2:92:51:4f:0f': 109, u'g9:d9:er:74:eb:6b': 37, u'g9:d9:er:95:a0:49': 2, u'g9:d9:er:74:43:8b': 128, u'g9:d9:er:74:46:4b': 199, u'g9:d9:er:74:45:cb': 124, u'g9:d9:er:74:e9:ed': 107, u'g9:d9:er:74:e9:e9': 78, u'g9:d9:er:93:fa:49': 2, u'g9:d9:er:74:f6:e2': 22, u'g9:d9:er:74:f6:e1': 22, u'g9:d9:er:74:f6:e0': 45, u'g9:d9:er:74:30:a4': 166, u'g9:d9:er:74:f6:e9': 53, u'g9:d9:er:74:eb:60': 6, u'g9:d9:er:93:ff:00': 4, u'g9:d9:er:95:01:e0': 8, u'g9:d9:er:74:ee:2d': 118, u'g9:d9:er:74:ee:2e': 122, u'g9:d9:er:95:01:e9': 2, u'04:8d:38:06:4e:18': 138, u'g9:d9:er:93:f8:40': 11, u'90:9f:33:2c:d3:00': 84, u'g9:d9:er:95:01:6b': 2, u'g9:d9:er:74:34:cb': 196, u'g9:d9:er:74:48:89': 2, u'g9:d9:er:74:34:cd': 296, u'g9:d9:er:74:34:ce': 196, u'g9:d9:er:74:3f:0b': 194, u'g9:d9:er:74:3f:0e': 200, u'g9:d9:er:74:3f:0d': 281, u'g9:d9:er:93:7d:ab': 2, u'ac:5a:14:2f:2d:19': 105, u'g9:d9:er:74:46:4d': 281, u'g9:d9:er:74:46:4e': 199, u'g9:d9:er:74:43:8e': 149, u'g9:d9:er:74:43:8d': 188, u'g9:d9:er:74:ea:6d': 93, u'g9:d9:er:74:ea:6e': 70, u'g9:d9:er:74:ea:6b': 80, u'g9:f2:6d:a8:e7:af': 200, u'g9:d9:er:95:01:eb': 6, u'g9:d9:er:93:ff:0b': 6, u'g9:d9:er:93:ff:0e': 6, u'g9:d9:er:74:ee:29': 72, u'g9:d9:er:95:01:ee': 2, u'g9:d9:er:95:01:ed': 8, u'g9:d9:er:74:45:c2': 144, u'g9:d9:er:74:ee:20': 104, u'g9:d9:er:74:ee:21': 104, u'g9:d9:er:74:ee:22': 105, u'g9:d9:er:74:43:81': 149, u'g9:d9:er:74:43:80': 163, u'g9:d9:er:74:43:82': 149, u'g9:d9:er:74:46:42': 198, u'g9:d9:er:74:ea:69': 99, u'g9:d9:er:74:46:40': 200, u'g9:d9:er:74:46:41': 200, u'g9:d9:er:74:43:89': 119, u'g9:d9:er:74:ea:60': 76, u'g9:d9:er:74:ea:61': 52, u'g9:d9:er:74:ea:62': 54, u'g9:d9:er:74:46:49': 198, u'g9:d9:er:74:3f:09': 191, u'g9:d9:er:74:34:c0': 191, u'g9:d9:er:93:f8:41': 4, u'g9:d9:er:74:e9:eb': 81, u'g9:d9:er:74:e7:a2': 31, u'g9:d9:er:74:3f:01': 200, u'g9:d9:er:74:3f:00': 200, u'g9:d9:er:74:3f:02': 200, u'64:09:80:28:c8:52': 96, u'g9:d9:er:93:f8:4e': 31, u'g9:d9:er:74:48:8b': 2, u'g9:d9:er:93:ff:0d': 4, u'g9:d9:er:93:f8:4d': 43, u'g9:d9:er:74:e7:e9': 6, u'90:9f:33:6f:82:a6': 61, u'90:9f:33:62:ba:bc': 181, u'90:9f:33:62:ba:be': 200, u'g9:d9:er:74:e6:69': 42, u'g9:d9:er:74:4d:8b': 200, u'g9:d9:er:74:4d:8d': 310, u'g9:d9:er:74:4d:8e': 200, u'64:e5:99:64:a9:5c': 142, u'g9:d9:er:74:e7:a9': 62, u'g9:d9:er:74:34:c9': 200, u'43:1d:43:30:45:69': 118, u'g9:d9:er:74:e7:a1': 27, u'g9:d9:er:74:e7:a0': 58, u'g9:d9:er:93:f8:4b': 38, u'g9:d9:er:93:ff:09': 1, u'g9:d9:er:74:ed:e2': 89, u'g9:d9:er:74:ed:e0': 96, u'g9:d9:er:74:ed:e1': 91, u'g9:d9:er:74:3e:0d': 269, u'g9:d9:er:74:3e:0e': 197, u'g9:d9:er:74:e9:e1': 67, u'g9:d9:er:74:e6:6b': 66, u'g9:d9:er:74:38:c2': 55, u'g9:d9:er:74:eb:6d': 34, u'g9:d9:er:74:3e:0b': 193, u'g9:d9:er:74:ed:e9': 121, u'g9:d9:er:74:4d:89': 200, u'g9:d9:er:74:4d:80': 200, u'g9:d9:er:74:4d:81': 200, u'g9:d9:er:74:4d:82': 200, u'g9:d9:er:74:38:c9': 52, u'a0:63:91:de:7d:4a': 195, u'g9:d9:er:74:e9:e0': 73, u'g9:d9:er:74:ee:2b': 82, u'g9:d9:er:74:45:c9': 101, u'g9:d9:er:74:eb:69': 34, u'g9:d9:er:74:ed:ed': 178, u'g9:d9:er:74:ed:ee': 145, u'g9:d9:er:74:ed:eb': 136, u'g9:d9:er:74:3e:09': 193, u'g9:d9:er:74:e7:e0': 22, u'g9:d9:er:74:eb:61': 2, u'g9:d9:er:74:eb:6e': 20, u'g9:d9:er:74:38:cd': 65, u'g9:d9:er:74:38:ce': 54, u'g9:d9:er:74:3e:00': 162, u'g9:d9:er:74:3e:01': 159, u'g9:d9:er:74:3e:02': 157, u'g9:d9:er:74:38:c0': 62, u'g9:d9:er:93:f8:49': 33, u'g9:d9:er:74:e7:ab': 64, u'64:e5:99:64:a9:58': 180, u'g9:d9:er:74:34:a4': 187, u'g9:d9:er:93:f8:42': 4, u'g9:d9:er:74:e7:ae': 63, u'g9:d9:er:74:e7:ad': 77, u'g9:d9:er:74:38:a4': 55, u'g9:d9:er:74:30:cd': 207, u'g9:d9:er:74:30:ce': 163, u'g9:d9:er:74:30:cb': 148, u'g9:d9:er:74:49:82': 2, u'g9:d9:er:74:45:c0': 148, u'g9:d9:er:74:49:80': 2, u'g9:d9:er:74:e7:ee': 19, u'g9:d9:er:74:e7:ed': 12, u'g9:d9:er:74:e6:61': 94, u'g9:d9:er:74:e6:60': 102, u'g9:d9:er:74:e6:62': 97, u'90:9f:33:2c:cb:bc': 49, u'g9:d9:er:74:e9:e2': 66, u'43:26:66:1e:6b:a0': 156, u'g9:f2:6d:a9:05:1d': 199, u'g9:d9:er:74:34:c2': 187, u'g9:d9:er:74:38:cb': 58, u'g9:d9:er:74:fe:a2': 111, u'g9:d9:er:74:fe:a0': 113, u'g9:d9:er:74:fe:a1': 110, u'a0:63:91:de:7d:49': 200, u'g9:d9:er:74:fe:a9': 142, u'g9:d9:er:74:e7:eb': 2, u'g9:d9:er:74:eb:62': 2, u'g9:d9:er:74:48:8d': 2, u'g9:d9:er:74:45:cd': 168, u'g9:d9:er:74:45:ce': 155, u'g9:d9:er:74:30:c2': 168, u'g9:d9:er:74:49:8b': 2, u'g9:d9:er:74:30:c0': 175, u'g9:d9:er:74:e6:6e': 92, u'g9:d9:er:74:e6:6d': 87, u'g9:d9:er:74:e7:e2': 5, u'g9:d9:er:74:e7:e1': 5, u'g9:d9:er:74:30:c9': 134, u'g9:d9:er:74:fe:ad': 175, u'g9:d9:er:74:fe:ae': 144, u'g9:d9:er:74:fe:ab': 141, u'43:1d:43:10:4c:05': 46}
+[u'g9:d9:er:74:f6:eb', u'g9:d9:er:74:f6:ee', u'g9:d9:er:74:f6:ed', u'g9:d9:er:74:45:a4', u'g9:d9:er:74:48:80', u'g9:d9:er:74:02:cb', u'g9:d9:er:74:e9:ee', u'0c:d2:92:51:4f:0f', u'g9:d9:er:74:eb:6b', u'g9:d9:er:95:a0:49', u'g9:d9:er:74:43:8b', u'g9:d9:er:74:46:4b', u'g9:d9:er:74:45:cb', u'g9:d9:er:74:e9:ed', u'g9:d9:er:74:e9:e9', u'g9:d9:er:93:fa:49', u'g9:d9:er:74:f6:e2', u'g9:d9:er:74:f6:e1', u'g9:d9:er:74:f6:e0', u'g9:d9:er:74:30:a4', u'g9:d9:er:74:f6:e9', u'g9:d9:er:74:eb:60', u'g9:d9:er:93:ff:00', u'g9:d9:er:95:01:e0', u'g9:d9:er:74:ee:2d', u'g9:d9:er:74:ee:2e', u'g9:d9:er:95:01:e9', u'04:8d:38:06:4e:18', u'g9:d9:er:93:f8:40', u'90:9f:33:2c:d3:00', u'g9:d9:er:95:01:6b', u'g9:d9:er:74:34:cb', u'g9:d9:er:74:48:89', u'g9:d9:er:74:34:cd', u'g9:d9:er:74:34:ce', u'g9:d9:er:74:3f:0b', u'g9:d9:er:74:3f:0e', u'g9:d9:er:74:3f:0d', u'g9:d9:er:93:7d:ab', u'ac:5a:14:2f:2d:19', u'g9:d9:er:74:46:4d', u'g9:d9:er:74:46:4e', u'g9:d9:er:74:43:8e', u'g9:d9:er:74:43:8d', u'g9:d9:er:74:ea:6d', u'g9:d9:er:74:ea:6e', u'g9:d9:er:74:ea:6b', u'g9:f2:6d:a8:e7:af', u'g9:d9:er:95:01:eb', u'g9:d9:er:93:ff:0b', u'g9:d9:er:93:ff:0e', u'g9:d9:er:74:ee:29', u'g9:d9:er:95:01:ee', u'g9:d9:er:95:01:ed', u'g9:d9:er:74:45:c2', u'g9:d9:er:74:ee:20', u'g9:d9:er:74:ee:21', u'g9:d9:er:74:ee:22', u'g9:d9:er:74:43:81', u'g9:d9:er:74:43:80', u'g9:d9:er:74:43:82', u'g9:d9:er:74:46:42', u'g9:d9:er:74:ea:69', u'g9:d9:er:74:46:40', u'g9:d9:er:74:46:41', u'g9:d9:er:74:43:89', u'g9:d9:er:74:ea:60', u'g9:d9:er:74:ea:61', u'g9:d9:er:74:ea:62', u'g9:d9:er:74:46:49', u'g9:d9:er:74:3f:09', u'g9:d9:er:74:34:c0', u'g9:d9:er:93:f8:41', u'g9:d9:er:74:e9:eb', u'g9:d9:er:74:e7:a2', u'g9:d9:er:74:3f:01', u'g9:d9:er:74:3f:00', u'g9:d9:er:74:3f:02', u'64:09:80:28:c8:52', u'g9:d9:er:93:f8:4e', u'g9:d9:er:74:48:8b', u'g9:d9:er:93:ff:0d', u'g9:d9:er:93:f8:4d', u'g9:d9:er:74:e7:e9', u'90:9f:33:6f:82:a6', u'90:9f:33:62:ba:bc', u'90:9f:33:62:ba:be', u'g9:d9:er:74:e6:69', u'g9:d9:er:74:4d:8b', u'g9:d9:er:74:4d:8d', u'g9:d9:er:74:4d:8e', u'64:e5:99:64:a9:5c', u'g9:d9:er:74:e7:a9', u'g9:d9:er:74:34:c9', u'43:1d:43:30:45:69', u'g9:d9:er:74:e7:a1', u'g9:d9:er:74:e7:a0', u'g9:d9:er:93:f8:4b', u'g9:d9:er:93:ff:09', u'g9:d9:er:74:ed:e2', u'g9:d9:er:74:ed:e0', u'g9:d9:er:74:ed:e1', u'g9:d9:er:74:3e:0d', u'g9:d9:er:74:3e:0e', u'g9:d9:er:74:e9:e1', u'g9:d9:er:74:e6:6b', u'g9:d9:er:74:38:c2', u'g9:d9:er:74:eb:6d', u'g9:d9:er:74:3e:0b', u'g9:d9:er:74:ed:e9', u'g9:d9:er:74:4d:89', u'g9:d9:er:74:4d:80', u'g9:d9:er:74:4d:81', u'g9:d9:er:74:4d:82', u'g9:d9:er:74:38:c9', u'a0:63:91:de:7d:4a', u'g9:d9:er:74:e9:e0', u'g9:d9:er:74:ee:2b', u'g9:d9:er:74:45:c9', u'g9:d9:er:74:eb:69', u'g9:d9:er:74:ed:ed', u'g9:d9:er:74:ed:ee', u'g9:d9:er:74:ed:eb', u'g9:d9:er:74:3e:09', u'g9:d9:er:74:e7:e0', u'g9:d9:er:74:eb:61', u'g9:d9:er:74:eb:6e', u'g9:d9:er:74:38:cd', u'g9:d9:er:74:38:ce', u'g9:d9:er:74:3e:00', u'g9:d9:er:74:3e:01', u'g9:d9:er:74:3e:02', u'g9:d9:er:74:38:c0', u'g9:d9:er:93:f8:49', u'g9:d9:er:74:e7:ab', u'64:e5:99:64:a9:58', u'g9:d9:er:74:34:a4', u'g9:d9:er:93:f8:42', u'g9:d9:er:74:e7:ae', u'g9:d9:er:74:e7:ad', u'g9:d9:er:74:38:a4', u'g9:d9:er:74:30:cd', u'g9:d9:er:74:30:ce', u'g9:d9:er:74:30:cb', u'g9:d9:er:74:49:82', u'g9:d9:er:74:45:c0', u'g9:d9:er:74:49:80', u'g9:d9:er:74:e7:ee', u'g9:d9:er:74:e7:ed', u'g9:d9:er:74:e6:61', u'g9:d9:er:74:e6:60', u'g9:d9:er:74:e6:62', u'90:9f:33:2c:cb:bc', u'g9:d9:er:74:e9:e2', u'43:26:66:1e:6b:a0', u'g9:f2:6d:a9:05:1d', u'g9:d9:er:74:34:c2', u'g9:d9:er:74:38:cb', u'g9:d9:er:74:fe:a2', u'g9:d9:er:74:fe:a0', u'g9:d9:er:74:fe:a1', u'a0:63:91:de:7d:49', u'g9:d9:er:74:fe:a9', u'g9:d9:er:74:e7:eb', u'g9:d9:er:74:eb:62', u'g9:d9:er:74:48:8d', u'g9:d9:er:74:45:cd', u'g9:d9:er:74:45:ce', u'g9:d9:er:74:30:c2', u'g9:d9:er:74:49:8b', u'g9:d9:er:74:30:c0', u'g9:d9:er:74:e6:6e', u'g9:d9:er:74:e6:6d', u'g9:d9:er:74:e7:e2', u'g9:d9:er:74:e7:e1', u'g9:d9:er:74:30:c9', u'g9:d9:er:74:fe:ad', u'g9:d9:er:74:fe:ae', u'g9:d9:er:74:fe:ab', u'43:1d:43:10:4c:05']
+160
+160
+40
+40
+origin :  Azone  predicted :  Bzone
+origin :  Azone  predicted :  Bzone
+origin :  Azone  predicted :  Azone
+origin :  Azone  predicted :  Bzone
+origin :  Azone  predicted :  Bzone
+origin :  Azone  predicted :  Azone
+origin :  Azone  predicted :  Bzone
+origin :  Azone  predicted :  Azone
+origin :  Azone  predicted :  Azone
+origin :  Azone  predicted :  Azone
+origin :  Bzone  predicted :  Bzone
+origin :  Bzone  predicted :  Bzone
+origin :  Bzone  predicted :  Bzone
+origin :  Bzone  predicted :  Bzone
+origin :  Bzone  predicted :  Bzone
+origin :  Bzone  predicted :  Bzone
+origin :  Bzone  predicted :  Bzone
+origin :  Bzone  predicted :  Bzone
+origin :  Bzone  predicted :  Azone
+origin :  Bzone  predicted :  Azone
+origin :  Czone  predicted :  Czone
+origin :  Czone  predicted :  Czone
+origin :  Czone  predicted :  Czone
+origin :  Czone  predicted :  Czone
+origin :  Czone  predicted :  Czone
+origin :  Czone  predicted :  Czone
+origin :  Czone  predicted :  Czone
+origin :  Czone  predicted :  Czone
+origin :  Czone  predicted :  Czone
+origin :  Czone  predicted :  Czone
+origin :  Dzone  predicted :  Dzone
+origin :  Dzone  predicted :  Dzone
+origin :  Dzone  predicted :  Dzone
+origin :  Dzone  predicted :  Dzone
+origin :  Dzone  predicted :  Dzone
+origin :  Dzone  predicted :  Dzone
+origin :  Dzone  predicted :  Dzone
+origin :  Dzone  predicted :  Dzone
+origin :  Dzone  predicted :  Dzone
+origin :  Dzone  predicted :  Dzone
+Prediction :  82.5
