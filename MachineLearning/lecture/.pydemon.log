@@ -4150,3 +4150,13 @@ origin :  Dzone  predicted :  Dzone
 origin :  Dzone  predicted :  Dzone
 origin :  Dzone  predicted :  Dzone
 Prediction :  82.5
+T: 2016-07-09 20:39:59 #57 Log
+Traceback (most recent call last):
+  File "KNN.py", line 28, in <module>
+    r1 = knn.predict([0.9, 0.9])
+  File "KNN.py", line 11, in predict
+    in_x = np.array(x)
+NameError: global name 'x' is not defined
+T: 2016-07-09 20:40:12 #58 Log
+None
+None
